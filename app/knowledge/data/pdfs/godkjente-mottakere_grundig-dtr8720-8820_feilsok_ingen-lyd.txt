@@ -1,0 +1,12 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/grundig-dtr8720-8820/feilsok/ingen-lyd/
+Tittel: Ingen lyd
+
+- Kundeservice
+- Godkjente mottakere
+- Grundig DTR8720/8820
+- 
+
+Ingen lyd ved bruk av HDMI? Årsaken kan være at Audio modus står i multikanallyd.
+
+Løsning: Trykk Meny - 3 - 3 og velg stereo.
+

@@ -1,0 +1,33 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/smart-boks-iii-pvr/feilsok/problemer-med-fjernkontrollen/
+Tittel: Problemer med fjernkontrollen
+
+- Kundeservice
+- Godkjente mottakere
+- 
+- 
+
+- sjekkliste hvis fjernkontrollen ikke virker
+
+
+## Trinn 1
+Riktig fjernkontroll? Sjekk først at du bruker den rette fjernkontrollen. Ikke bruk TV-fjernkontrollen for å velge TV-kanaler.
+
+
+## Trinn 2
+Sjekk batteriene. Sitter de riktig vei? Prøv med nye batterier.
+
+Du trenger to AAA batterier, og begge skal settes med minus inn i fjernkontrollen.
+
+
+## Trinn 3
+Er fjernkontroll og dekoder koblet sammen? Hvis dekoder ikke reagerer, forsøk dette:
+
+- Rett fjernkontrollen mot dekoder (stå ca 1 meter unna dekoderen) og trykk på Play og OK samtidig til fjernkontrolleren begynner å blinke
+- Mens fjernkontrolleren blinker: hold inne knappen foran på dekoderen i 11 sekunder til den begynner å blinke blått (den vil bli grønn etter 5 sekunder, deretter blå)
+- Hvis fjernkontrolleren ikke blinker lenger, trykker du OK for å fortsette parringen
+- Fjernkontrolleren og dekoderen er nå koblet sammen
+
+
+## Ødelagt?
+Er fjernkontrollen ødelagt, ta kontakt med kundesenteret vårt på chat, så skal vi hjelpe deg med å bestille en ny.
+

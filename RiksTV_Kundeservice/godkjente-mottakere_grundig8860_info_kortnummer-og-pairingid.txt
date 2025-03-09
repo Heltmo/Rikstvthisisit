@@ -1,0 +1,38 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/grundig8860/info/kortnummer-og-pairingid/
+Tittel: Kortnummer og PairingID
+
+- Kundeservice
+- Godkjente mottakere
+- Grundig DTR8860 PVR
+- 
+
+
+## Trinn 1
+Trykk Menu på fjernkontrollen for å åpne menyen. Trykk 4 eller velg "Installasjon". Trykk OK
+
+
+## Trinn 2
+Trykk 5 eller velg "Installasjon". Trykk OK
+
+
+## Trinn 3
+Trykk 4 eller velg "Dekoder valg". Trykk OK
+
+
+## Trinn 4
+Trykk 5 eller velg "Conax Conditional Access". Trykk OK
+
+
+## Trinn 5
+Trykk 1 eller velg ”Conax meny”. Trykk OK
+
+
+## Trinn 6
+Trykk 6 eller marker "Om Conax CA". Trykk OK
+
+
+## Trinn 7
+Kortnummer: 12 siffer.
+
+Pairing ID: "Chip ID" 11 siffer.
+

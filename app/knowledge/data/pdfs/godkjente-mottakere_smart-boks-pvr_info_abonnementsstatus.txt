@@ -1,0 +1,43 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/smart-boks-pvr/info/abonnementsstatus/
+Tittel: Abonnementsstatus, kortnummer og pairing-id
+
+- Kundeservice
+- Godkjente mottakere
+- SMART-boks PVR
+- 
+
+
+## Trinn 1
+Trykk Menu på fjernkontrollen for å åpne menyen.
+
+Velg ”Valg og innstillinger”, benytt sidepiltastene. Trykk OK
+
+
+## Trinn 2
+Velg" Systemvedlikehold" og trykk OK
+
+
+## Abonnementsstatus 1
+Velg "Abonnementsstatus". Trykk OK
+
+
+## Abonnementsstatus 2
+Abonnementsstatussiden skal nå være åpen og se slik ut:
+
+- Dato må vise inneværende måned.
+- Hvis mottakeren ikke har vært i bruk på noen uker må den få oppdaterte tilgangsmeldinger fra RiksTV. Dette skjer automatisk, lå mottaker stå på. Bilde kommer automatisk innen 30 minutter.
+- Rikspakken vil ha tallene 01100002 under Kanalpakker.
+
+
+## Kortnummer og pairing-id 1
+Kommer etter Trinn 2
+
+Marker "Om Conax CA". Trykk OK
+
+
+## Kortnummer og pairing-id 2
+Her vises:
+
+- Kortnummer 12 siffer
+- Chip id (Pairing-id) 11 siffer
+

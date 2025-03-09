@@ -1,0 +1,40 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/humax-cxhd-3000t/info/kortnummer-og-pairingid/
+Tittel: Kortnummer og PairingID
+
+- Kundeservice
+- Godkjente mottakere
+- Humax CXHD-3000T
+- 
+
+
+## Trinn 1
+Trykk Menu på fjernkontrollen for å åpne menyen. Trykk 4 eller velg "Installasjon". Trykk OK
+
+
+## Trinn 2
+Velg "Systeminnstillinger". Trykk OK
+
+
+## Trinn 3
+Tast PIN-kode 1 2 3 4 (dette er standard fabrikkode/PIN-kode).Har du endret PIN-kode, skriver du selvsagt din egen.
+
+
+## Trinn 4
+Velg "Programkort". Trykk OK
+
+
+## Trinn 5
+Velg "Om conax CA". Trykk OK
+
+
+## Trinn 6
+Kortnummer består av 12 siffer. I Dette eksempelet er det "011 8001 0449-6".
+
+Bruk piltast høyre for å komme til side 2 av 2.
+
+
+## Trinn 7
+Pairing ID heter her "Chip id". I dette eksemplet et det "005 0024 3110"
+
+Når du er ferdig, trykk EXIT
+

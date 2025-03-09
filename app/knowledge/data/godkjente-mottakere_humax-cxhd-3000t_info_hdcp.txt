@@ -1,0 +1,30 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/humax-cxhd-3000t/info/hdcp/
+Tittel: HDCP (Digital kopibeskyttelse)
+
+- Kundeservice
+- Godkjente mottakere
+- Humax CXHD-3000T
+- 
+
+
+## Trinn 1
+Trykk Menu på fjernkontrollen for å åpne menyen. Trykk 4 eller velg "Installasjon". Trykk OK
+
+
+## Trinn 2
+Velg "Systeminnstillinger". Trykk OK
+
+
+## Trinn 3
+Tast PIN-kode 1 2 3 4 (dette er standard fabrikkode/PIN-kode).Har du endret PIN-kode, skriver du selvsagt din egen.
+
+
+## Trinn 4
+Velg "Innstillinger for høyoppløsning (HD)". Trykk OK
+
+
+## Trinn 5
+Velg "HDCP". Velg "På" for å se kanaler som har Kopisperre. Velger du "av" får du ikke sett TV-kanaler som sender med HDCP.
+
+Kopisperren går på HDMI-kabelen. Ønsker du å se kanalen kan du bruke SCART-kabel.
+

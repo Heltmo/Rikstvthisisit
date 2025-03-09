@@ -1,0 +1,64 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/internett/smart-boks-i/problem-med-kanaler/mangler-kanaler/
+Tittel: Mangler kanaler
+
+- Kundeservice
+- Virker ikke
+- Internett
+- SMART-boks I
+- Problem med kanaler
+
+Når det mangler enkelte kanaler i kanallisten så er dette tegn på at det er noe i veien med signalene inn til dekoderen.
+
+Da kan det være at du enten ikke har kanalen inkludert i kanalpakken din eller det dekoder har problemer med internettet.
+
+Sjekk gjerne at det ikke er noe feil med nettverket ditt. OBS - SMART-Boks 1 har kun mulighet for kablet internett.
+
+- Alt OK med internett
+
+Er alt korrekt med oppkobling, gjør følgende:
+ 
+
+Ta ut strømkabelen fra nettverksruter.
+Ta ut alle kabler fra dekoder.
+Vent 30 sekunder.
+Koble til strømmen på nettverksruter.
+Vent til nettet er tilbake (Dette kan ta 5 minutter).
+Sett i strømkabel til dekoder igjen og vent 40 sekunder.
+Sett i de resterende kablene.
+La dekoder starte opp før du prøver på nytt.
+- Ta ut strømkabelen fra nettverksruter.
+- Ta ut alle kabler fra dekoder.
+- Vent 30 sekunder.
+- Koble til strømmen på nettverksruter.
+- Vent til nettet er tilbake (Dette kan ta 5 minutter).
+- Sett i strømkabel til dekoder igjen og vent 40 sekunder.
+- Sett i de resterende kablene.
+- La dekoder starte opp før du prøver på nytt.
+- Feil med nettet
+
+Om du opplever problemer med nettet ditt så ta kontakt med din internett leverandør.
+Hvis det var en feil i kablingen som du nå har korrigert, men fortsatt får en feilmelding så gå gjerne tilbake til feilmeldinger eller ta kontakt med oss
+
+
+### Alt OK med internett
+Er alt korrekt med oppkobling, gjør følgende:
+
+- Ta ut strømkabelen fra nettverksruter.
+- Ta ut alle kabler fra dekoder.
+- Vent 30 sekunder.
+- Koble til strømmen på nettverksruter.
+- Vent til nettet er tilbake (Dette kan ta 5 minutter).
+- Sett i strømkabel til dekoder igjen og vent 40 sekunder.
+- Sett i de resterende kablene.
+- La dekoder starte opp før du prøver på nytt.
+
+
+### Feil med nettet
+Om du opplever problemer med nettet ditt så ta kontakt med din internett leverandør.
+
+Hvis det var en feil i kablingen som du nå har korrigert, men fortsatt får en feilmelding så gå gjerne tilbake til feilmeldinger eller ta kontakt med oss
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

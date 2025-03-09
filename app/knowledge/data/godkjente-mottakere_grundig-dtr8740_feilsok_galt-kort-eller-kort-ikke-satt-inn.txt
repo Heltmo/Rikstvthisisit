@@ -1,0 +1,17 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/grundig-dtr8740/feilsok/galt-kort-eller-kort-ikke-satt-inn/
+Tittel: Galt kort eller kort ikke satt inn
+
+- Kundeservice
+- Godkjente mottakere
+- Grundig DTR8740
+- 
+
+
+## 1
+Feilmeldingen vises dersom:
+
+- Det ikke er RiksTV programkort
+- Programkortet står feil vei i mottakeren
+
+Står RiksTV-kortet med "gullbrikken" ned og inn i mottakeren?Hvis ja: Fjern smuss fra gullbrikken og sett kortet inn på nytt.Fremdeles problemer:Forsøk å sette kortet i en annen mottaker registrert på samme kundebilde.Ved fortsatt problemer må man bestille nytt kort.
+

@@ -1,0 +1,35 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/thomson-dti2012-hd/signal/signalsjekk/
+Tittel: Signalsjekk
+
+- Kundeservice
+- Godkjente mottakere
+- Thomson DTI2012 HD
+- 
+
+Slik sjekker du kvalitet på signalet
+
+
+## Trinn 1
+Trykk Menu på fjernkontrollen for å åpne menyen.
+
+
+## Trinn 2
+Velg "Informasjon". Trykk OK
+
+
+## Trinn 3
+Velg "Signalkvalitet". Trykk OK
+
+
+## Trinn 4
+Signalmeteret åpner seg på den kanalfrekvensen som den TV-kanalen man stod på.
+
+Det er fem ulike kanaler (frekvenser) som må sjekkes for adressen din og disse finner du i dekningskartet.
+
+Slik bør det se ut:
+
+- Kvalitet må være stabilt på 100%
+- Signalstyrke bør være høyere enn 30%
+
+Ønsker du å legge inn frekvens - bruk manuelt kanalsøk.
+

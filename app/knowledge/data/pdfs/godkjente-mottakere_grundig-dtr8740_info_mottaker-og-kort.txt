@@ -1,0 +1,30 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/grundig-dtr8740/info/mottaker-og-kort/
+Tittel: Mottaker og kort
+
+- Kundeservice
+- Godkjente mottakere
+- Grundig DTR8740
+- 
+
+
+## Front-panel
+
+## Kort
+Kortleseren er på høyre side."Gullbrikken" skal være ned og inn.
+
+
+## Lysdioder
+"Display" viser klokke i standby og programnummer når den er på.
+
+"Power"-ikon: Lyser rødt når mottaker er i standby (hvilemodus) og grønt når den er på.
+
+Error: Lyser rødt når
+
+- Programkortet står ikke i mottakeren
+- Programkortet har ikke tilgang til å vise bilde for valgte kanal.
+- Det er manglende signal
+
+Radio: Lyser grønt når radio er valgt
+
+
+## Bak-panel

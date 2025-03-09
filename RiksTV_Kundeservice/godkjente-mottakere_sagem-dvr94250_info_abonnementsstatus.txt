@@ -1,0 +1,26 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/sagem-dvr94250/info/abonnementsstatus/
+Tittel: Abbonementsstatus
+
+- Kundeservice
+- Godkjente mottakere
+- Sagem DTR94250
+- 
+
+- hvordan lese ut abonnementsstatus.
+
+
+## Trinn 1
+Trykk Meny. Trykk pil opp to ganger til I (i-symbolet) er markert og det står "Teknisk informasjon" nede til høyre. Trykk OK
+
+
+## Trinn 2
+Marker "Betinget tilganginformasjon". Trykk OK
+
+
+## Trinn 3
+Marker "Abonnementsstatus". Trykk OK
+
+
+## Trinn 4
+Abonnementsstatussiden skal nå være åpen og se slik ut.
+

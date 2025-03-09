@@ -1,0 +1,34 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/strong-srt8910/kanal/manuelt-kanalsok/
+Tittel: Manuelt kanalsøk
+
+- Kundeservice
+- Godkjente mottakere
+- Strong SRT8910
+- 
+
+
+## Trinn 1
+Trykk Menu på fjernkontrollen for å åpne menyen.
+
+
+## Trinn 2
+Velg "Installasjon" og trykk OK
+
+
+## Trinn 3
+Velg "Kanaloppsett". Trykk OK
+
+
+## Trinn 4
+Signalstyrke vises for den kanalen du stod på da du trykket Menu. Tast ønsket kanalfrekvens.Trykk Gul for manuelt søk.
+
+Ved manglende signal: Sjekk tilkoblingene. Er antennekabelen tilkoblet mottakeren?Sjekk også senderstatus. Det kan være arbeid eller feil på senderen.
+
+
+## Trinn 5
+Søker...
+
+
+## Trinn 6
+Etter søk går mottaker tilbake til "Kanaloppsett".Trykk Exit til du er ute av menyen.
+

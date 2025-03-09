@@ -1,0 +1,24 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/internett/smart-boks-ii/underholdningsportalen/bildet-hakker/
+Tittel: Bildet hakker
+
+- Kundeservice
+- Virker ikke
+- Internett
+- SMART-Boks II
+- Underholdningsportalen
+
+Dette tyder på at dekoder opplever problemer med internett tilkoblingen.
+
+Vi anbefaler at du benytter deg av en nettverkskabel fra ruter til dekoder for å koble til internett. Dette er for å sikre en mer stabil nettverkslinje til dekoder.
+
+Bruker du mobilt bredbånd eller trådløs tilkobling, så kan dette ofte gi en ustabil tilkobling.
+
+Du må først sjekke:
+
+- At internett fungerer på andre enheter hjemme hos deg som f.eks. mobil eller PC.
+- At det ikke er noe skader på nettverkskabel som går fra ruter til dekoder.
+
+Fungerer internett på andre enheter så anbefaler vi en superstrømløs.
+
+Hvis internett ikke fungerer på andre enheter, så anbefaler vi at du kontakter din nettverksleverandør for videre feilsøk.
+

@@ -1,0 +1,23 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/grundig-dtr8720-8820/feilsok/intet-signal-funnet/
+Tittel: Intet signal funnet
+
+- Kundeservice
+- Godkjente mottakere
+- Grundig DTR8720/8820
+- 
+
+
+## Dårlig signal
+Teller ned fra 2 minutter
+
+
+## Bilde 2
+
+## Feilsøk
+- Sjekk om mottakeren er tilkoblet antennen. Sitter hannpluggen i mottakeren?
+- Anbefalt antenne er en retningsbestemt UHF-antenne som er montert ute, pekende mot senderen.
+- Bildet ble borte nå, sjekk senderstatus. Det kan være arbeid eller feil på senderen.
+- Har mottakeren byttet lokasjon? Eksempelvis flyttet til hytta. Da må kanalene søkes opp på nytt, se automatisk kanalsøk.
+- Sjekk om de riktige frekvensene benyttes. Informasjon om frekvensene finner du i dekningskartet. Sammenligne frekvensene, benyttes feil frekvenser? Sjekk programvareversjon, eldre versjoner kunne benytte feil frekvenser.
+- Benytter du fellesantenne i bygård/sameie eller lignende ta kontakt med drifts-, antenneansvarlig/vaktmester for sjekk av antenneanlegget. Strømmen kan ha gått der antennesentral eller forsterker står plassert. Eller det kan være feil på utstyr.
+

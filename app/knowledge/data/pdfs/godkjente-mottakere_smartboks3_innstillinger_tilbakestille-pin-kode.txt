@@ -1,0 +1,32 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/smartboks3/innstillinger/tilbakestille-pin-kode/
+Tittel: Tilbakestille PIN-kode
+
+- Kundeservice
+- Godkjente mottakere
+- SMART-boks III
+- 
+
+
+## Trinn 1
+Trykk Husknappen på fjernkontrollen for å åpne menyen.
+
+Velg tannhjulet helt til venstre og trykk OK. Du kommer nå inn i menyen "Innstillinger".
+
+
+## Trinn 2
+Velg "Foreldrekontroll" med piltastene og trykk OK
+
+
+## Trinn 3
+Tast de tre 4-siffrede kodene etterhverandre:
+
+8739 5551 7002
+
+
+## Trinn 4
+Koden er nå tilbakestilt til 1234.
+
+Du kan endre til ønsket PIN-kode under “Endre PIN-kode” (Husk da at “Gammel PIN” nå er 1234)
+
+Trykk X for å gå tilbake til TV.
+

@@ -1,0 +1,31 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/smart-boks-pvr/info/sikkerhetsinstruksjoner/
+Tittel: Sikkerhetsinstruksjoner
+
+- Kundeservice
+- Godkjente mottakere
+- SMART-boks PVR
+- 
+
+Du risikerer alvorlig og mulig livsfarlig elektrisk støt hvis du tar av dekselet på mottakeren.
+
+Denne mottakeren er laget for å innfri de internasjonale sikkerhetsstandardene.
+
+
+## Les følgende anbefalte forholdsregler nøye:
+- Mottakeren har en ekstern strømforsyning som støtter inngangsspenning på 95 til 240 V 50/60 Hz. Ikke overbelast stikkontakter, skjøteledninger eller adaptere, ettersom dette kan føre til brann eller støt.
+- Sett mottakeren innendørs. Sett mottakeren unna potensielle farer, f.eks. potteplanter, lys, regn og direkte sollys.
+- Ikke utsett dette apparatet for drypping eller sprut, og sørg for at det ikke står objekter fylt med væske, f.eks. vaser, på apparatet.
+- Før mottakeren rengjøres må den koples fra stikkontakten. Bruk en myk, lettfuktet klut uten løsemidler til å rengjøre utsiden.
+- Ikke blokker ventilasjonshullene på mottakeren.
+- Sørg for fri luftstrømning rundt mottakeren.
+- Ikke sett mottakeren på myke møbler eller tepper.
+- Ikke bruk eller lagre mottakeren der den er utsatt for direkte sollys, eller nær oppvarming.
+- Ikke stable annet elektronisk utstyr på toppen av mottakeren.
+- Sett mottakeren minst 30 mm unna veggen.
+- Ikke utfør service på dette produktet selv. Forsøk på å gjøre dette vil gjøre garantien ugyldig. All service må utføres av kvalifisert servicepersonell.
+- Er mottakeren installert et sted med intenst tordenvær, er det viktig med beskyttelse av strøminntaket på mottakeren og telefonlinje med modem. Den enkelte produsentens instruksjoner for sikring av annet utstyr, f.eks. TV, Hi-Fi osv., koplet til mottakeren, må også følges i tordenvær.
+- Ikke sett lysestaker eller annen åpen ild på mottakeren.
+- Ikke bruk ekstrautstyr som ikke er anbefalt av produsenten, ettersom det kan forårsake skade på utstyret.
+- For å kople dette apparatet helt fra strømnettet, må den eksterne strømforsyningen kobles fra stikkontakten i veggen.
+- Støpselet på strømforsyningsledningen må være lett tilgjengelig.
+

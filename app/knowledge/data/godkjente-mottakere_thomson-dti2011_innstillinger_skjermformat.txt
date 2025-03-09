@@ -1,0 +1,79 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/thomson-dti2011/innstillinger/skjermformat/
+Tittel: Skjermformat
+
+- Kundeservice
+- Godkjente mottakere
+- Thomson DTI2011 HD
+- 
+
+Hvordan forandre skjermformat
+
+
+## Trinn 1
+Trykk Menu på fjernkontrollen for å åpne menyen.
+
+
+## Trinn 2
+Marker "Oppsett" og trykk OK
+
+
+## Trinn 3
+Marker "Tilkoblinger" og trykk OK
+
+
+## Trinn 4
+Bildeformat: velg mellom 4:3 og 16:9.Bruk piltastene.
+
+
+## Trinn 5
+Zoommodus 16/9 - velg mellom:
+
+- Fullskjerm
+- Zoom 16/9
+- Pilarboks
+- Zoom 14/9
+
+Zoommodus 4/3 - velg mellom:
+
+- Letterbox
+- Zoom 14/9
+- Fullskjerm
+- Pan & scan
+
+
+## Trinn 6a
+TV-scart - velg mellom:
+
+- RGB
+- CVBS
+- SVHS
+
+
+## Trinn 6b
+Video-scart - velg mellom:
+
+- VBS
+- SVHS
+
+
+## Trinn 6c
+Videostandard - velg mellom:
+
+- PAL (Vest-Europeisk standard)
+- Secam (Fransk standard)
+
+
+## Trinn 6d
+Oppløsning (HDMI) - velg mellom:
+
+- Automatisk
+- Manuell
+
+
+## Trinn 6e
+Velg oppløsning (v manuell) - velg mellom:
+
+- 1080i
+- 720p
+- 576p
+

@@ -1,0 +1,44 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/smart-boks-iii-pvr/signal/forstegangsinstallasjon/
+Tittel: Førstegangsinstallasjon
+
+- Kundeservice
+- Godkjente mottakere
+- 
+- 
+
+
+## Trinn 1
+Det første du skal gjøre er å koble sammen fjernkontroll og dekoder. Det gjør du ved å trykke OK på fjernkontrollen.
+
+Fungerer ikke dette, trykk OK og PLAY samtidig til fjernkontrollen blinker. Trykk så på knappen på dekoderen, til den blinker blått (den blinker grønt først).
+
+
+## Trinn 2 A
+Merk: dekoderen hopper over dette punktet hvis en ethernet-kabel er tilkoblet. Vi anbefaler at du kobler opp med kabel.
+
+For oppkobling med wifi: finn nettverket ditt og trykk OK når du har markert det.
+
+
+## Trinn 2 B
+Skriv inn passordet til nettverket ditt. Bruk piltastene for å navigere deg rundt på tastaturet og trykk OK når du er på bokstaven eller tallet du skal taste inn.
+
+
+## Trinn 2 C
+Har du ikke internett velg "har ikke internett" og trykk OK.
+
+
+## Oppdatering
+Hvis dekoderen er koblet til nett, kan en oppdatering starte før kanalsøket er ferdig (dette skjer ikke hos alle). Det er viktig at oppdateringen får gå til den er ferdig. Dekoderen vil starte på nytt, før kanalsøket fullføres.
+
+
+## Trinn 3
+Kanalsøket starter automatisk.
+
+Tar man inn signaler via internett kan man velge *hopp over kanalsøk*.
+
+
+## Trinn 4
+Når søket er fullført trykk på "Ferdig".
+
+Nå kan du se på TV!
+

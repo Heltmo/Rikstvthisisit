@@ -1,0 +1,26 @@
+URL: https://www.rikstv.no/kundeservice/kanalsok/kortleser/panasonic-2010/
+Tittel: Panasonic 2010
+
+Trykk Menu for å åpne menyen.
+
+Marker "Oppsett". Trykk OK
+
+TX-serien:
+
+Marker "Søkemeny DVB-T". Trykk OKMarker ”Søking”. Trykk OK
+
+Marker "Automatisk kanalsøk". Trykk OK
+
+Kanalliste vil bli slettet. Trykk OK for kanalsøk eller trykk EXIT for å avbryte.
+
+Kanalsøket starter.Trykk OK etter ferdig kanalsøk for å gå tilbake til TV.
+
+
+### Ferdig
+
+## Kanalsøk gjennomført!
+Om kanalsøket var vellykket så kan du nå se TV slik du pleier.
+
+Dersom du fortsatt opplever problemer kan du ta kontakt med kundeservice,
+            så vil vi hjelpe deg.
+

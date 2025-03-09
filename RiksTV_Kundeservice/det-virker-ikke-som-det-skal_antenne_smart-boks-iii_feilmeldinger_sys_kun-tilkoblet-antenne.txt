@@ -1,0 +1,69 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/antenne/smart-boks-iii/feilmeldinger/sys/kun-tilkoblet-antenne/
+Tittel: SYS
+
+- Kundeservice
+- Virker ikke
+- Antenne
+- SMART-boks III
+- Jeg får feilmelding
+- SYS
+
+Dette kan komme om det er problemer med signaler fra antennen og til dekoder.
+
+Gjør først følgende:
+
+- Trekk ut alle kabler fra dekoder. Vent 30 sekunder før du setter inn kabler på nytt.
+- Sjekk at antennekabel står ordentlig i dekoder.
+
+Er alt i orden med oppkoblingen? Da kan det være problemer med senderen i ditt område.Det sjekker du enkelt her:
+
+- Senderstatus
+
+- Det er registrert feil med sender
+
+Er det registrert en feil på senderen du benytter jobbes det med å få løst dette fortløpende.
+- Ingen registrerte feil med sender
+
+Er alt i orden med senderen i området, så kan du sjekke signalene inn til deg via dekoderen. Du finner veiledning for dette her: 
+
+Signalsjekk
+- Signalsjekk
+- Signaler er OK
+
+Er signalene i orden, men bildet mangler, så kan du prøve å ta ett nytt kanalsøk. Veiledning til hvordan dette gjøres finner du her:
+
+ Kanalsøk
+- Kanalsøk
+- Signaler er ikke OK
+
+Opplever du problemer med signaler etter signalsjekk, så kan det lønne seg å justere antennen.
+
+Justering av antenne
+- Justering av antenne
+
+
+### Det er registrert feil med sender
+Er det registrert en feil på senderen du benytter jobbes det med å få løst dette fortløpende.
+
+
+### Ingen registrerte feil med sender
+Er alt i orden med senderen i området, så kan du sjekke signalene inn til deg via dekoderen. Du finner veiledning for dette her:
+
+- Signalsjekk
+
+
+### Signaler er OK
+Er signalene i orden, men bildet mangler, så kan du prøve å ta ett nytt kanalsøk. Veiledning til hvordan dette gjøres finner du her:
+
+- Kanalsøk
+
+
+### Signaler er ikke OK
+Opplever du problemer med signaler etter signalsjekk, så kan det lønne seg å justere antennen.
+
+- Justering av antenne
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

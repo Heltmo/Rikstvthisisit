@@ -1,0 +1,28 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/smartboks2/feilsok/problemer-med-fjernkontrollen/
+Tittel: Problemer med fjernkontrollen?
+
+- Kundeservice
+- Godkjente mottakere
+- SMART-boks II
+- 
+
+- sjekkliste hvis fjernkontrollen ikke virker
+
+Forklaring av fjernkontroll
+
+
+## Sjekkliste
+- Riktig fjernkontroll? Sjekk først at du bruker den rette fjernkontrollen... Ikke bruk TV-fjernkontrollen for å velge TV-kanaler.
+- Sjekk batteriene. Det skal være tre batterier i fjernkontrollen, og alle skal ha plussiden ut. Sitter de riktig vei? Prøv med nye batterier
+- Er fjernkontroll og dekoder koblet sammen? Hvis dekoder ikke reagerer, forsøk dette:1. Rett fjernkontrollen mot mottaker (stå så nærme som mulig), og trykk på «Play» og [ok] samtidig i ti sekunder2. Lampen skal etter hvert lyse, og senere blinke tre ganger før den slår seg av3. Fjernkontrollen og dekoderen er nå koblet sammen, og du kan trykke «Neste» for å gå videre
+
+
+### Annet å sjekke
+Elektronisk støyI enkelte tilfeller kan det hjelpe å endre lysinnstillingene på flatskjermen. Dette fordi enkelte TV-er avgir mer elektromagnetisk støy med visse innstillinger i lysoppsettet.
+
+Glatte eller blanke overflater skaper refleksjoner som kan forstyrre det infrarøde signalet. Mottakeren mottar utrolig mange beskjeder og blir treg fordi den prøver å behandle kommandoene. Prøv å dekke til den blanke parketten med et teppe.
+
+
+### Ødelagt?
+Er fjernkontrollen ødelagt, ta kontakt med RiksTV kundeservice på chat, så skal vi hjelpe deg med å bestille en ny.
+

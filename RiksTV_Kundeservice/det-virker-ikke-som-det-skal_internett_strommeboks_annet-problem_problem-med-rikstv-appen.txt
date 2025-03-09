@@ -1,0 +1,27 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/internett/strommeboks/annet-problem/problem-med-rikstv-appen/
+Tittel: Problem med RiksTV-appen
+
+- Kundeservice
+- Virker ikke
+- Internett
+- Strømmeboks
+- Annet problem
+
+Er alt i orden med andre apper på din Strømmeboks?
+
+Gjør først følgende på RiksTV-appen før du prøver på nytt.:
+
+- Tvinge avslutning
+- Slette data
+- Om det er noen tilgjengelig oppdatering for appen.
+
+Opplever du problemer med alle installerte apper, så kan du gjøre følgende:
+
+- Trekk ut strømmen fra Strømmeboks.
+- Vent 30 sekunder.
+- Koble til strøm på nytt.
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

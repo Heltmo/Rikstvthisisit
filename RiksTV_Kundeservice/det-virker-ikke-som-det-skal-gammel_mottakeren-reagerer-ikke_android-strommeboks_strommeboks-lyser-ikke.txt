@@ -1,0 +1,18 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal-gammel/mottakeren-reagerer-ikke/android-strommeboks/strommeboks-lyser-ikke/
+Tittel: Strømmeboks lyser ikke
+
+- Kundeservice
+- 
+- Dekoder reagerer ikke
+- Strømmeboks
+
+At strømmeboksen ikke lyser indikerer at boksen ikke får strøm.
+
+Sjekk at alle kabler sitter godt i, både i Strømmeboks og vegguttak.
+
+Sitter alle kabler som de skal? •    Ta ut strømkabel på boks•    Ta ut HDMI kabel av boks•    Ta ut nettverkskabel dersom du har dette tilkoblet•    La alle kabler og strøm på boks være ute i 30 sekunder•    Sett i strømkabel til boks og vent 40 sekunder•    Sett i resten av kablene igjen•    Hvis nødvendig, koble fjernkontroll og boks sammen på nytt
+
+- Strømmeboks lyser grønt
+- Strømmeboks lyser rødt
+- Strømmeboksen lyser fortsatt ikke
+

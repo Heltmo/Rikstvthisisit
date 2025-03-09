@@ -1,0 +1,22 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/thomson-dti2011/feilsok/ingen-tilgang/
+Tittel: Ingen tilgang
+
+- Kundeservice
+- Godkjente mottakere
+- Thomson DTI2011 HD
+- 
+
+
+## Trinn 1
+Denne feilmeldingen vises dersom
+
+- Programkortet venter på oppdatering. (Lenge siden det var i bruk sist eller nytt kort).
+- Abonnementet omfatter ikke gjeldende kanal.
+- Det står et annet kort enn RiksTV-programkort i mottakeren.
+- Det står feil RiksTV-programkort i mottakeren.
+- Det er feil mottaker.
+
+Løsning
+
+Sjekk Abonnementsstatus - Har kortet mottatt oppdatering? Dersom kortet ikke har vært i bruk siste 2-3 måneder må mottaker stå på i 30 minutter. Kortet vil automatisk motta en tilgangsmelding.
+

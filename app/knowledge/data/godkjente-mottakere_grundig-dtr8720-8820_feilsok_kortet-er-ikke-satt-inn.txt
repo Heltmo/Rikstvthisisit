@@ -1,0 +1,16 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/grundig-dtr8720-8820/feilsok/kortet-er-ikke-satt-inn/
+Tittel: Kortet er ikke satt inn
+
+- Kundeservice
+- Godkjente mottakere
+- Grundig DTR8720/8820
+- 
+
+
+## Melding
+Meldingen vises dersom det ikke er kort i mottakeren.
+
+Står RiksTV kortet med "gullbrikken" ned og inn i mottakeren?- Ja: Fjern smuss fra gullbrikken og sett kortet inn på nytt.
+
+Fremdeles problemer? Forsøk å sette kortet i en annen mottaker registrert på samme kundebilde.
+

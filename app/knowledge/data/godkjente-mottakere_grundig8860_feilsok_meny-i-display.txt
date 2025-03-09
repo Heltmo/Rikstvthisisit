@@ -1,0 +1,17 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/grundig8860/feilsok/meny-i-display/
+Tittel: Meny i display
+
+- Kundeservice
+- Godkjente mottakere
+- Grundig DTR8860 PVR
+- 
+
+
+## Løsning
+Hvis meny i display og fjernkontroll ikke virker, og knapper i front på mottaker ikke virker.Løsning
+
+- Ta ut antennekabel og strøm
+- Sett i strøm
+- Gå i meny og skru av 5 volt
+- Sett deretter inn antennekabel
+

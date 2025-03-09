@@ -1,0 +1,101 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/antenne/smart-boks-iii/annet-problem/radiokanaler/
+Tittel: Radiokanaler
+
+- Kundeservice
+- Virker ikke
+- Antenne
+- SMART-boks III
+- Annet problem
+
+
+## Du finner alle våre radiokanaler her
+Trykk Husknappen på fjernkontrollen for å åpne menyen. Trykk pil til høyre til "Radio" er market. Trykk OKFor å komme tilbake til kanaler trykk på Husknappen igjen for å åpne menyen, deretter til til ventstre til "TV" er markert. Trykk OK.
+
+Du kan se hvilke radiokanaler som er tilgjengelig her:
+
+- Radiokanaler
+
+- Mangler en eller flere radiokanaler
+
+Opplever du at det er en eller flere radiokanaler som mangler, så anbefaler vi at du først sjekker signalene inn til din dekoder via feilsøket vårt for signalproblemer som du finner her:
+
+Svakt eller manglende signal
+
+ 
+Er alt i orden med signalene så kan du prøve å ta et nytt kanalsøk på dekoderen. Du finner veiledning for dette her:
+
+Automatisk kanalsøk
+
+ 
+Fungerer ikke dette, så må du ta en fabrikkinnstilling av dekoderen.
+- Svakt eller manglende signal
+- Automatisk kanalsøk
+- Mangler lyd
+
+Hvis du benytter en eller annen form for lydanlegg, så må dette kobles fra slik at dekoder er koblet som orginalt tenkt - med kun HDMI fra dekoder og direkte inn i TV-en.
+ 
+Først så må dette sjekkes:
+
+Lyden er skrudd opp på TV og dekoder.
+Mute ikke er på. Dette må sjekkes både for dekoder og TV.
+
+ 
+Hvis alt er OK, så kan følgende gjøres:
+
+Ta ut strømkabel
+Ta ut HDMI kabel fra dekoder.
+Ta ut alle kabler fra dekoder.
+Ta ut strømkabelen fra TV-en.
+La alle kabler og strøm være ute i 30 sekunder.
+Sett i strømkabel til dekoder igjen og vent 40 sekunder.
+Sett i resten av kablene igjen, inkludert strømkabel til TV.
+
+ 
+Fungerer ikke dette, så må du ta en fabrikkinnstilling av dekoderen.
+- Lyden er skrudd opp på TV og dekoder.
+- Mute ikke er på. Dette må sjekkes både for dekoder og TV.
+- Ta ut strømkabel
+- Ta ut HDMI kabel fra dekoder.
+- Ta ut alle kabler fra dekoder.
+- Ta ut strømkabelen fra TV-en.
+- La alle kabler og strøm være ute i 30 sekunder.
+- Sett i strømkabel til dekoder igjen og vent 40 sekunder.
+- Sett i resten av kablene igjen, inkludert strømkabel til TV.
+
+
+### Mangler en eller flere radiokanaler
+Opplever du at det er en eller flere radiokanaler som mangler, så anbefaler vi at du først sjekker signalene inn til din dekoder via feilsøket vårt for signalproblemer som du finner her:
+
+- Svakt eller manglende signal
+
+Er alt i orden med signalene så kan du prøve å ta et nytt kanalsøk på dekoderen. Du finner veiledning for dette her:
+
+- Automatisk kanalsøk
+
+Fungerer ikke dette, så må du ta en fabrikkinnstilling av dekoderen.
+
+
+### Mangler lyd
+Hvis du benytter en eller annen form for lydanlegg, så må dette kobles fra slik at dekoder er koblet som orginalt tenkt - med kun HDMI fra dekoder og direkte inn i TV-en.
+
+Først så må dette sjekkes:
+
+- Lyden er skrudd opp på TV og dekoder.
+- Mute ikke er på. Dette må sjekkes både for dekoder og TV.
+
+Hvis alt er OK, så kan følgende gjøres:
+
+- Ta ut strømkabel
+- Ta ut HDMI kabel fra dekoder.
+- Ta ut alle kabler fra dekoder.
+- Ta ut strømkabelen fra TV-en.
+- La alle kabler og strøm være ute i 30 sekunder.
+- Sett i strømkabel til dekoder igjen og vent 40 sekunder.
+- Sett i resten av kablene igjen, inkludert strømkabel til TV.
+
+Fungerer ikke dette, så må du ta en fabrikkinnstilling av dekoderen.
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

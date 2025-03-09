@@ -1,0 +1,79 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/smart-boks/signal/fabrikkinnstilling/
+Tittel: Fabrikkinnstilling
+
+- Kundeservice
+- Godkjente mottakere
+- SMART-boks PVR
+- 
+
+- tilbakestille mottakeren til standardoppsett
+
+
+## Trinn 1
+Trykk Menu på fjernkontrollen for å åpne menyen.
+
+Velg ”Valg og innstillinger”, benytt sidepiltastene. Trykk OK
+
+
+## Trinn 2
+Velg" Systemvedlikehold" og trykk OK
+
+
+## Trinn 3
+Tast PIN-kode 1 2 3 4 (eller din egen PIN-kode hvis du har endret den)
+
+
+## Trinn 4
+Velg "Fabrikkinnstilling". Trykk OK
+
+
+## Trinn 5
+Velg ”Ja”. Trykk OK
+
+
+## Trinn 6
+Mottakeren går i svart og starter på nytt
+
+
+## Trinn 7
+1 blå strek lyser svakt i mottakerens display. 4 blå streker lyser sterkt i displayet.Det vises "on" i displayet.RiksTV-logo vises.
+
+
+## Trinn 8
+Søker… Kanalnavnene listes opp
+
+
+## Trinn 9
+”Ferdig!” er markert. Trykk OK
+
+
+## Trinn 10
+Marker ”Ferdig!” Trykk OK
+
+Ved manglende signal
+
+- Sjekk tilkoblingene. Er antennekabelen tilkoblet mottakeren?
+- Sjekk også senderstatus. Det kan være arbeid eller feil på senderen.
+
+
+## Trinn 11
+Bekreft med at du ser meldingen på TV-skjermen.Trykk 5. Trykk OK
+
+Installasjonen er nå ferdig. Du kan se NRK med en gang mens abonnementskanaler trenger en tilgangsmelding før bildet vises. Dette kan ta opptil en time.
+
+Innstillingene for foreldrekontroll må settes på nytt etter fabrikkinnstilling.
+
+
+## Feil
+Dersom meldingen ikke bekreftes
+
+Får du ikke bilde på TV-en? Prøv med SCART-kabel.
+
+
+## HDCP
+TV som støtter HDCP vil gi denne beskjeden neste gang man velger en HDCP-beskyttet TV-kanal.
+
+Marker ”Slå på HDCP”. Trykk OK
+
+Innstillingene for foreldrekontroll må settes på nytt etter fabrikkinnstilling.
+

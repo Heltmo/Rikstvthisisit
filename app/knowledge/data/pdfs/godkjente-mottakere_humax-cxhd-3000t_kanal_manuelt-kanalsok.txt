@@ -1,0 +1,50 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/humax-cxhd-3000t/kanal/manuelt-kanalsok/
+Tittel: Manuelt kanalsøk
+
+- Kundeservice
+- Godkjente mottakere
+- Humax CXHD-3000T
+- 
+
+
+## Trinn 1
+Trykk Menu på fjernkontrollen for å åpne menyen.
+
+
+## Trinn 2
+Velg "Systeminnstillinger". Trykk OK
+
+
+## Trinn 3
+Tast PIN-kode 1 2 3 4 (dette er standard fabrikkode/PIN-kode).Har du endret PIN-kode, skriver du selvsagt din egen.
+
+
+## Trinn 4
+Velg "Kanalsøking". Trykk OK
+
+
+## Trinn 5
+Velg "Avansert kanalsøking”. Trykk OK
+
+
+## Trinn 6
+Velg "Frekvens" eller "Kanal". Velg ønsket "frekvens" eller "kanal". Kanalopplysninger finnes på dekningskartet. Trykk OK
+
+Markør flytter seg ned til "start den eksakte kanalsøkingen". Trykk OK for å starte søket.
+
+
+## Trinn 7
+Dersom det ikke finnes noen nye programpakker på valgte frekvens, ser bildet slik ut.
+
+
+## Trinn 7 - 2
+
+## Trinn 8
+Dersom flere nettverk er tilgjengelig får du valget mellom de forskjellige.
+
+Velg ønsket nettverk. Trykk OK
+
+
+## Trinn 9
+Det kommer opp en liste over kanalene mottakeren har funnet.Trykk EXIT for å gå tilbake til TV.
+

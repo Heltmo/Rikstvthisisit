@@ -1,0 +1,28 @@
+URL: https://www.rikstv.no/kundeservice/kanalsok/smart-boks-ii/
+Tittel: SMART-boks II
+
+Trykk Husknappen på fjernkontrollen for å åpne menyen.
+
+Velg ”Valg og innstillinger”, benytt sidepiltastene og trykk OK
+
+Velg "Kanalsøk". Trykk OK
+
+Velg ”Automatisk kanalsøk”. Trykk OK
+
+Søker…
+
+Velg ønsket region. Den regionen med best signalkvalitet er foreslått.Trykk OK
+
+Med valg av region velges hvilken NRK-distriktssending som skal vises på programplass 1. (Valget kommer kun opp for de som mottar signal fra flere regioner.)
+
+Nå er du ferdig! Og her vises antallet kanaler som ble søkt inn.
+
+
+### Ferdig
+
+## Kanalsøk gjennomført!
+Om kanalsøket var vellykket så kan du nå se TV slik du pleier.
+
+Dersom du fortsatt opplever problemer kan du ta kontakt med kundeservice,
+            så vil vi hjelpe deg.
+

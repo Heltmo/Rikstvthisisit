@@ -1,0 +1,26 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/smart-boks-pvr/opptak/formatere-harddisk/
+Tittel: Formatere harddisk
+
+- Kundeservice
+- Godkjente mottakere
+- SMART-boks PVR
+- 
+
+
+## Trinn 1
+Trykk Menu på fjernkontrollen for å åpne menyen.
+
+Velg ”Valg og innstillinger”, benytt sidepiltastene. Trykk OK
+
+
+## Trinn 2
+Gå til "Enheter" helt til høyre i menyen. Trykk OK
+
+
+## Trinn 3
+Trykk OK på "Formatér"
+
+
+## Trinn 4
+Trykk OK på "Ja" hvis du er sikker på at du vil formatere harddisken.
+

@@ -1,0 +1,73 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/antenne/smart-boks-i/problem-med-kanaler/mangler-kanaler/
+Tittel: Mangler kanaler
+
+- Kundeservice
+- Virker ikke
+- Antenne
+- SMART-boks I
+- Problem med kanaler
+
+Når det mangler enkelte kanaler i kanallisten så er dette tegn på at det er noe i veien med signalene inn til dekoderen.
+
+Det kan være at du enten ikke har kanalen inkludert i kanalpakken din eller det kan være at den krever internett. Denne oversikten forteller hvilke kanaler som krever internett:
+
+- Kanaloversikt
+
+Om kanalen er en del av abonnementet ditt og det kommer en feilmelding så må du tilbake til feilmeldinger og velge den feilmeldingen du får opp.
+
+Er det slik at kanalen ikke er i kanallisten sin overhode så indikerer dette at det kan være problemer med signalene dine. Vi anbefaler derfor at du gjør følgende:
+
+- Trekk ut alle kabler fra dekoder. Vent 30 sekunder før du setter inn kablene på nytt.
+- Sjekk at antennekabel står ordentlig i dekoder
+- Om alt stemmer med oppkoblingen, så kan du sjekke om det er registert noen feil med senderen
+
+Om du opplever manglende signaler, så anbefaler vi at du sjekker status på din sender. Dette sjekker du enkelt her: Senderstatus
+
+- Det er registrert feil med sender
+
+Er det registrert en feil på senderen du benytter jobbes det med å få løst dette fortløpende.
+- Ingen registrerte feil med sender
+
+Er alt i orden med senderen i området, så kan du sjekke signalene inn til deg via dekoderen. Du finner veiledning for dette her: 
+
+Signalsjekk
+- Signalsjekk
+- Signaler er OK
+
+Er signalene i orden, men bildet mangler, så kan du prøve å ta ett nytt kanalsøk. Veiledning til hvordan dette gjøres finner du her:
+
+Kanalsøk
+- Kanalsøk
+- Signaler er ikke OK
+
+Opplever du problemer med signaler etter signalsjekk, så kan det lønne seg å justere antennen.
+
+Justering av antenne
+- Justering av antenne
+
+
+### Det er registrert feil med sender
+Er det registrert en feil på senderen du benytter jobbes det med å få løst dette fortløpende.
+
+
+### Ingen registrerte feil med sender
+Er alt i orden med senderen i området, så kan du sjekke signalene inn til deg via dekoderen. Du finner veiledning for dette her:
+
+- Signalsjekk
+
+
+### Signaler er OK
+Er signalene i orden, men bildet mangler, så kan du prøve å ta ett nytt kanalsøk. Veiledning til hvordan dette gjøres finner du her:
+
+- Kanalsøk
+
+
+### Signaler er ikke OK
+Opplever du problemer med signaler etter signalsjekk, så kan det lønne seg å justere antennen.
+
+- Justering av antenne
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

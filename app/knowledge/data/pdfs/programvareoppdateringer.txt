@@ -1,0 +1,25 @@
+URL: https://www.rikstv.no/kundeservice/programvareoppdateringer/
+Tittel: Programvare for RiksTV-dekodere
+
+Når dekoderen oppdateres får du tilgang til ny og forbedret funksjonalitet.
+
+Listen viser siste tilgjengelige programvareoppdateringer. Finner du ikke dekoder din i listen under? Da er det ikke noe ny programvare tilgjengelig.
+
+- IDTV: Ved oppdatering av TV med innebygd mottaker (IDTV), se produsentens hjemmeside.
+- Se dekoders veiledning om hvordan du kan gjøre en manuell programvareoppdatering. Brukerveiledninger til alle mottakere.
+
+
+## Programvare for SMART-boks
+- Oppdatering skjer automatisk via standby
+- Eller du kan laste ned oppdatering manuelt
+
+- Oppdatering skjer automatisk via standby
+- Eller du kan laste ned oppdatering manuelt
+
+- Oppdatering skjer automatisk via standby
+- Eller du kan laste ned oppdatering manuelt
+
+PVR betyr at SMART-boksen har opptaksfunksjon.
+
+
+## Programvare andre dekodere

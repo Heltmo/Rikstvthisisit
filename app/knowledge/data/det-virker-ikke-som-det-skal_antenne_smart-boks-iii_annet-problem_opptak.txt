@@ -1,0 +1,185 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/antenne/smart-boks-iii/annet-problem/opptak/
+Tittel: Opptak
+
+- Kundeservice
+- Virker ikke
+- Antenne
+- SMART-boks III
+- Annet problem
+
+Her finner du de mest normale problemstillingene og spørsmålene som vi får om opptak.
+
+Vår anbefaling er at om du nærmer deg 80% kapasitet på harddisk så ta en gjennomgang og se om de er noe som kan slettes. Hvor mye kapasitet som er igjen kan du se ved å sjekke harddisk status.
+
+En full harddisk kan også skape problemer når man prøver å ta nye opptak, så denne er det fordel å holde øye med.
+
+OBS! Ved en fabrikkinnstilling vil du ikke miste opptakene som allerede er gjort, men du må legge inn planlagte opptak på nytt!
+
+Her finner du veiledninger for hvordan starte og endre opptak:
+
+- Gjøre opptak
+
+Du finner forskjellige veiledninger for å gjøre opptak her:
+
+Opptak via elektronisk programguide.
+Start manuelt opptak.
+- Opptak via elektronisk programguide.
+- Start manuelt opptak.
+- Se på opptak
+
+Du finner full oversikt over lagrede opptak, planlagte opptak og serieopptak ved å trykke på Husknappen på fjernkontrollen for å åpne menyen. Velg "Opptak" helt til høyre ved å bruke piltastene. Trykk OK
+- Administrere opptak
+
+Om det er slik at du ikke lenger har behov for alle opptakene du har og ønsker å slette alt, så gjøres dette via "Administrer lagring" og velge "Tilbakestill lagring"
+Du finner veiledning for det her
+
+Formatere harddisk
+
+ 
+Ønsker du å se en generell oversikt på opptakene dine kan du finne dette ved å trykke på Husknappen på fjernkontrollen for å åpne menyen. Velg "Opptak" helt til høyre ved å bruke piltastene. Trykk OK.
+- Formatere harddisk
+- Endre opptaksmargin
+
+Du finner veiledning for endring av opptaksmargin her: 
+
+Endre opptaksmargin
+- Endre opptaksmargin
+- Sletting av opptak
+
+Du finner de forskjellige veiledningene for å slette opptak her.
+
+Slette opptak
+Slette serieopptak
+Avslutte serieopptak
+Slett nyeste opptak 
+Automatisk sletting
+Stopp automatisk sletting
+- Slette opptak
+- Slette serieopptak
+- Avslutte serieopptak
+- Slett nyeste opptak
+- Automatisk sletting
+- Stopp automatisk sletting
+
+
+### Gjøre opptak
+Du finner forskjellige veiledninger for å gjøre opptak her:
+
+- Opptak via elektronisk programguide.
+- Start manuelt opptak.
+
+
+### Se på opptak
+Du finner full oversikt over lagrede opptak, planlagte opptak og serieopptak ved å trykke på Husknappen på fjernkontrollen for å åpne menyen. Velg "Opptak" helt til høyre ved å bruke piltastene. Trykk OK
+
+
+### Administrere opptak
+Om det er slik at du ikke lenger har behov for alle opptakene du har og ønsker å slette alt, så gjøres dette via "Administrer lagring" og velge "Tilbakestill lagring"
+
+Du finner veiledning for det her
+
+- Formatere harddisk
+
+Ønsker du å se en generell oversikt på opptakene dine kan du finne dette ved å trykke på Husknappen på fjernkontrollen for å åpne menyen. Velg "Opptak" helt til høyre ved å bruke piltastene. Trykk OK.
+
+
+### Endre opptaksmargin
+Du finner veiledning for endring av opptaksmargin her:
+
+- Endre opptaksmargin
+
+
+### Sletting av opptak
+Du finner de forskjellige veiledningene for å slette opptak her.
+
+- Slette opptak
+- Slette serieopptak
+- Avslutte serieopptak
+- Slett nyeste opptak
+- Automatisk sletting
+- Stopp automatisk sletting
+
+Her finner du veiledninger om du opplever problem med opptakene dine.
+
+- Finner ikke opptak
+
+Finner du ikke opptaket du hadde lagt inn så kan det være at det har vært mislykket, kansellert eller ukjent. 
+Vi anbefaler derfor å sjekke hvor mye lagringsplass som er igjen på harddisken din. Du finner veiledning for dette her:
+
+Harddisk status
+- Harddisk status
+- Får ikke sett på TV mens det gjøres opptak
+
+Har du problemer med å få sett på TV samtidig som det gjøres opptak så er dette tegn på at det er mer enn 2 opptak som gjøres på samme tid. 
+Sjekk opptak oversikten ved å trykke på Husknappen på fjernkontrollen for å åpne menyen. Velg "Opptak" helt til høyre ved å bruke piltastene. Trykk OK for å åpne oversikten. Her kan du se hvor mange pågående opptak du har, om det er mer enn 2 så må de avbrytes. 
+Det er ikke mulig å gjøre opptak av to forskjellige kanaler, samtidig som man prøver å se på en tredje kanal. 
+Dersom alt er i orden med opptakene og du er sikker på at det ikke er mer enn to opptak på samme tid, så anbefaler vi at du trekker ut strømmen på dekoderen i 30 sekunder.
+- Problemer med avspilling av opptak
+
+Opplever du problemer med avspillingen av opptak fordi de ikke finnes i listen eller vil de bare ikke spille av? 
+Er selve listen med opptak blitt borte så kan du trekke ut strømmen på dekoderen i 30 sekunder.
+Hvis dette ikke hjelper så må man formatere harddisken som er på dekoder. Det vil permanent slette alt innhold som har blitt tatt opp. Du finner veiledning her:
+
+Formatere harddisk
+
+ 
+Fungerer ikke dette, så må du ta en fabrikkinnstilling av dekoderen.
+- Formatere harddisk
+- Kun deler av programmet blir tatt opp
+
+Det kan være at programguiden ikke er oppdatert til rett tider. For å oppdatere denne må man slette kanallisten sin, guide for hvordan dette gjøres finner du her:
+
+
+Slette kanalliste
+
+ 
+Opplever du problemer med at hele programmet ikke tas opp, så anbefaler vi å prøve å endre opptaksmarginen på dekoderen din.Guide for hvordan du gjør dette finner du her:
+
+Endre opptaksmargin
+- Slette kanalliste
+- Endre opptaksmargin
+
+
+### Finner ikke opptak
+Finner du ikke opptaket du hadde lagt inn så kan det være at det har vært mislykket, kansellert eller ukjent.
+
+Vi anbefaler derfor å sjekke hvor mye lagringsplass som er igjen på harddisken din. Du finner veiledning for dette her:
+
+- Harddisk status
+
+
+### Får ikke sett på TV mens det gjøres opptak
+Har du problemer med å få sett på TV samtidig som det gjøres opptak så er dette tegn på at det er mer enn 2 opptak som gjøres på samme tid.
+
+Sjekk opptak oversikten ved å trykke på Husknappen på fjernkontrollen for å åpne menyen. Velg "Opptak" helt til høyre ved å bruke piltastene. Trykk OK for å åpne oversikten. Her kan du se hvor mange pågående opptak du har, om det er mer enn 2 så må de avbrytes.
+
+Det er ikke mulig å gjøre opptak av to forskjellige kanaler, samtidig som man prøver å se på en tredje kanal.
+
+Dersom alt er i orden med opptakene og du er sikker på at det ikke er mer enn to opptak på samme tid, så anbefaler vi at du trekker ut strømmen på dekoderen i 30 sekunder.
+
+
+### Problemer med avspilling av opptak
+Opplever du problemer med avspillingen av opptak fordi de ikke finnes i listen eller vil de bare ikke spille av?
+
+Er selve listen med opptak blitt borte så kan du trekke ut strømmen på dekoderen i 30 sekunder.
+
+Hvis dette ikke hjelper så må man formatere harddisken som er på dekoder. Det vil permanent slette alt innhold som har blitt tatt opp. Du finner veiledning her:
+
+- Formatere harddisk
+
+Fungerer ikke dette, så må du ta en fabrikkinnstilling av dekoderen.
+
+
+### Kun deler av programmet blir tatt opp
+Det kan være at programguiden ikke er oppdatert til rett tider. For å oppdatere denne må man slette kanallisten sin, guide for hvordan dette gjøres finner du her:
+
+- Slette kanalliste
+
+Opplever du problemer med at hele programmet ikke tas opp, så anbefaler vi å prøve å endre opptaksmarginen på dekoderen din.Guide for hvordan du gjør dette finner du her:
+
+- Endre opptaksmargin
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

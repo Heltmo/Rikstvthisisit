@@ -1,0 +1,14 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/strong-srt8900/feilsok/feil-i-kommunikasjon-med-kort/
+Tittel: Feil i kommunikasjon med kort
+
+- Kundeservice
+- Godkjente mottakere
+- Strong SRT8900
+- 
+
+
+## Trinn 1
+Denne meldingen kommer når kortet står feil vei i mottakeren.
+
+Står RiksTV kortet med "gullbrikken" opp og inn i mottakeren?Hvis ja: fjern smuss fra gullbrikken og sett kortet inn på nytt.
+

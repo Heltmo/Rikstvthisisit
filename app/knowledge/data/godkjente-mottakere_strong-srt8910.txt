@@ -1,0 +1,101 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/strong-srt8910/
+Tittel: Strong SRT8910
+
+- Kundeservice
+- Godkjente mottakere
+
+- 
+- 
+- 
+- 
+
+Mottakeren støtter standard og høydefinisjons (HDTV) TV, 7 dagers programguide, radio og teletext, og coaxial S/PDIF kontakt til surround anlegget.
+
+Denne kan brukes på 12v, og strømforbruket er meget lavt (9W aktiv / 0,5W stand-by)
+
+< Tilbake
+
+
+## Last ned
+Brukerveiledning (pdf, norsk tekst)
+
+Teknisk beskrivelse (pdf, norsk tekst)
+
+Stort bilde av fjernkontroll
+
+
+## Brukerveiledning
+
+### Signal
+- 5 volt for forsterker
+- Signalsjekk
+- Fabrikkinnstilling
+- Førstegangsinstallasjon
+
+
+### Kanal
+- Automatisk kanalsøk
+- Manuelt kanalsøk
+
+
+### Innstillinger
+- HDCP (Digital kopibeskyttelse)
+
+
+### Info
+- Slik setter du inn kortet
+- Kortnummer og PairingID
+- Abonnementsstatus
+- Serienummer og programvareversjon
+
+
+### Feilsøk
+- Fjernkontroll
+- For å se denne kanalen
+- Ugyldig programkort
+- TV 2 mister lyden
+- Intet signal
+- Ingen adgang
+- Kortproblemer, kontroller kort
+- Intet programkort
+
+
+## Modeller
+Strong SRT8910
+
+
+## Spesifikasjoner
+Følgende frekvensområder støttes av mottakeren i tillegg til UHF  frekvensene 470 - 862MHz som støttes av alle godkjente mottakere:
+
+- VHF III 174 – 230 MHz       - JA
+- S Band II 230 – 300 MHz   - JA
+- S Band III 300 – 470 MHz  - JA
+
+Denne mottakeren støtter alle alternative frekvenser for distribusjon av RiksTVs signaler i kabelnett.
+
+- 12 Volt
+- 5 Volt antenneforsterker
+- VHF-støtte
+- SCART-utgang
+- Optisk S/PDIF-utgang
+- Coax S/PDIF-utgang
+- Rca Stereo
+- RF Loop Through
+- Dobbel tuner
+- Elektronisk Program Guide
+- Radio applikasjon
+- Hjelpefunksjoner
+- Foreldrekontroll
+- Teletext
+- Kanalliste
+- Opptaksmulighet
+- Pause/spole funksjonalitet
+- Internettilkobling
+- Fjernkontroll m/batterier
+- SCART kabel
+- HDMI kabel
+- Antennekabel
+- Strømkabel
+- Brukermanual (no/en)
+- Blu-Ray
+

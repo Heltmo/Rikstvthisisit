@@ -1,0 +1,18 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal-gammel/fjernkontroll/den-virker-ikke/jeg-bruker-android-strommeboks/
+Tittel: Jeg bruker Android strømmeboks
+
+- Kundeservice
+- 
+- Fjernkontroll
+- Den virker ikke
+
+Hvis fjernkontrollen til strømmeboksen din ikke fungerer, anbefaler vi å gjøre dette:
+
+- Pair fjernkontroll og strømmeboks ved å holde inne hjem-knappen (hus) og tilbake-knappen (pil til venstre) samtidig i ca 10 sekunder.
+
+Dersom det ikke løser problemet, bytt batterier og pair igjen hvis nødvendig.
+
+Dersom det å bytte batterier ikke fungerer kan du prøve å laste ned Android TV Remote Control fra Google Play eller Android TV fra App Store. Denne appen kan brukes til å styre strømmeboksen.
+
+Fortsatt ikke løst? Ta kontakt med kundeservice, så skal vi hjelpe deg videre.
+

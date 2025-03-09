@@ -1,0 +1,24 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/smart-boks-iii-pvr/innstillinger/hdmi-cec/
+Tittel: HDMI-CEC
+
+- Kundeservice
+- Godkjente mottakere
+- 
+- 
+
+
+## Trinn 1
+Trykk Husknappen på fjernkontrollen for å åpne menyen.
+
+Velg tannhjulet helt til venstre og trykk OK. Du kommer nå inn i menyen "Innstillinger".
+
+
+## Trinn 2
+Bruk piltastene og velg "System" helt nederst. Trykk OK
+
+
+## Trinn 3
+Her velger du om HDMI-CEC skal stå av eller på ved å trykke OK på fjernkontrollen.
+
+Trykk på X for å gå tilbake til TV.
+

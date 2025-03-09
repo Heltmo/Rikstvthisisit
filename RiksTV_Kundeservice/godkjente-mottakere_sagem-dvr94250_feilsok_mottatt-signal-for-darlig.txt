@@ -1,0 +1,26 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/sagem-dvr94250/feilsok/mottatt-signal-for-darlig/
+Tittel: Mottatt signal for dårlig
+
+- Kundeservice
+- Godkjente mottakere
+- Sagem DTR94250
+- 
+
+Feilmelding vises dersom det er for dårlig signal.
+
+
+## Trinn 1
+Sjekk senderstatus på rikstv.noSenderstatus gir eksakt info om senderens tilstand.
+
+
+## Trinn 2
+Er antennen tilkoblet mottakeren?Sjekk om kabelen er tilkoblet mottakeren og antennen.
+
+
+## Trinn 3
+Gjennomfør signalsjekk for å lese ut signalnivået.Sjekk om riktig frekvens benyttes.Sammenlikne frekvensene med dekningskartet.
+
+
+## Trinn 4
+Fellesantenne: Er det bygård eller liknende med en felles antenne? Ved feil på fellesantenne må vaktmester/ antenneansvarlig kontaktes.Det kan være en feil internt (strøm/ sikring).
+

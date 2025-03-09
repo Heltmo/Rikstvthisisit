@@ -1,0 +1,20 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/smart-boks-pvr/opptak/stopp-automatisk-sletting/
+Tittel: Stopp automatisk sletting
+
+- Kundeservice
+- Godkjente mottakere
+- SMART-boks PVR
+- 
+
+
+## Trinn 1
+Trykk på Menu på fjernkontrollen og velg "Mine opptak". Trykk OK
+
+
+## Trinn 2
+Velg "Alle opptak" og trykk OK
+
+
+## Trinn 3
+Velg opptaket du ønsker å beholde, og velg "Ikke slett opptak automatisk". Trykk så OK
+

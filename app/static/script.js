@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
             showTypingIndicator();
 
             // Send melding til API
-            fetch('http://127.0.0.1:8080/chat', {
+            fetch('http://127.0.0.1:8000/chat', {  // 🔥 Endret fra 8080 til 8000, {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',

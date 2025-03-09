@@ -1,0 +1,98 @@
+URL: https://www.rikstv.no/kundeservice/kom-i-gang-med-rikstv/rikstvs-smart-boks-ii/slik-bruker-du-din-smart-boks/opptaksfunksjoner/
+Tittel: Opptaksfunksjoner
+
+- Kundeservice
+- Kom i gang med RiksTV
+- SMART-boks II
+- Slik bruker du din SMART-boks
+
+- 
+
+Du finner alle brukerveiledningene for opptak samlet på et sted: SMART-boks PVR og SMART-boks II PVR.
+
+
+### Tidsforskyvning (TimeShift)
+Mens du ser på et direkteprogram via mottakeren, blir det automatisk spilt inn midlertidig på harddisken. Dette gjør det mulig for deg å sette programmet på pause eller å spole tilbake for å se noe på nytt, som for eksempel et mål i en fotballkamp.
+
+Tegnforklaringer:
+
+- Tid bak direktesendt program
+- Avspillingsmodus (i dette tilfellet pause)
+- Visningslinje for hvor du er i programmet
+- Virkelig klokkeslett
+
+NB! Det er kun mulig å spole fremover til det punktet hvor programmet blir direkte, og det er kun mulig å spole tilbake til det punktet hvor man startet å se på programmet (maks 60 minutter). Denne funksjonen gjelder kun for den kanalen du ser på i øyeblikket. Bytter du kanal vil opptaket slettes og mottakeren vil starte opptak av den kanalen du byttet til i stedet.
+
+
+### Direkteopptak
+Direkteopptak betyr at du kan ta opp et program direkte uten å forhåndsinnstille. Du kan se på andre kanaler mens opptaket gjøres.
+
+For å starte et direkteopptak av et program:
+
+- Trykk først på [REC]
+- Bekreft deretter med [OK]
+
+Opptaket blir tatt opp fra der du trykker «Rec». Hvis du ønsker å ta opp ett lenger tidsrom på valgte kanal som går utover sendingstiden til det gjeldene programmet, må du velge alternativet «Legg til et opptak» når du har trykket på [REC].
+
+For å avslutte et direkteopptak trykk på [STOP]. Har du flere opptak gående samtidig må du velge opptaket du vil avslutte med piltastene opp/ned, og deretter bekrefte med [OK]
+
+
+### Planlagt opptak av enkeltprogram
+Du kan også planlegge hvilke programmer du ønsker å ta opp.
+
+- Åpne programguiden med [Guide]
+- Bla deg frem til programmet du vil ta opp
+- Trykk på [OK],  velg «Ta opp enkeltprogram» med piltastene opp/ned.
+- Bekreft med [OK]  Programmet du skal ta opp blir da markert med rødt.
+
+Det er også mulig å ta opp program fra informasjonsbanneret. Trykk på [i] og deretter  [OK]. Velg «Ta opp enkeltprogram» med piltastene opp/ned. Bekreft med OK.
+
+NB! Det er kun mulig å gjøre to opptak i samme tidsrom. Hvis du prøver å ta opp flere, vil du få beskjed om å slette et av de andre pågående opptakene.
+
+
+### Ta opp serier
+Serieopptak betyr at mottakeren vil ta opp alle fremtidige programmer i den aktuelle serien, forutsatt at det er nok plass på harddisken.  For å sette opp et serieopptak i programguiden følger du samme prosedyre som i punkt 6.4, men velg «Ta opp serie» i stedet. Bekreft med [OK].
+
+Du kan også ta opp serier direkte fra informasjonsbanneret [i]. Trykk deretter [OK ]. Velg «ta opp serie» og bekreft med [OK].
+
+
+### Manuelt opptak
+Manuelt opptak betyr at du selv kan velge start- og slutt-tid, dato, kanal og hvor mange repriser du skal ta opp, i motsetning til å ta opp enkeltprogrammer og serier hvor dette er definert av programguiden.
+
+Denne funksjonen kan for eksempel være grei hvis du ønsker å ta opp noe i samme tidsrom over flere dager på en bestemt kanal, uten at det er definert som serie.
+
+For å benytte funksjonen
+
+- Trykk på  [LIB]
+- Velg funksjonen [Håndterer opptak ]
+- Velg så [Legg til opptak ]
+- Videre kan du skreddersy opptaket til dine egne ønsker. Naviger og velg med piltastene og bekreft med [OK].
+
+
+### Se på opptak
+Opptakene du gjør legges på den interne harddisken på 500 GB. Hvor mange timer opptak dette tilsvarer, avhenger av kvaliteten på programmet som tas opp (HD tar mer plass).
+
+Det finnes to måter å finne opptakene på. A. Ved å trykke på [LIB] knappen på fjernkontrollen eller B. trykke [meny] og dretter velge «Mine opptak». Dette tar deg til opptaksmenyen hvor du har følgende muligheter til å se på opptak:
+
+«Alle opptak» - gir deg en liste i kronologisk rekkefølge over alle opptak som ligger ferdig på mottakeren. Her vil du se programnavn, kanal, tidspunkt og lengde på opptaket som er gjort. For å se på opptaket trykk [OK]
+
+«Serieopptak» - viser deg en oversikt over hvilke serieopptak du har tatt. Trykk [OK] på serien du vil se, finn aktuell episode og bekreft med [OK]
+
+Opptak du har sett på blir markert med et øye.
+
+For å komme tilbake til TV når du ser på et opptak trykk [exit].
+
+
+### Slette opptak
+For å slette et opptak må du først finne opptaket du vil slette (se punkt 6.7) og så trykke [opt]. Marker «slett opptak» og bekreft med [ok].
+
+For å avslutte fremtidige opptak av en serie, gå inn i opptaksmenyen [LIB]. Velg «Håndter opptak» Naviger deg ned til serieopptaket du vil slette. Trykk [OPT] og bekreft med [OK]
+
+
+## Opptaksfunksjoner
+Det finnes flere måter å programmere opptak på
+
+- Ta opp program direkte
+- Planlegge og programmere enkelt- og serieopptak
+- Programmere manuelle opptak
+

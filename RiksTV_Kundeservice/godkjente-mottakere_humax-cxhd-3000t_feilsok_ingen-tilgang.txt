@@ -1,0 +1,20 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/humax-cxhd-3000t/feilsok/ingen-tilgang/
+Tittel: Ingen tilgang
+
+- Kundeservice
+- Godkjente mottakere
+- Humax CXHD-3000T
+- 
+
+
+## Trinn 1
+Denne feilmeldingen vises dersom
+
+- Programkortet venter på oppdatering (lenge siden det var i bruk sist eller nytt kort).
+- Abonnerer ikke på gjeldende kanal.
+- Det står et annet kort enn RiksTV-kort i mottakeren.
+- Det står feil RiksTV-kort i mottakeren.
+- Feil mottaker.
+
+Løsning Sjekk Abonnementsstatus; har kortet mottatt oppdatering? Dersom kortet ikke har vært i bruk siste 2-3 måneder, må mottaker stå på i 30 minutter. Kortet vil da automatisk motta en tilgangsmelding.
+

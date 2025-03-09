@@ -1,0 +1,18 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/samsung-h380z/feilsok/kodet-eller-ingen-signal/
+Tittel: Kodet, eller ingen signal
+
+- Kundeservice
+- Godkjente mottakere
+- Samsung DTB-H380Z
+- 
+
+
+## Feilmelding
+Denne feilmeldingen vises dersom
+
+- Det står feil RiksTV-programkort i mottakeren.
+- Det mottas en kodet kanal fra annen operatør (f.eks. svenske kanaler)
+- Det er for dårlig signal
+- Mottakeren blir flyttet til nytt område med andre frekvenser. (f.eks. hytta)
+- Kanalen har sluttet å sende
+

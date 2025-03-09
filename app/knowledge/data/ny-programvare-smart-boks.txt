@@ -1,0 +1,17 @@
+URL: https://www.rikstv.no/kundeservice/ny-programvare-smart-boks/
+Tittel: Ny programvare til SMART-boks
+
+Vi videreutvikler og forbedrer vår SMART-boks og SMART-boks PVR kontinuerlig, og derfor lanserer vi også ny programvare jevnlig. Oppdateringen skjer automatisk, direkte via antennen din.
+
+Slik gjør du:
+
+- Skru dekoderen din av og på med "POWER" knappen på fjernkontrollen. (Rød knapp merket med "POWER").
+- Dersom det er en ny programvare tilgjengelig vil en melding om dette vises på skjermen.
+- Trykk "JA" på denne meldingen.
+
+Dekoderen din vil nå bli oppdatert med den nye programvaren når den er tilgjengelig.
+
+Du kan også gjøre en manuell oppdatering.
+
+Slik finner du programvareversjonen dekoderen din har.
+

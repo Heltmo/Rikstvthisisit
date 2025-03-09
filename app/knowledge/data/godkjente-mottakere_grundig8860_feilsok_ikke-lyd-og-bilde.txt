@@ -1,0 +1,26 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/grundig8860/feilsok/ikke-lyd-og-bilde/
+Tittel: Ikke lyd og bilde
+
+- Kundeservice
+- Godkjente mottakere
+- Grundig DTR8860 PVR
+- 
+
+
+## "Ikke lyd og bilde"
+Feilmeldingen vises på skjermen når:
+
+- Pairingmelding mangler.
+- Det står feil RiksTV programkort i mottakeren
+- En kodet kanal fra annen operatør mottas (f. eks. svenske kanaler)
+- Det er akkurat i grenseland med signal
+- Lyd mangler
+
+Løsning
+
+- Har mottaker mottatt pairing? Vent noen minutter, så kommer bilde. (Gjelder ved førstegangsinstallasjon).Sjekk kanalen "Visjon Norge" - har du bilde er pairing mottatt.Er mottakeren tatt i bruk innen 20 dager etter kjøp? Hvis ikke må du ta kontakt med kundesenteret for å motta ny pairing.
+- Har hatt bilde og lyd, men får nå meldingen: "- Og lyd mangler"Ta ut strømmen i 10 sekunder for å tilbakestille mottakeren.Hvis dette ikke hjelper, prøv å ta en ny Fabrikkinnstilling.
+- Står det rett kort (RiksTV programkort) i mottaken? Står kortet riktig vei?
+- Signal fra annen operatør? (f. eks. kanaler i det svenske bakkenettet) Sjekk hvilket program eller programnummer mottakeren står på. Er det et ukjent nummer eller program; bytt til en RiksTV-kanal.
+- Er det lite signal? Gjennomfør sjekken under Intet signal funnet.
+

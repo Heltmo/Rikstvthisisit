@@ -1,0 +1,38 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/triax-tr500/signal/fabrikkinnstilling/
+Tittel: Fabrikkinnstilling
+
+- Kundeservice
+- Godkjente mottakere
+- Triax TR500
+- 
+
+Tilbakestille mottakeren til standardoppsett
+
+
+## Trinn 1
+Trykk Menu på fjernkontrollen for å åpne menyen.
+
+
+## Trinn 2
+Velg ”Oppsett” og trykk OK
+
+
+## Trinn 3
+Velg "Gjenopprett fabrikkinnstillinger". Trykk OK
+
+
+## Trinn 4
+Tast PIN-kode (Fabrikkoden er 1234).
+
+Glemt PIN-koden?
+
+Trykk Meny, trykk 1 9 7 3.
+
+Pin-koden er resatt til 1234.
+
+
+## Trinn 5
+Velg "Ja" med piltastene høyre/venstre (markør er blå)Trykk OK for å tilbakestille mottakeren til fabrikkoppsett.
+
+Mottakeren vil nå gå i svart i noen sekunder før den kommer opp igjen og viser første skjerm i  førstegangsinstallasjon.
+

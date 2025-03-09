@@ -1,0 +1,30 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/sagem-itd91hd/signal/fabrikkinnstilling/
+Tittel: Fabrikkinnstilling
+
+- Kundeservice
+- Godkjente mottakere
+- Sagem ITD91HD
+- 
+
+- tilbakestille mottakeren til standardoppsett
+
+
+## Trinn 1
+Trykk Menu på fjernkontrollen for å åpne menyen.
+
+
+## Trinn 2
+Marker "Mottakerinnstillinger".Trykk OK
+
+
+## Trinn 3
+Marker "Fabrikkinnstilling".Trykk OK
+
+
+## Trinn 4
+Tast PIN-kode 1 2 3 4 (hvis du ikke har endret koden). Bekreft med OKGlemt PIN-koden? Nullstill ved å taste master-PIN 0 0 4 4 i "kodefeltet".Mottaker stiller seg tilbake til 1234.
+
+
+## Trinn 5
+Marker "Bekreft" og trykk OKMottakeren vil nå "gå i svart" og resette til fabrikkinnstillinger. Mottakeren vil automatisk restartes og komme opp i førstegangsinstallasjon.
+

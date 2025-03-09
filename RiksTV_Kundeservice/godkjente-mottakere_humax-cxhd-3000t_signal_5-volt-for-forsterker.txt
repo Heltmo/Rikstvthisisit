@@ -1,0 +1,32 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/humax-cxhd-3000t/signal/5-volt-for-forsterker/
+Tittel: 5 volt for forsterker
+
+- Kundeservice
+- Godkjente mottakere
+- Humax CXHD-3000T
+- 
+
+Slik skrur du 5 volt spenning til antenne av / på
+
+
+## Trinn 1
+Trykk Menu på fjernkontrollen for å åpne menyen.
+
+
+## Trinn 2
+Velg "Systeminnstillinger". Trykk OK
+
+
+## Trinn 3
+Tast PIN-kode 1 2 3 4 (dette er standard fabrikkode/PIN-kode).Har du endret PIN-kode, skriver du selvsagt din egen.
+
+
+## Trinn 4
+Velg "Kanalsøking". Trykk OK
+
+
+## Trinn 5
+Velg "Aktiv antennestyrke". Velg mellom "Av" eller "På" for 5 volt driftsspenning til forsterker og aktiv antenne. Trykk OK
+
+Trykk Exit for å avslutte.
+

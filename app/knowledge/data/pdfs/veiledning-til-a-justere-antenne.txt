@@ -1,0 +1,43 @@
+URL: https://www.rikstv.no/kundeservice/veiledning-til-a-justere-antenne/
+Tittel: Justere antenne
+
+- 
+- 
+
+Bilde 1 stor antenne. Bilde 2 antennepakke
+
+1. Antennen skal rettes mot beste sender
+
+- Søk opp og finn din sender på dekningskartet som du finner på rikstv.no/dekning. Mange telefoner har GPS, prøv å skrive inn koordinatene.
+- Er det vanskelig å vite hvilken retning det er, kan det være nyttig å kikke på kartet for å se navn på steder som ligger i nærheten.
+- Snø, løvtrær og tett vegetasjon kan forstyrre signalene dine. Da kan det være kun en liten justering som skal til for å få godt signal igjen.
+
+2. Slik justerer du antennen
+
+- Dere bør være to personer. En som løsner antennen og vrir forsiktig til en av sidene – samtidig som den andre ser på signalinformasjon på TV-en.MERK at det er litt forsinkelse på dette, så juster litt og vent noen sekunder på resultat.
+- Ligger antennen/huset skjult eller vanskelig til kan signalene tas inn via refleksjon f.eks. mot enn fjellvegg eller husvegg. Her kan det være minimale justeringer som skal til for å få gode signaler.
+- Antennene våre har to vingemuttere som må løsnes for hånd for å kunne vri antennen i riktig retning (eller med 13 mm nøkkel hvis den sitter hardt):
+
+Bor du i nærheten av vannet? Da kan det være nødvendig med en finjustering av antennen. Dette kan være spesielt aktuelt dersom du har antenne i nærheten av sjø/vann hvor man kan oppleve speilrefleksjoner fra vannet. Refleksjon kan både styrke og senke kvaliteten på bildet. Dersom antennen skal justeres opp eller ned (retning bakken/himmelen) er det to andre muttere som skal løsnes:
+
+3. Fabrikkinnstilling
+
+- Etter justering av antennen, bør du alltid ta en fabrikkinnstilling på mottaker. Her finner du veiledning til alle mottakere. (Opptak vil ikke bli slettet. På noen mottakere vil det være to valg. Det holder at du velger den som kun resetter, du trenger ikke å slette alt.)
+
+4. Signalsjekk
+
+- Nå må du gjøre en signalsjekk, for å forsikre deg om at signalene er bra nok. Her finner du veiledning til alle mottakere.
+
+5. Andre ting som kan forstyrre signalene dine
+
+- Er det kommet noen nye hus / bygg eller vegetasjon som kan sperre for signalet? Brukes beste sender? Forsøk å justere mot en annen sender.
+- Bruker du forsterker på liten antenne? Da bør du få installert en stor antenne isteden. Ta kontakt med kundeservice på chat.
+- Er antennen skadet? Ta kontakt med kundeservice på chat.
+
+6. Sjekk at antennekabler ikke har løsnet eller er skadet, og at de sitter som de skal
+
+- Er det skjøter på kabelen bør du sjekke at disse ikke er utsatt for vann eller er malt over. Skjøten skal være beskyttet og gjerne skjult for vær og vind.
+- Er kabel knekt?
+- Dra forsiktig i kabler rundt skjøter og splittere for å være sikker på at de sitter som de skal.
+- Er kabelen skadet, bytt hele kabelen. Du får mest sannsynlig kjøpt nye kabler i butikker som selger TV-utstyr. Ta også gjerne kontakt med oss på chat, så skal vi hjelpe deg å finne en løsning.
+

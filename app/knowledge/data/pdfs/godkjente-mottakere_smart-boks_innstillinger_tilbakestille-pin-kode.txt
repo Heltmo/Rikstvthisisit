@@ -1,0 +1,38 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/smart-boks/innstillinger/tilbakestille-pin-kode/
+Tittel: Tilbakestille PIN-kode
+
+- Kundeservice
+- Godkjente mottakere
+- SMART-boks PVR
+- 
+
+- glemt PIN-kode? Slik tilbakestiller du den til standard PIN 1 2 3 4
+
+
+## Trinn 1
+Trykk Menu på fjernkontrollen for å åpne menyen.
+
+Velg ”Valg og innstillinger”, benytt sidepiltastene. Trykk OK
+
+
+## Trinn 2
+Velg "Foreldrekontroll". Trykk OK
+
+
+## Trinn 3
+Tast PIN-kode 1 2 3 4 (dersom den tidligere ikke har blitt endret.)
+
+
+## Tilbakestille PIN-kode
+Du kan tilbakestille PIN-koden hvis du har glemt den.
+
+Tast inn alle de tre følgende 4-siffrede PIN-kodene etter hverandre. (Du trenger ikke å gjøre det raskt, men riktig.)
+
+- 8739
+- 5551
+- 7002
+
+Nå er PIN-kode tilbakestilt til standard PIN-kode 1234.
+
+Du kan endre til ønsket PIN-kode under “Endre Adgangskode” (Husk da at “Gammel PIN” nå er 1234)
+

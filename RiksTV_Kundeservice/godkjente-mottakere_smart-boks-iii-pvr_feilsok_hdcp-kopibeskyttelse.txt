@@ -1,0 +1,32 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/smart-boks-iii-pvr/feilsok/hdcp-kopibeskyttelse/
+Tittel: HDCP
+
+- Kundeservice
+- Godkjente mottakere
+- 
+- 
+
+
+## Feilmelding
+Feilmeldingen betyr at kopibeskyttelsen av kanalen er deaktivert. Det skyldes en av to grunner:
+
+* TV-en eller HDMI-switchen dekoderen støtter ikke HCDP* HDCP er skrudd av i innstillingene
+
+Se neste steg for hvordan du kan aktivere HDCP.
+
+
+## Trinn 1
+Trykk Husknappen på fjernkontrollen for å åpne menyen.
+
+Velg tannhjulet helt til venstre og trykk OK. Du kommer nå inn i menyen "Innstillinger".
+
+
+## Trinn 2
+Velg "Bilde" med piltastene og trykk OK
+
+
+## Trinn 3
+Gå til "HDCP" og trykk OK for sette den til PÅ.
+
+Trykk X for å gå tilbake til TV.
+

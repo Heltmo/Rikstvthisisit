@@ -1,42 +1,7 @@
-# Python
+﻿# Python
 __pycache__/
 *.py[cod]
-*$py.class
-*.so
-.Python
-venv/
-ENV/
-
-# Environment variables
-.env
-
-# IDE
-.vscode/
-.idea/
-
-# Logs
-*.log
-
-# Database
-*.db
-*.sqlite3
-
-# Vector store
-app/knowledge/data/vector_store/
-
-# Distribution / packaging
-dist/
-build/
-*.egg-info/
-
-# Virtual Environment
-venv/
-ENV/
-
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
+*.class
 *.so
 .Python
 env/
@@ -59,11 +24,24 @@ var/
 venv/
 ENV/
 
-# IDE
+# Environment variables
+.env
+
+# IDE files
 .idea/
 .vscode/
 *.swp
 *.swo
 
 # Logs
-*.log 
+*.log
+
+# Database
+*.db
+*.sqlite3
+
+# Vector store
+app/knowledge/data/vector_store/
+
+# Large files
+*.pdf

@@ -1,0 +1,27 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/grundig8860/feilsok/ingen-tilgang/
+Tittel: Ingen tilgang
+
+- Kundeservice
+- Godkjente mottakere
+- Grundig DTR8860 PVR
+- 
+
+
+## Feilmelding
+Denne feilmeldingen vises hvis:
+
+- Programkortet venter på oppdatering. (Lenge siden det var i bruk sist eller nytt kort)
+- Manglende betaling
+- Du mangler abonnement på gjeldende kanal
+- Det står et annet kort enn RiksTV-programkort i mottakeren
+- Det står feil RiksTV-programkort i mottakeren
+- Feil mottaker
+
+
+## Løsning
+Sjekk Abonnementsstatus; har kortet mottatt oppdatering?Dato må være inneværende måned
+
+Dersom kortet ikke har vært i bruk siste 2-3 måneder må mottaker stå på i 30 minutter.
+
+Kortet vil automatisk motta en tilgangsmelding.
+

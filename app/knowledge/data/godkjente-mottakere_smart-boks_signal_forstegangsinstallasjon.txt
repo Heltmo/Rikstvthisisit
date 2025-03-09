@@ -1,0 +1,49 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/smart-boks/signal/forstegangsinstallasjon/
+Tittel: Førstegangsinstallasjon
+
+- Kundeservice
+- Godkjente mottakere
+- SMART-boks PVR
+- 
+
+- slik kan du installere mottakeren.
+
+
+## Trinn 1
+1 blå strek lyser svakt i mottakerens display. 4 blå streker lyser sterkt i displayet.Det vises "on" i displayet.RiksTV-logo vises.
+
+
+## Trinn 2
+Søker… Kanalnavnene listes opp
+
+
+## Trinn 3
+”Ferdig!” er markert. Trykk OK
+
+
+## Trinn 4
+Marker ”Ferdig!” Trykk OK
+
+Ved manglende signal
+
+- Sjekk tilkoblingene. Er antennekabelen tilkoblet mottakeren?
+- Sjekk også senderstatus. Det kan være arbeid eller feil på senderen.
+
+
+## Trinn 5
+Bekreft med at du ser meldingen på TV-skjermen.Trykk 5. Trykk OK
+
+Installasjonen er nå ferdig. Du kan se NRK med en gang mens abonnementskanaler trenger en tilgangsmelding før bildet vises. Dette kan ta opptil en time.
+
+
+## Feil
+Dersom meldingen ikke bekreftes
+
+Får du ikke bilde på TV-en? Prøv med SCART-kabel.
+
+
+## HDCP
+TV som støtter HDCP vil gi denne beskjeden neste gang man velger en HDCP-beskyttet TV-kanal.
+
+Marker ”Slå på HDCP”.Trykk OK
+

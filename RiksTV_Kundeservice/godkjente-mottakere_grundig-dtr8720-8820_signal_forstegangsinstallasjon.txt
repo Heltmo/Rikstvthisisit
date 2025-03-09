@@ -1,0 +1,44 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/grundig-dtr8720-8820/signal/forstegangsinstallasjon/
+Tittel: Førstegangsinstallasjon
+
+- Kundeservice
+- Godkjente mottakere
+- Grundig DTR8720/8820
+- 
+
+
+## Trinn 1
+Trykk OK for å starte.
+
+
+## Trinn 2
+Velg "Norsk" eller "Engelsk". Trykk OK
+
+
+## Trinn 3
+Velg "Rask" eller "Avansert" Trykk OK
+
+(I denne veiledningen viser vi "Rask installering")
+
+
+## Trinn 4
+Velg "Bredformat (16:9)" eller "Standard TV (4:3)" Trykk OK
+
+
+## Trinn 5
+Kanalsøk.Automatisk kanalsøk starter.Dette vil ta noen minutter.Dersom dekoder ikke søker må 5 volt skrues av.
+
+
+## Trinn 6
+Ved mottak av flere regioner; velg ønsket region. Trykk OK
+
+
+## Trinn 7
+Kanalsøket vellykket. Kanalsøket og installasjonen er nå fullført. Trykk "OK" for å begynne å se TV.Husk at det kan ta 30 minutter før dekoderen får tilgang til alle kanaler.
+
+
+## Trinn 8
+Mislykket kanalsøkTrykk Meny og gjennomfør manuelt kanalsøk.
+
+Ved manglende signal: Sjekk også senderstatus. Det kan være arbeid eller feil på senderen.
+

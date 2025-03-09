@@ -1,0 +1,85 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/antenne/smart-boks-ii/annet-problem/radiokanaler/
+Tittel: Radiokanaler
+
+- Kundeservice
+- Virker ikke
+- Antenne
+- SMART-boks II
+- Annet problem
+
+Her er veiledning for hvordan finne radiokanalene på din dekoder:
+
+- Alle radiokanaler
+
+Om du ønsker å sjekke hvilke radiokanaler som er tilgjengelig, så finner du dette her:
+
+- Våre radiokanaler
+
+- Mangler en eller flere radiokanaler
+
+Om du opplever at det er en eller flere radiokanaler som mangler, så anbefaler vi at du først sjekker signalene inn til din dekoder via feilsøket vårt for signalproblemer som du finner her:
+
+Svakt eller manglende signal
+
+Om alt er i orden med signalene så kan du prøve å ta et nytt kanalsøk på dekoderen. Du finner veiledning for dette her:
+
+Automatisk kanalsøk
+
+Om dette ikke hjelper så kan du prøve å ta en fabrikkinnstilling av boksen. Du finner veiledning for dette her:
+
+Fabrikkinnstilling
+- Svakt eller manglende signal
+- Automatisk kanalsøk
+- Fabrikkinnstilling
+- Mangler lyd
+
+Om du opplever at det mangler lyd på bare radiokanalene dine så anbefaler vi at du først forsikrer deg om at verken dekoder eller TV-en er satt på mute. 
+Hvis du benytter deg av lydanlegg så anbefaler vi at dette kobles direkte til TV og ikke via dekoder.
+Dersom alt dette er i orden så kan det være at dekoder venter på en programvareoppdatering. 
+Sjekk at du har riktig programvareversjon på dekoderen din. Du finner veiledning for dette her: DekoderstatusHer kan du se hva som er den nyeste versjonen. 
+Om du har en eldre programvareversjon installert så må denne oppdateres. Du finner veiledning for det her: 
+
+Oppdatering av programvare
+
+Om du ikke får fullført oppdateringen, eller det ikke kommer opp noe, så må du laste den ned manuelt. Du finner veiledning for dette her: 
+
+Last ned programvare
+- Oppdatering av programvare
+- Last ned programvare
+
+
+### Mangler en eller flere radiokanaler
+Om du opplever at det er en eller flere radiokanaler som mangler, så anbefaler vi at du først sjekker signalene inn til din dekoder via feilsøket vårt for signalproblemer som du finner her:
+
+- Svakt eller manglende signal
+
+Om alt er i orden med signalene så kan du prøve å ta et nytt kanalsøk på dekoderen. Du finner veiledning for dette her:
+
+- Automatisk kanalsøk
+
+Om dette ikke hjelper så kan du prøve å ta en fabrikkinnstilling av boksen. Du finner veiledning for dette her:
+
+- Fabrikkinnstilling
+
+
+### Mangler lyd
+Om du opplever at det mangler lyd på bare radiokanalene dine så anbefaler vi at du først forsikrer deg om at verken dekoder eller TV-en er satt på mute.
+
+Hvis du benytter deg av lydanlegg så anbefaler vi at dette kobles direkte til TV og ikke via dekoder.
+
+Dersom alt dette er i orden så kan det være at dekoder venter på en programvareoppdatering.
+
+Sjekk at du har riktig programvareversjon på dekoderen din. Du finner veiledning for dette her: DekoderstatusHer kan du se hva som er den nyeste versjonen.
+
+Om du har en eldre programvareversjon installert så må denne oppdateres. Du finner veiledning for det her:
+
+- Oppdatering av programvare
+
+Om du ikke får fullført oppdateringen, eller det ikke kommer opp noe, så må du laste den ned manuelt. Du finner veiledning for dette her:
+
+- Last ned programvare
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

@@ -1,0 +1,60 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/internett/smart-boks-ii/problem-med-kanaler/hakkete-bilde/
+Tittel: Bildet hakker
+
+- Kundeservice
+- Virker ikke
+- Internett
+- SMART-Boks II
+- Problem med kanaler
+
+Om du opplever at bildet hakker eller er ustabilt så kan dette være fordi det er noen ustabiliteter på internett linjen inn til dekoderen din. Sjekk gjerne at det ikke er noe feil med nettverket ditt.
+
+- Alt OK med internett
+
+Er alt korrekt med oppkobling, gjør følgende:
+ 
+
+Ta ut strømkabelen fra nettverksruter.
+Ta ut alle kabler fra dekoder.
+Vent 30 sekunder.
+Koble til strømmen på nettverksruter.
+Vent til nettet er tilbake (Dette kan ta 5 minutter).
+Sett i strømkabel til dekoder igjen og vent 40 sekunder.
+Sett i de resterende kablene.
+La dekoder starte opp før du prøver på nytt.
+- Ta ut strømkabelen fra nettverksruter.
+- Ta ut alle kabler fra dekoder.
+- Vent 30 sekunder.
+- Koble til strømmen på nettverksruter.
+- Vent til nettet er tilbake (Dette kan ta 5 minutter).
+- Sett i strømkabel til dekoder igjen og vent 40 sekunder.
+- Sett i de resterende kablene.
+- La dekoder starte opp før du prøver på nytt.
+- Feil med nettet
+
+Har du problemer med internett, ta kontakt med din internettleverandør. 
+Var det feil med kabler, som du har korrigert, men du får fortsatt feilmelding? Gå tilbake til feilmeldinger eller ta kontakt med oss, så hjelper vi deg.
+
+
+### Alt OK med internett
+Er alt korrekt med oppkobling, gjør følgende:
+
+- Ta ut strømkabelen fra nettverksruter.
+- Ta ut alle kabler fra dekoder.
+- Vent 30 sekunder.
+- Koble til strømmen på nettverksruter.
+- Vent til nettet er tilbake (Dette kan ta 5 minutter).
+- Sett i strømkabel til dekoder igjen og vent 40 sekunder.
+- Sett i de resterende kablene.
+- La dekoder starte opp før du prøver på nytt.
+
+
+### Feil med nettet
+Har du problemer med internett, ta kontakt med din internettleverandør.
+
+Var det feil med kabler, som du har korrigert, men du får fortsatt feilmelding? Gå tilbake til feilmeldinger eller ta kontakt med oss, så hjelper vi deg.
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

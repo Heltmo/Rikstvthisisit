@@ -1,0 +1,7 @@
+URL: https://www.rikstv.no/kundeservice/sjekk-senderstatus/
+Tittel: Senderstatus
+
+- finn status på sender i ditt område
+
+Sjekk senderstatus hos NTV (åpnes i nytt vindu)
+

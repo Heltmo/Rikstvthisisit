@@ -1,0 +1,48 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/grundig-dtr8740/kanal/manuelt-kanalsok/
+Tittel: Manuelt kanalsøk
+
+- Kundeservice
+- Godkjente mottakere
+- Grundig DTR8740
+- 
+
+
+## Trinn 1
+Trykk Menu på fjernkontrollen for å åpne menyen. Trykk 4 eller velg "Installasjon". Trykk OK
+
+
+## Trinn 2
+Trykk 3 eller velg "Kanalvalg". Trykk OK
+
+
+## Trinn 4
+Trykk 3 eller velg "Manuelt kanalsøk" i menyen. Trykk OK
+
+
+## Trinn 5
+RF Kanal:Velg ønsket kanalfrekvens med piltastene høyre/venstre.Trykk OK
+
+Ved manglende signal: Sjekk også senderstatus. Det kan være arbeid eller feil på senderen.
+
+Finn dine frekvenser (RF kanal) ved å søke i dekningskartetDet er 5 frekvenser/mux. Oversikt over TV-kanalenes plassering i muxene
+
+
+## Trinn 6
+Søker...
+
+
+## Trinn 7
+"Vellykket".Trykk OK for "JA"
+
+
+## Trinn 8
+"Ingen nye kanaler funnet".Kanalene ligger allerede i kanalliste.
+
+
+## Trinn 9
+"Intet signal"Sjekk signal og koblinger
+
+
+## Trinn 10
+Trykk Exit for å avslutte.
+

@@ -1,0 +1,27 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/internett/strommeboks/boks-reagerer-ikke/
+Tittel: Boks reagerer ikke
+
+- Kundeservice
+- Virker ikke
+- Internett
+- Strømmeboks
+
+Dette kan være et tegn på at noe har hengt seg opp på selve boksen, eller at du er på feil kildekanal.
+
+Det vil lyse grønt i fronten da Strømmeboks er skrudd på, hvis den er avskrudd så lyser det rødt.
+
+Er lyset grønt, men du fortsatt får samme feil, så er det tegn på at du er på feil kildekanal. Da må du bytte denne ved å bruke fjernkontrollen til TV-en. Normalt så heter kildeknappen AV, Input eller Source.
+
+Har du forsikret deg om at du er på rett kildekanal, men fortsatt mangler bilde på TV-en din, så kan du prøve følgende:
+
+- Trekk ut strømmen på nettverksruter og Strømmeboks.
+- Vent 30 sekunder.
+- Start opp nettverksruter, og vent til det er oppe igjen (ca 3 min).
+- Når nettet er oppe, så starter du Strømmeboks på nytt.
+
+Hvis boksen ikke lyser overhodet eller den kun lyser rødt, så ta kontakt med oss for hjelp.
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

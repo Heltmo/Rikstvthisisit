@@ -1,0 +1,23 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/intek-hdpvr-t12cx/feilsok/soker-etter-signal/
+Tittel: Søker etter signal
+
+- Kundeservice
+- Godkjente mottakere
+- Intek HDPVR-T12CX
+- 
+
+
+## Feilmelding
+Søker og teller ned fra 2 minutter. Deretter kommer "ikke noe signal" opp.
+
+Feilmeldingen vises hvis
+
+- det er dårlig signal
+- mottakeren er flyttet til nytt område med andre frekvenser (til f.eks. hytta)
+
+
+## Trinn 2
+Sjekk senderstatus for feil på sender.
+
+Gjør en signalsjekk for å lese ut signalnivået. Sjekk om riktig frekvens benyttes, og sammenlikne frekvensene med dekningskart.
+

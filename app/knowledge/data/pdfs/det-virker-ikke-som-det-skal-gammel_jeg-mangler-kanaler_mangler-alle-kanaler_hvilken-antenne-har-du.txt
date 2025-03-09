@@ -1,0 +1,24 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal-gammel/jeg-mangler-kanaler/mangler-alle-kanaler/hvilken-antenne-har-du/
+Tittel: Hvilken antenne har du?
+
+- Kundeservice
+- 
+- Jeg mangler kanaler
+- Jeg mangler alle kanaler
+
+
+## Utendørs
+Jeg har utendørs antenne
+
+
+## Innendørs
+Jeg har antenne inne
+
+
+## Båt og camping
+Jeg har utendørs båt- og campingantenne
+
+
+## Felles antenne
+Jeg bor i borettslag / sameie og har fellesantenne
+

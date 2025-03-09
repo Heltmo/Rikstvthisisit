@@ -1,0 +1,52 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/antenne/smart-boks-i/dekoder-reagerer-ikke/
+Tittel: Dekoder reagerer ikke
+
+- Kundeservice
+- Virker ikke
+- Antenne
+- SMART-boks I
+
+Om du opplever at dekoderen din ikke vil reagere når du trykker på fjernkontrollen eller at det står FAIL i displayet. Gjennomfør følgende:
+
+
+## 
+- Ta ut strømkabel på dekoder.
+- Ta ut HDMI kabel på dekoder.
+- Ta ut alle kabler fra dekoder.
+- Ta ut strømkabelen fra TV-en.
+- La alle kabler og strøm være ute i 30 sekunder.
+- Sett i strømkabel til dekoder igjen og vent 40 sekunder.
+- Sett i resten av kablene igjen, inkludert strømkabel til TV.
+
+
+### 
+Om dette ikke hjelper, så må du sjekke programvaren på dekoder.
+
+Du finner veiledning for dette her: DekoderstatusHer kan du se hva som er den nyeste versjonen.
+
+- Feil programvareversjon
+
+Har du en eldre programvareversjon installert så må denne oppdateres. Du finner veiledning her:
+
+Oppdatering av programvare
+
+Får du ikke fullført oppdateringen, eller det ikke kommer opp noe, så må du laste den ned manuelt. Du finner veiledning her:
+
+Last ned programvare
+- Oppdatering av programvare
+- Last ned programvare
+
+
+### Feil programvareversjon
+Har du en eldre programvareversjon installert så må denne oppdateres. Du finner veiledning her:
+
+- Oppdatering av programvare
+
+Får du ikke fullført oppdateringen, eller det ikke kommer opp noe, så må du laste den ned manuelt. Du finner veiledning her:
+
+- Last ned programvare
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

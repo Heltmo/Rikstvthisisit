@@ -1,0 +1,32 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/internett/smart-boks-ii/feilmeldinger/start-forfra-er-ikke-tilgjengelig/
+Tittel: Start forfra er ikke tilgjengelig
+
+- Kundeservice
+- Virker ikke
+- Internett
+- SMART-Boks II
+- Jeg får feilmelding
+
+Dette kommer av at dekoder har problemer med å holde seg tilkoblet internett eller det er ustabile signaler.
+
+Vi anbefaler at du benytter deg av en nettverkskabel fra ruter til dekoderen for å koble dekoder til internett. Dette er for å sikre en mer stabil nettverkslinje til dekoderen.
+
+Dekoderen kan også kobles til trådløst med 2.4 GHz-nett. Trådløs tilkobling eller mobilt bredbånd kan ofte gi en ustabil tilkobling.
+
+Om alt er i orden med oppkoblingen av utstyret så kan du prøve følgende:
+
+- Ta ut strømkabelen fra nettverksruter.
+- Ta ut alle kabler fra dekoder.
+- Vent 30 sekunder.
+- Koble til strømmen på nettverksruter.
+- Vent til nettet er tilbake. (Dette kan ta 5 minutter)
+- Sett i strømkabel til dekoder igjen og vent 40 sekunder.
+- Sett i de resterende kablene.
+- La dekoder starte opp før du prøver på nytt.
+
+Fungerer det ikke så må du gjøre en fabrikkinnstilling.
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

@@ -1,0 +1,30 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/sagem-dvr94250/signal/fabrikkinnstilling/
+Tittel: Fabrikkinnstilling
+
+- Kundeservice
+- Godkjente mottakere
+- Sagem DTR94250
+- 
+
+- tilbakestille mottakeren til standardoppsett
+
+
+## Trinn 1
+Trykk Meny. Trykk Pil opp 3 ganger til "Verktøysymbol" markeres og det står "Mottakerinnstillinger" nede til høyre. Trykk OK
+
+
+## Trinn 2
+Marker "Tilbakestill til standardinnstillinger" (nederst). Trykk OK
+
+
+## Trinn 3
+Tast 4 sifret PIN-kode. Bekreft med OK. Fabrikkode er 1234.
+
+
+## Trinn 4
+Her får du opp en Advarsel. Trykk OK
+
+
+## Trinn 5
+Mottakeren vil nå gå i svart og resette til fabrikkinnstillinger. Mottakeren vil automatisk restartes og komme opp i førstegangsinstallasjon
+

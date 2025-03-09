@@ -1,0 +1,31 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/internett/strommeboks/annet-problem/mangler-lyd/
+Tittel: Mangler lyd
+
+- Kundeservice
+- Virker ikke
+- Internett
+- Strømmeboks
+- Annet problem
+
+Er du tilkoblet eksternt lydanlegg så prøv å koble dette fra, eventuelt kan det kobles direkte til TV-en.
+
+Sjekk først at:
+
+- Lyden er skrudd opp på TV og Strømmeboks.
+- Mute ikke er på, både på TV og Strømmeboks.
+
+Hvis alt er i orden med dette, så kan følgende gjøres:
+
+- Koble ut alle kabler fra Strømmeboks (inkludert eventuell nettverkskabel) og strømkabelen fra TV-en.
+- Vent 30 sekunder.
+- Koble til strømkabelen i både boks og TV.
+- Vent 40 sekunder.
+- Snu HDMI-kabelen, sett den og resten av kablene i dekoderen
+- Prøv eventuelt en annen HDMI-kabel eller inngang
+
+Hvis dette ikke hjelper må du ta en fabrikkinnstilling.
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

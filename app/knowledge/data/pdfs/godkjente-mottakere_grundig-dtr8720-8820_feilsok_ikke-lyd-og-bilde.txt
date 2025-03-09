@@ -1,0 +1,34 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/grundig-dtr8720-8820/feilsok/ikke-lyd-og-bilde/
+Tittel: Ikke lyd/bilde eller venter på programoppdatering
+
+- Kundeservice
+- Godkjente mottakere
+- Grundig DTR8720/8820
+- 
+
+
+## Melding
+Denne feilmeldingen vises når pairing mangler. Pairing binder kort og mottaker sammen. Ved førstegangsinstallasjon er det helt vanlig å få denne meldingen.Vent noen minutter så skal tv-bildet komme.
+
+Vises Visjon Norge er pairing mottatt, og da er altså mottaker og programkort koblet sammen, og du skal få tv-signal fra RiksTV.
+
+
+### Mangler du lyd?
+Det kan hjelpe å ta ut strømmen i 10 sekunder.
+
+Hjalp ikke det? Da kan du prøve å tilbakestille mottakeren til standard oppsett (fabrikkinnstilling).
+
+
+### Kort
+Er det RiksTV programkort som står i mottakeren? Sett inn riktig RiksTV-programkort.
+
+Det står feil RiksTV programkort i mottakeren. Mottaker og kort er ikke registrert sammen.
+
+
+### Signal fra annen operatør?
+(f. eks. kanaler i det svenske bakkenettet...) Sjekk hvilket program eller programnummer mottakeren står på. Er det et ukjent nummer eller program så bytt til en RiksTV kanal.
+
+
+### Er det lite/svakt/dårlig signal?
+Gjennomfør sjekken under Intet signal funnet.
+

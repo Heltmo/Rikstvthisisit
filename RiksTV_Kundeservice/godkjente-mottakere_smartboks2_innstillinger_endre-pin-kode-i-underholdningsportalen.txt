@@ -1,0 +1,34 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/smartboks2/innstillinger/endre-pin-kode-i-underholdningsportalen/
+Tittel: Endre PIN-kode i Underholdningsportalen
+
+- Kundeservice
+- Godkjente mottakere
+- SMART-boks II
+- 
+
+
+## Trinn 1
+Trykk Husknappen på fjernkontrollen for å åpne menyen.
+
+Trykk OK på Underholdningsportalen.
+
+
+## Trinn 2
+Bruk piltastene på fjernkontrollen og bla deg til "Min TV", trykk OK
+
+
+## Trinn 3
+Bruk piltastene på fjernkontrollen og bla deg til "Innstillinger", trykk OK
+
+
+## Trinn 4
+Velg "Endre PIN"
+
+
+## Trinn 5
+Legg inn gammel kode for å gjøre endring. Denne er 1234 om du ikke har endret den selv.
+
+
+## Trinn 6
+Legg inn ønsket PIN kode. Vinduet lukker seg automatisk da ny kode er lagt inn. Trykk X på fjernkontrollen for å gå ut av menyen.
+

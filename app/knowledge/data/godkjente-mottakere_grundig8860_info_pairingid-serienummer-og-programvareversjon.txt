@@ -1,0 +1,38 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/grundig8860/info/pairingid-serienummer-og-programvareversjon/
+Tittel: Serienummer og programvareversjon
+
+- Kundeservice
+- Godkjente mottakere
+- Grundig DTR8860 PVR
+- 
+
+
+## Trinn 1
+Trykk Menu på fjernkontrollen for å åpne menyen. Trykk 4 eller velg "Installasjon". Trykk OK
+
+
+## Trinn 2
+Trykk 5 eller velg "Installasjon". Trykk OK
+
+
+## Trinn 3
+Trykk 4 eller velg "Dekoder valg". Trykk OK
+
+
+## Trinn 4
+Trykk 3 eller velg "Nedlastingsinformasjon". Trykk OK
+
+
+## Trinn 5
+Serienummer: Mottakerens serienummer, er 16 siffer
+
+Programvareversjon: Softwareinformasjon
+
+
+## Hvordan laste ned ny programvare
+Programvaren er tilgjengelig kl. 00.00 - 05.00. Sjekk hvilken programvareversjon mottakeren har nå. Nedlasting av ny programvare skjer automatisk men med forskjellige utgangspunkt.
+
+Programvare 381, 388 og 396: NB! Ikke sett mottakeren i standby om kvelden. Mottakeren vil da selv gå i standby etter 4 timer (dersom dette ikke er endret i menyen) og deretter begynne å laste ny programvare dersom mottakeren går i standby etter kl. 24.00. Eller sett mottaker i standby kl. 00.05.
+
+Programvare 44 og 51: Sett mottakeren i standby når den ikke er i bruk.
+

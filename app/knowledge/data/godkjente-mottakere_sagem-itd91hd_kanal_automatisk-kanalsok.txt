@@ -1,0 +1,32 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/sagem-itd91hd/kanal/automatisk-kanalsok/
+Tittel: Automatisk kanalsøk
+
+- Kundeservice
+- Godkjente mottakere
+- Sagem ITD91HD
+- 
+
+
+## Trinn 1
+Trykk Menu for å åpne menyen.
+
+
+## Trinn 2
+Marker "Mottakerinnstillinger" og trykk OK
+
+
+## Trinn 3
+Marker "Kanalsøk" trykk OK
+
+
+## Trinn 4
+Marker "Kanalsøk" og trykk OK
+
+
+## Trinn 5
+Nå vises en progressbar som viser fremdriften av søket. Søket kan ta opp mot 10 minutter og kan stoppe opp på enkelte kanaler en lengre periode. Det vises ikke hvilke kanaler som er funnet før søket er ferdigstilt.
+
+
+## Trinn 6
+Når søket er ferdig vil det, dersom man er innenfor dekningen av to eller flere regioner, vises en "Velg område" plakat.Velg region med høyre/venstre piltast.Trykk ned piltast. Marker OK. Trykk OK for å bekrefte.Menyen avsluttes og mottakeren zapper til første kanal i kanallisten.
+

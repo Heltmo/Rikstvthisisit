@@ -1,0 +1,44 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/triax-tr500/signal/forstegangsinstallasjon/
+Tittel: Førstegangsinstallasjon
+
+- Kundeservice
+- Godkjente mottakere
+- Triax TR500
+- 
+
+
+## Trinn 1
+Marker ønsket språk og trykk OK
+
+
+## Trinn 2
+Velkomsthilsen. Trykk OK for å gå videre.
+
+
+## Trinn 3
+Marker "Rask installasjon" og trykk OKLand: Norge må velges (Default)Aktiv antenne:(ved behov) Marker "aktiv antenne".Velg "av" med piltast høyre/venstre for å skru av 5 volt spenning.
+
+
+## Trinn 4
+Søker...
+
+
+## Trinn 5
+Signal fra flere regioner mottas:Marker ønsket region og trykk OK
+
+
+## Trinn 6
+Resultat av kanalsøk. Trykk OK for å avslutte.
+
+
+## Trinn 7
+Ved bruk av HDMI-kabel: Mottakeren vil nå teste omTVen er HDCP-kompatibel.Trykk OK
+
+
+## Trinn 8
+Dersom denne melding kommer: Trykk 3 og deretter OK Installasjon ferdig.
+
+
+## Trinn 9
+Dersom man ikke trykker 3 og "OK". Hvis TV-en ikke er kompatibel må scartkabel brukes for å se bilde på kanaler som er kodet med HDCP. Trykk OK
+

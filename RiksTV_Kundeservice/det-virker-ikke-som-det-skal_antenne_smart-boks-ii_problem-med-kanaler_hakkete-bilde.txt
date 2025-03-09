@@ -1,0 +1,40 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/antenne/smart-boks-ii/problem-med-kanaler/hakkete-bilde/
+Tittel: Bildet hakker
+
+- Kundeservice
+- Virker ikke
+- Antenne
+- SMART-boks II
+- Problem med kanaler
+
+Dersom du har en opptaksdekoder så kan hakkete bilde komme av at harddisken på den er full. Sjekk derfor status på harddisken før du går videre.
+
+- Hvordan sjekke harddisk status?
+
+Gå til Meny - Mine Valg/valg og instillinger - Mine Enheter - HDD1. Du kan også se dette på Systeminformasjon ved å trykke på Meny og gå to steg til venstre (alt annet enn grønt lys på fane 3 tyder på et problem):
+- Over 80% kapasitet brukt?
+
+Hvis over 80% av kapasiteten er brukt må opptak slettes for at dekoderen skal fungerer optimalt. Dette kan du gjøre på en av to måter:
+Slette optakene manuelt: da velger du selv hva som skal slettes, dette kan ta noe tid.Formatere harddisken: gå på Meny - Mine Valg/valg og instillinger - Enheter. Velg HDD1 og Formater. Merk at da slettes alle opptak.
+- Ikke opptaksdekoder eller harddisk er under 80%
+
+Fortsett feilsøk for signalproblemer.
+
+
+### Hvordan sjekke harddisk status?
+Gå til Meny - Mine Valg/valg og instillinger - Mine Enheter - HDD1. Du kan også se dette på Systeminformasjon ved å trykke på Meny og gå to steg til venstre (alt annet enn grønt lys på fane 3 tyder på et problem):
+
+
+### Over 80% kapasitet brukt?
+Hvis over 80% av kapasiteten er brukt må opptak slettes for at dekoderen skal fungerer optimalt. Dette kan du gjøre på en av to måter:
+
+Slette optakene manuelt: da velger du selv hva som skal slettes, dette kan ta noe tid.Formatere harddisken: gå på Meny - Mine Valg/valg og instillinger - Enheter. Velg HDD1 og Formater. Merk at da slettes alle opptak.
+
+
+### Ikke opptaksdekoder eller harddisk er under 80%
+Fortsett feilsøk for signalproblemer.
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

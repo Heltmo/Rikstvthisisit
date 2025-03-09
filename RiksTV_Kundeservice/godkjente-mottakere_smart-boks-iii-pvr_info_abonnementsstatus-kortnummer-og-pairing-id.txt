@@ -1,0 +1,38 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/smart-boks-iii-pvr/info/abonnementsstatus-kortnummer-og-pairing-id/
+Tittel: Abonnementsstatus, kortnummer og pairing-id
+
+- Kundeservice
+- Godkjente mottakere
+- 
+- 
+
+
+## Trinn 1
+Trykk Husknappen på fjernkontrollen for å åpne menyen.
+
+Velg tannhjulet helt til venstre og trykk OK. Du kommer nå inn i menyen "Innstillinger".
+
+
+## Trinn 2
+Velg "Programkort" med piltastene og trykk OK
+
+
+## Abonnementsstatus 1
+Velg "Abonnementsstatus" med piltastene og trykk OK
+
+
+## Abonnementsstatus 2
+Dato må vise inneværende måned.
+
+Hvis mottakeren ikke har vært i bruk på noen uker må den få oppdaterte tilgangsmeldinger fra RiksTV. Dette skjer automatisk, la mottaker stå på. Bilde kommer automatisk innen 30 minutter.
+
+
+## Kortnummer og paring-id 1
+Velg "Om Conax CA" med piltastene og trykk OK
+
+
+## Kortnummer og pairing-id 2
+Her vises kortnummeret (12 siffer) og Chip ID /Pairing-ID  (11 siffer).
+
+Trykk X for å gå tilbake til TV.
+

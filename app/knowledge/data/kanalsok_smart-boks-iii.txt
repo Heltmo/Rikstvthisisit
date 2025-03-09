@@ -1,0 +1,24 @@
+URL: https://www.rikstv.no/kundeservice/kanalsok/smart-boks-iii/
+Tittel: SMART-boks III
+
+Trykk Husknappen på fjernkontrollen for å åpne menyen.
+
+Velg tannhjulet helt til venstre og trykk OK. Du kommer nå inn i menyen "Innstillinger".
+
+Velg "Kanalsøk" ved å bruke piltastene. Trykk OK
+
+Velg "Automatisk kanalsøk" med piltastene.
+
+Trykk OK for å starte kanalsøket. Dette tar ca 5 minutter.
+
+Når kanalsøket er fullført trykk X for å avslutte.
+
+
+### Ferdig
+
+## Kanalsøk gjennomført!
+Om kanalsøket var vellykket så kan du nå se TV slik du pleier.
+
+Dersom du fortsatt opplever problemer kan du ta kontakt med kundeservice,
+            så vil vi hjelpe deg.
+

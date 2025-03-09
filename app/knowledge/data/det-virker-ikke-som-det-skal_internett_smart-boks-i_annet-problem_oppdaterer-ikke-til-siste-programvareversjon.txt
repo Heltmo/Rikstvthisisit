@@ -1,0 +1,23 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/internett/smart-boks-i/annet-problem/oppdaterer-ikke-til-siste-programvareversjon/
+Tittel: Oppdaterer ikke til siste programvareversjon
+
+- Kundeservice
+- Virker ikke
+- Internett
+- SMART-boks I
+- Annet problem
+
+Har du en programvareoppdatering som ikke går igjennom?
+
+Om dekoderen har en oppdatering som venter men den klarer ikke å gjennomføre oppdateringen så anbefaler vi at du tar en fabrikkinnstilling. Hvordan du gjør dette ser du her:
+
+- Fabrikkinnstilling
+
+Om dette ikke gjør at oppdateringen går gjennom så må du manuelt laste ned siste programvareversjon på en tom USB brikke, hvordan du gjør dette ser du her:
+
+- Laste ned siste programvareversjon
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

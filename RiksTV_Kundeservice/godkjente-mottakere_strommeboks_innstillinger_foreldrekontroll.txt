@@ -1,0 +1,38 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/strommeboks/innstillinger/foreldrekontroll/
+Tittel: Foreldrekontroll
+
+- Kundeservice
+- Godkjente mottakere
+- Strømmeboks
+- 
+
+
+## Trinn 1
+Åpne RiksTV appen og bla deg nedover med piltastene på fjernkontrollen til du kommer til Innstillinger, trykk OK.
+
+
+## Trinn 2
+Trykk OK på Innstillinger for å åpne din brukerside.
+
+
+## Trinn 3
+Velg Innstillinger med piltastene og trykk OK for å åpne menyen.
+
+
+## Trinn 4
+Velg PIN-kode og begrensninger og trykk OK.
+
+
+## Trinn 5
+Legg inn PIN-kode, denne er standard 1 2 3 4, dersom du ikke har endret koden. Trykk OK for å gå videre.
+
+
+## Trinn 6
+Velg Foreldrekontroll og trykk OK.
+
+
+## Trinn 7
+Velg ønsket aldersgrense. Når du har endret dette, så vil man måtte skrive inn PIN-kode for alle filmer/serie som er over denne aldersgrensen.
+
+For å komme tilbake til hjemskjermen: trykk på knappen som viser pil til venstre på fjernkontrollen.
+

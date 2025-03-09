@@ -1,0 +1,20 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/triax-tr500/feilsok/svart-skjerm/
+Tittel: Svart skjerm
+
+- Kundeservice
+- Godkjente mottakere
+- Triax TR500
+- 
+
+
+## Trinn 1
+Svart skjerm = Mottaker og kort er ikke pairet - men har fått tilgangsmelding.Vent noen minutter så kommer bildet.
+
+Eller det står feil RiksTV-kort i mottakeren.
+
+Hvis man kun får lyd på HD-kanaler, må programvaren oppdateres!
+
+Har mottaker mottatt pairing?Sjekk Visjon Norge. Har du bilde er pairing mottatt.
+
+Har hatt bilde og lyd men får nå denne meldingen:Er det RiksTV programkort som står i mottakeren?Hvis nei: Sett inn RiksTV-programkort.
+

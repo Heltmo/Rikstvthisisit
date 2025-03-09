@@ -1,0 +1,28 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/sagem-itd91hd/signal/forstegangsinstallasjon/
+Tittel: Førstegangsinstallasjon
+
+- Kundeservice
+- Godkjente mottakere
+- Sagem ITD91HD
+- 
+
+
+## Trinn 1
+Marker "Hurtiginstallering" og trykk OK
+
+
+## Trinn 2
+Kanalsøk starter.
+
+
+## Trinn 3
+Velg favorittnettverk med piltast høyre/venstre.Trykk piltast ned.
+
+
+## Trinn 4
+Markør står på "Neste". Trykk OKFørstegangsinstallasjon er ferdig. Hvis alt gikk greit kommer NRK1 på skjermen.
+
+
+## Trinn 5
+Kodede kanaler: Før kortet aktiveres står det "Ingen tilgang" på skjermen. Da venter kortet på en tilgangsmelding. Det kan ta 30 minutter.Ved svart skjerm venter mottakeren på pairingmelding som knytter kort og mottaker sammen. Det kan ta 60 minutter. Når både tilgangs- og pairingmelding er mottatt kommer bildet.
+

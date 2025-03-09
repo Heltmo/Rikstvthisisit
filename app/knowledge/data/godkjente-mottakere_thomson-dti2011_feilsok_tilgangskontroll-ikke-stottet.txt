@@ -1,0 +1,16 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/thomson-dti2011/feilsok/tilgangskontroll-ikke-stottet/
+Tittel: Tilgangskontroll ikke støttet
+
+- Kundeservice
+- Godkjente mottakere
+- Thomson DTI2011 HD
+- 
+
+
+## Signal fra en annen operatør
+Denne feilmeldingen vises dersom man mottar en kodet kanal fra en annen operatør (f.eks svenske kanaler).
+
+Sjekk hvilket program eller programnummer mottakeren står på.
+
+Er det et ukjent nummer eller program må man bytte til en RiksTV-kanal.
+

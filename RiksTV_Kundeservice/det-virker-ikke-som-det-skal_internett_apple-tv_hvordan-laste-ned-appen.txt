@@ -1,0 +1,36 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/internett/apple-tv/hvordan-laste-ned-appen/
+Tittel: Hvordan laste ned appen
+
+- Kundeservice
+- Virker ikke
+- Internett
+- Apple TV
+
+For å kunne laste ned innhold fra App store, så må du være innlogget med AppleID på din enhet.
+
+Har du ikke AppleID fra før så må du opprette dette. Du finner veiledning for det her:
+
+- Opprette AppleID
+
+Nedenfor finner du veiledning for å logge inn med AppleID via App store.
+
+
+## Trinn 1
+Gå inn på "App store" via hjemskjermen.
+
+
+## Trinn 2
+Velg søk og skriv inn navnet på appen du skal laste ned
+
+
+## Trinn 3
+Velg "Hent" for å laste ned appen. Du blir da tatt til innlogging.
+
+
+## Trinn 4
+Legg inn ditt brukernavn for AppleID, velg "Fortsett"
+
+
+## Trinn 5
+Legg inn ditt passord og velg "Logg på"
+

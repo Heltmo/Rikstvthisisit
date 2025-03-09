@@ -1,0 +1,101 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/grundig-dtr8720-8820/
+Tittel: Grundig DTR 8720 / 8820
+
+- Kundeservice
+- Godkjente mottakere
+
+- 
+- 
+- 
+- 
+
+< Tilbake
+
+
+## Last ned
+Brukerveiledning for DTR 8720 (pdf, norsk tekst)
+
+Brukerveiledning for DTR 8820 (pdf, norsk tekst)
+
+Bilde av fjernkontroll
+
+
+## Brukerveiledning
+
+### Signal
+- 5 volt for forsterker
+- Signalsjekk
+- Fabrikkinnstilling
+- Førstegangsinstallasjon
+
+
+### Kanal
+- Favorittliste
+- Automatisk kanalsøk
+- Manuelt kanalsøk
+
+
+### Innstillinger
+- Foreldrekontroll
+- Skjermformat
+
+
+### Info
+- Serienummer
+- Programvareversjon og pairingID
+- Kortnummer
+- Abonnementsstatus
+- Mottaker og kort
+
+
+### Feilsøk
+- Problemer med fjernkontrollen?
+- Feil i kommunikasjon med kort
+- Ingen lyd
+- Ikke lyd/bilde eller venter på programoppdatering
+- Ingen tilgang
+- Intet signal funnet
+- Kortet er ikke satt inn
+
+
+## Modeller
+DTR8720
+
+DTR8820
+
+
+## Spesifikasjoner
+Følgende frekvensområder støttes av mottakeren i tillegg til UHF frekvensene 470 - 862MHz som støttes av alle godkjente mottakere:
+
+- VHF III 174 – 230 MHz       - JA
+- S Band II 230 – 300 MHz   - JA
+- S Band III 300 – 470 MHz  - JA
+
+Denne mottakeren støtter alle alternative frekvenser for distribusjon av RiksTVs signaler i kabelnett.
+
+- 12 Volt
+- 5 Volt antenneforsterker
+- VHF-støtte
+- SCART-utgang
+- Optisk S/PDIF-utgang
+- Coax S/PDIF-utgang
+- Rca Stereo
+- RF Loop Through
+- Dobbel tuner
+- Elektronisk Program Guide
+- Radio applikasjon
+- Hjelpefunksjoner
+- Foreldrekontroll
+- Teletext
+- Kanalliste
+- Opptaksmulighet
+- Pause/spole funksjonalitet
+- Internettilkobling
+- Fjernkontroll m/batterier
+- SCART kabel
+- HDMI kabel
+- Antennekabel
+- Strømkabel
+- Brukermanual (no/en)
+- Blu-Ray
+

@@ -1,0 +1,26 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/smart-boks-pvr/innstillinger/standby-oppsett/
+Tittel: Standby-oppsett (hvilemodus)
+
+- Kundeservice
+- Godkjente mottakere
+- SMART-boks PVR
+- 
+
+- slik endrer du Standby-innstillingene
+
+
+## Trinn 1
+Trykk Menu på fjernkontrollen for å åpne menyen.
+
+Velg ”Valg og innstillinger”, benytt sidepiltastene. Trykk OK
+
+
+## Trinn 2
+Marker "Standby oppsett". Trykk OK
+
+
+## Trinn 3
+Velg om mottakeren skal gå i standby/hvilemodus etter 4, 6, 8 eller 12 timer.
+
+Mottakeren er i utgangspunktet stilt til 4 timer. Den vil da gå i standby dersom fjernkontrollen ikke har vært i bruk de siste 4 timer.
+

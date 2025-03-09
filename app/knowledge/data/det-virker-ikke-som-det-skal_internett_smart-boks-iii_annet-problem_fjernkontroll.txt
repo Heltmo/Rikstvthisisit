@@ -1,0 +1,28 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/internett/smart-boks-iii/annet-problem/fjernkontroll/
+Tittel: Fjernkontroll
+
+- Kundeservice
+- Virker ikke
+- Internett
+- SMART-boks III
+- Annet problem
+
+Når du trykker på knappene på fjernkontrollen din så vil det normalt lyse helt øverst på den. Det skal ikke blinke hele tiden, kun når du trykker inn en knapp.
+
+Blinker det ikke når du trykker på noen knapper så må batteriene sjekkes.
+
+Sitter de riktig vei? Prøv eventuelt med nye batterier.Du trenger 2 AAA batterier som skal inn i fjernkontrollen og begge skal settes med minus inn i fjernkontrollen. Batteribytte gjøres ved å dra metalldelen ned og ut.
+
+Har du byttet batterier?Da kan det være du må koble sammen fjernkontrollen med dekoder på nytt.
+
+
+## 
+- Rett fjernkontrollen mot dekoder (stå så nærme som mulig, maks 1 meter) og trykk på «Play» og «OK» samtidig til fjernkontrollen begynner å blinke.
+- Mens fjernkontrollen blinker: hold inne knappen foran på dekoder i 11 sekunder til den begynner å blinke blått (den vil bli grønn etter 5 sekunder, deretter blå).
+- Hvis fjernkontrollen ikke blinker lenger, trykker du OK for å fortsette parringen.
+- Fjernkontrollen og dekoder er nå koblet sammen.
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

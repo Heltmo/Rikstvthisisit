@@ -1,0 +1,42 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/strong-srt8910/signal/forstegangsinstallasjon/
+Tittel: Førstegangsinstallasjon
+
+- Kundeservice
+- Godkjente mottakere
+- Strong SRT8910
+- 
+
+
+## Trinn 1
+Velg ønsket TV-format med pil høyre. Trykk OK for hurtiginstallasjon.
+
+
+## Trinn 1a
+Trykk Blå.(Det er mulig å se signalkvalitet først: trykk Menu for avansert kanalsøk)
+
+
+## Trinn 1b
+- Marker linjen "Mux"
+- Skriv inn kanalfrekvens med talltastene.
+
+Mottaker viser signalstyrke.
+
+Ved manglende signal
+
+- Sjekk tilkoblingene. Er antennekabelen tilkoblet mottakeren?
+- Sjekk også senderstatus. Det kan være arbeid eller feil på senderen.
+
+Trykk OK for søk. Mottaker søker nå alle frekvenser.
+
+
+## Trinn 2
+Søker...
+
+
+## Trinn 3
+Velg ønsket region. Trykk OK
+
+
+## Trinn 4
+Mottaker går til TV-visning.
+

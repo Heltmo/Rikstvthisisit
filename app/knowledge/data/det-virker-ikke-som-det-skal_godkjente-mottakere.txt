@@ -1,0 +1,11 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/godkjente-mottakere/
+Tittel: Godkjente mottakere
+
+Her finner du brukerveiledninger for din mottaker. Du finner også en oversikt over alle RiksTV-godkjente TV-er og kortlesere.
+
+Mangler du kanaler eller opplever du andre tekniske feil? Da bør du prøve vårt feilsøk det virker ikke som det skal
+
+- {{tab.name}}
+
+
+## {{reciever.name}}

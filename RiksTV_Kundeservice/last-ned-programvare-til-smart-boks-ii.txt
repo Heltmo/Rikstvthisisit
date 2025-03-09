@@ -1,0 +1,24 @@
+URL: https://www.rikstv.no/kundeservice/last-ned-programvare-til-smart-boks-ii/
+Tittel: Last ned programvare til SMART-boks II
+
+- Kundeservice
+
+Her finner du nyeste versjon av programvaren.
+
+Slik gjør du:
+
+- Last ned filen (kfs.zmg)
+- Kopier filen til en tom USB-stick
+- Sett USB-sticken inn i USB-inngangen på baksiden av dekoderen
+- Vent... (ca 1-2 minutter)(Hvis det kommer melding om at USB-stick er for liten: overse denne meldingen)
+- Boksen starter automatisk opp igjen
+- Ta ut USB-stick
+
+Hvis det ligger en fil som heter "kfs.zmg.installed" på USB-sticken er oppdateringen vellykket og mottakeren din er oppdatert med siste versjon av programvaren.
+
+
+## Relatert innhold
+- Programvare for RiksTV-mottakere
+- SMART-boks II
+- SMART-boks II PVR
+

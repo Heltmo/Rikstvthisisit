@@ -1,0 +1,32 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/internett/strommeboks/jeg-far-feilmelding/noe-gikk-galt/
+Tittel: Noe gikk galt
+
+- Kundeservice
+- Virker ikke
+- Internett
+- Strømmeboks
+- Jeg får feilmelding
+
+Dette kan skyldes at noe har skjedd med selve appen, eller at det er dårlig kobling til internett.
+
+Du må først sjekke:
+
+- At internett fungerer på andre enheter hjemme hos deg som f.eks. mobil eller PC.
+- At det ikke er noe skader på nettverkskabel som går fra ruter til Strømmeboks.
+
+Hvis internett ikke fungerer på andre enheter, så anbefaler vi at du kontakter din nettverksleverandør for videre feilsøk.
+
+Fungerer internett på andre enheter? Da kan du prøve å spille av f.eks NRK TV appen på strømmeboksen.
+
+Er alt i orden med andre apper på din Strømmeboks, så kan du tvinge avslutning og slette data på RiksTV-appen før du prøver på nytt.
+
+Opplever du problemer med alle installerte apper, så kan du gjøre følgende:
+
+- Trekk ut strømmen fra Strømmeboks.
+- Vent 30 sekunder.
+- Koble til strøm på nytt.
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

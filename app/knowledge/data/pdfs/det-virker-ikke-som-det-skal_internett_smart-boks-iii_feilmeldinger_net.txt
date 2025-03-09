@@ -1,0 +1,129 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/internett/smart-boks-iii/feilmeldinger/net/
+Tittel: NET
+
+- Kundeservice
+- Virker ikke
+- Internett
+- SMART-boks III
+- Jeg får feilmelding
+
+NET-feilmeldinger kommer ofte av ustabil nettverkstilkobling.
+
+Vi anbefaler at du benytter deg av en nettverkskabel fra ruter til dekoder for å koble til internett. Dette er for å sikre en mer stabil nettverkslinje til dekoder.
+
+Bruker du mobilt bredbånd eller trådløs tilkobling, så kan dette ofte gi en ustabil tilkobling.
+
+Du må først sjekke følgende:
+
+- At internett fungerer på andre enheter hjemme hos deg som f.eks. mobil eller PC.
+- At det ikke er noe skader på nettverkskabel som går fra ruter til dekoder.
+
+- Alt OK med internett
+
+Alt i orden med nettverkstilkobling? Nedenfor ser du videre feilsøk.
+- Feil med internett
+
+Har du problemer med internett, ta kontakt med din internettleverandør. 
+Var det feil med kabler, som du har korrigert, men du får fortsatt feilmelding? Gå tilbake til feilmeldinger eller ta kontakt med oss, så hjelper vi deg.
+
+
+### Alt OK med internett
+Alt i orden med nettverkstilkobling? Nedenfor ser du videre feilsøk.
+
+
+### Feil med internett
+Har du problemer med internett, ta kontakt med din internettleverandør.
+
+Var det feil med kabler, som du har korrigert, men du får fortsatt feilmelding? Gå tilbake til feilmeldinger eller ta kontakt med oss, så hjelper vi deg.
+
+Hvilket tall står i feilmeldingen på skjermen din?
+
+- NET - 1, 2 og 3
+
+Feilmeldingen NET-1, NET-2 og NET-3, betyr at dekoder har problemer med nettverket. 
+ 
+Er alt i orden med oppkoblingen av utstyret så kan du gjøre følgende:
+
+Ta ut strømkabelen fra nettverksruter.
+Ta ut alle kabler fra dekoder.
+Vent 30 sekunder.
+Koble til strømmen på nettverksruter.
+Vent til nettet er tilbake. (Dette kan ta 5 minutter)
+Sett i strømkabel til dekoder igjen og vent 40 sekunder.
+Sett i de resterende kablene.
+La dekoder starte opp før du prøver på nytt.
+
+ 
+Fungerer det ikke så må du gjøre en fabrikkinnstilling.
+Opplever du fortsatt problemer, anbefaler vi at du kontakter din internettleverandør.
+- Ta ut strømkabelen fra nettverksruter.
+- Ta ut alle kabler fra dekoder.
+- Vent 30 sekunder.
+- Koble til strømmen på nettverksruter.
+- Vent til nettet er tilbake. (Dette kan ta 5 minutter)
+- Sett i strømkabel til dekoder igjen og vent 40 sekunder.
+- Sett i de resterende kablene.
+- La dekoder starte opp før du prøver på nytt.
+- NET - 4
+
+Får du opp NET - 4 på skjermen din kan det være en feil på tjenesten. Ta gjerne en titt på Driftsstatus siden vår for å se om det er noe vi jobber med.
+
+ 
+Er det ikke ett kjent problem vi jobber med for øyeblikket, anbefaler vi at du prøver følgende:
+
+Ta ut strømkabelen fra nettverksruter.
+Ta ut alle kabler fra dekoder.
+Vent 30 sekunder.
+Koble til strømmen på nettverksruter.
+Vent til nettet er tilbake. (Dette kan ta 5 minutter)
+Sett i strømkabel til dekoder igjen og vent 40 sekunder.
+Sett i de resterende kablene.
+La dekoder starte opp før du prøver på nytt.
+
+ 
+Opplever du fortsatt problemer, anbefaler vi at du kontakter din internettleverandør.
+- Ta ut strømkabelen fra nettverksruter.
+- Ta ut alle kabler fra dekoder.
+- Vent 30 sekunder.
+- Koble til strømmen på nettverksruter.
+- Vent til nettet er tilbake. (Dette kan ta 5 minutter)
+- Sett i strømkabel til dekoder igjen og vent 40 sekunder.
+- Sett i de resterende kablene.
+- La dekoder starte opp før du prøver på nytt.
+
+
+### NET - 1, 2 og 3
+Feilmeldingen NET-1, NET-2 og NET-3, betyr at dekoder har problemer med nettverket.
+
+Er alt i orden med oppkoblingen av utstyret så kan du gjøre følgende:
+
+- Ta ut strømkabelen fra nettverksruter.
+- Ta ut alle kabler fra dekoder.
+- Vent 30 sekunder.
+- Koble til strømmen på nettverksruter.
+- Vent til nettet er tilbake. (Dette kan ta 5 minutter)
+- Sett i strømkabel til dekoder igjen og vent 40 sekunder.
+- Sett i de resterende kablene.
+- La dekoder starte opp før du prøver på nytt.
+
+Fungerer det ikke så må du gjøre en fabrikkinnstilling.
+
+Opplever du fortsatt problemer, anbefaler vi at du kontakter din internettleverandør.
+
+
+### NET - 4
+Får du opp NET - 4 på skjermen din kan det være en feil på tjenesten. Ta gjerne en titt på Driftsstatus siden vår for å se om det er noe vi jobber med.
+
+Er det ikke ett kjent problem vi jobber med for øyeblikket, anbefaler vi at du prøver følgende:
+
+- Ta ut strømkabelen fra nettverksruter.
+- Ta ut alle kabler fra dekoder.
+- Vent 30 sekunder.
+- Koble til strømmen på nettverksruter.
+- Vent til nettet er tilbake. (Dette kan ta 5 minutter)
+- Sett i strømkabel til dekoder igjen og vent 40 sekunder.
+- Sett i de resterende kablene.
+- La dekoder starte opp før du prøver på nytt.
+
+Opplever du fortsatt problemer, anbefaler vi at du kontakter din internettleverandør.
+

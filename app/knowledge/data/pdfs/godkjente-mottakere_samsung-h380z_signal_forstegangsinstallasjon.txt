@@ -1,0 +1,49 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/samsung-h380z/signal/forstegangsinstallasjon/
+Tittel: Førstegangsinstallasjon
+
+- Kundeservice
+- Godkjente mottakere
+- Samsung DTB-H380Z
+- 
+
+
+## Trinn 1
+Velg "Rask". Trykk OK
+
+
+## Trinn 2
+Søker...
+
+
+## Trinn 3
+Søket er ferdig og viser hvor mange tv- og radiokanaler som ble funnet.
+
+Velg "OK", trykk OK
+
+Ved manglende signal må du:
+
+- sjekke alle tilkoblinger. Er antennekabelen tilkoblet mottakeren?
+- sjekke senderstatus. Det kan være arbeid eller feil på senderen.
+
+
+## Trinn 4
+"Vennligst vent" popper opp i 2-3 sekunder.
+
+
+## Trinn 5
+Velg ønsket nettverk. Trykk OK
+
+Hvis mottakeren mottar signal fra flere regioner, må du nå velge. Dette avgjør hvilken NRK-sending som vil ligge på programplass 1 og hvilken (eventuell - hvis tilgjengelig) lokal-tv-stasjon som vil ligge på programplass 52.
+
+
+## Trinn 6
+Bekreft ved å trykke OK
+
+
+## Trinn 7
+"Vennligst vent" popper opp i 2-3 sekunder. Nå skal alle kanaler som er tilgjengelige være installert, og du kan se på TV.
+
+
+## Trinn 8
+Denne meldingen vises fordi programkortet venter på en statusmelding. Dette skjer automatisk. Vent noen minutter så vil bilde komme.
+

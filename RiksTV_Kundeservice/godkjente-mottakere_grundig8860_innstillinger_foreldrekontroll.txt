@@ -1,0 +1,88 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/grundig8860/innstillinger/foreldrekontroll/
+Tittel: Foreldrekontroll, aldersgrense, kanalsperre og PIN-kode
+
+- Kundeservice
+- Godkjente mottakere
+- Grundig DTR8860 PVR
+- 
+
+
+## Trinn 1
+Trykk Menu på fjernkontrollen for å åpne menyen. Trykk 4 eller velg "Installasjon". Trykk OK
+
+
+## Aldersgrense: Trinn 2
+Trykk 3 eller velg ”Foreldrekontroll”. Trykk OK
+
+
+## Aldersgrense: Trinn 2b
+Dersom foreldrekontroll har blitt aktivert, må tidligere PIN-kode benyttes. Tast PIN-kode (Standard kode er 1 2 3 4).
+
+
+## Aldersgrense: Trinn 3
+Trykk 1 eller velg "Beskyttelsesstatus”. Trykk OK
+
+
+## Aldersgrense: Trinn 4
+
+## Aldersgrense: Trinn 5
+Trykk 2 eller velg "Foreldrekontroll". Trykk OK
+
+
+## Aldersgrense: Trinn 6
+Velg aldersgrense. Velg mellom
+
+- 7 år
+- 11 år
+- 15 år
+- Voksne
+- Se alt
+
+Trykk OK
+
+Trykk LiveTV for å avslutte.
+
+
+## Kanalsperre: Trinn 5*
+* (Fortsettelse fra steg 4 i "Aldersgrense").
+
+Trykk 3 eller velg "Kanalsperre". Trykk OK
+
+
+## Kanalsperre: Trinn 6
+Velg "TV" eller "Radio". Trykk OK
+
+
+## Kanalsperre: Trinn 7
+Velg kanal som skal sperres/åpnes. Trykk OK
+
+Gjenta prosedyre ved sperring/åpning av flere kanaler.
+
+Trykk LiveTV for å avslutte.
+
+
+## Kanalsperre: Trinn 8
+Når man velger en sperret kanal må man taste PIN-koden for å få tilgang.
+
+
+## PIN-kode endring: Trinn 3*
+* (Fortsettelse fra Trinn 2 i 'Aldersgrense') Trykk 4 eller marker "Bytt PIN". Trykk OK
+
+
+## PIN-kode endring: Trinn 4
+Tast nåværende PIN-kode. Standard PIN-kode er 1234.
+
+Tast ny PIN-kode 2 ganger
+
+
+## PIN-kode endring: Trinn 5
+PIN er endret = Alt tastet inn riktig.
+
+
+## PIN-kode endring: Trinn 6
+PIN er feil: det er tastet feil nåværende kode.
+
+
+## PIN-kode endring: Trinn 7
+Ny kode ble ikke tastet likt inn 2 ganger.
+

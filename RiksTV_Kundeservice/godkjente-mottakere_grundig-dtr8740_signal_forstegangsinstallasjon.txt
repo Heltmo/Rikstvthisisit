@@ -1,0 +1,53 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/grundig-dtr8740/signal/forstegangsinstallasjon/
+Tittel: Førstegangsinstallasjon
+
+- Kundeservice
+- Godkjente mottakere
+- Grundig DTR8740
+- 
+
+
+## Trinn 1
+Trykk OK for å starte.
+
+
+## Trinn 2
+Søker etter ny programvare.Vent til den er ferdig.Den går automatisk videre.
+
+
+## Trinn 3
+Trykk 1 eller velg ønsket språk. Trykk OK
+
+
+## Trinn 4
+Trykk 1 eller trykk OK for rask installasjon
+
+
+## Trinn 5
+Velg skjermformat:
+
+- enten 1 for "Bredformat (16:9)"
+- eller 2 for "Standard TV (4:3)"
+
+De fleste nyere TV-er har "Bredformat (16:9)".
+
+
+## Trinn 6
+Kanalsøk: Mottakeren søker nå etter alle tilgjengelige kanaler.
+
+Hvis søket ikke starter kan det være at "5 volt" kortslutter (får en overbelastning).Løsning: Skru av 5 volt for forsterker og start søk på nytt.
+
+
+## Trinn 7
+Velg region: Hvis flere regioner er tilgjengelig må du velge ønsket region. Trykk OKHvis det kun er en region tilgjengelig vil denne velges automatisk.
+
+
+## Feil?
+Skjedde det en feil under kanalsøket?Trykk Meny og gjør et manuelt kanalsøk.
+
+Du kan også sjekke senderstatus - det kan være arbeid eller feil på senderen som du mottar signaler fra.
+
+
+## Trinn 8
+Meldingen "Kanalsøk vellykket" vises på skjermen, og Trykk OK for å avslutte.
+

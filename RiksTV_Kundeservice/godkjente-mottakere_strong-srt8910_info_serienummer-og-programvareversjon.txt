@@ -1,0 +1,24 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/strong-srt8910/info/serienummer-og-programvareversjon/
+Tittel: Serienummer og programvareversjon
+
+- Kundeservice
+- Godkjente mottakere
+- Strong SRT8910
+- 
+
+
+## Trinn 1
+Trykk Menu på fjernkontrollen for å åpne menyen. Trykk 4 eller velg "Installasjon". Trykk OK
+
+
+## Trinn 2
+Velg "Informasjon". Trykk OK
+
+
+## Trinn 3
+Velg "Systeminformasjon". Trykk OK
+
+
+## Trinn 4
+Serienummer: her viser det 6701 0842 0000 0076.Programvareversjon er det samme som Softwareversjon.Her viser det 1.7.65604
+

@@ -1,0 +1,37 @@
+URL: https://www.rikstv.no/kundeservice/sjekk-dekning/
+Tittel: Dekningsgaranti
+
+- i det digitale bakkenettet
+
+Dersom ditt hus eller fritidsbolig befinner seg innenfor grått eller grønt område på dekningskartet, kan du få inn signaler med antenneutstyret vårt. Dersom du mot formodning ikke får inn signalene, kan du helt uten kostnad returnere utstyret ditt og si opp abonnementet innen 30 dager etter kjøpet.
+
+RiksTVs dekningsgaranti gjelder for RiksPakken, Basis og Favoritter.
+
+
+## Sjekk din dekning
+Legg inn adressen der du skal bruke utstyret ditt. Husk at du også kan motta ditt TV-abonnement via internettet, men her er du selv ansvarlig for at du har tilstrekkelig hastighet. Vi anbefaler 10 Mbit/s for best resultat, men du kan se innhold helt ned til 1.5 Mbit/s.
+
+Leter du etter postnummer? Se http://adressesok.posten.no/
+
+Ja, selvfølgelig kan du få RiksTV!
+
+Bestill nå
+
+Det ser ut til at det ikke er dekning på den adressen du søkte etter.
+
+Det kan likevel være at det er dekning, ta en titt på dekningskartet vårt, eller sjekk med ekspertene på vårt kundesenter. Telefon kundesenter 210 10 210
+
+Tøm skjema og søk på annen adresse
+
+{{ctrl.errorMsg}}
+
+Tøm skjema og søk på annen adresse
+
+
+## ... eller du kan søke i kartet
+Søk etter gateadresse, postnummer, stedsnavn eller by for å finne dekning:
+
+Ved å klikke på SØK åpnes et nytt vindu som viser kart med dekning. Mobil: gå til mobil versjon
+
+SatellittskyggeRundt 5200 husstander ligger i områder med såkalt satellittskygge. Dette betyr at de ikke kan få TV-signaler via verken fra digitalt bakkenett, via parabol eller via kabel-TV (eller har tilgang til andre former for TV-mottak). Gå til dekningskart for satellittskygge.
+

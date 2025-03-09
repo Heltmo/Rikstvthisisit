@@ -1,0 +1,25 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/antenne/smart-boks-ii/problem-med-kanaler/feil-lokalsending-pa-nrk/
+Tittel: Feil lokalsending på NRK
+
+- Kundeservice
+- Virker ikke
+- Antenne
+- SMART-boks II
+- Problem med kanaler
+
+Feil lokalsending på NRK1 kan skje hvis det er valgt feil region ved kanalsøk eller dekoder er koblet til internett.
+
+Om man er koblet til internett så får man kun inn lokalsending fra Oslo på NRK1.  Letteste måten å undersøke om man er koblet til internett er ved å prøve Start forfra funksjonen, hvis dette fungerer så er dekoder koblet til internett.
+
+Tar man kun inn signaler via antenne så må man være sikker på at man har hentet signaler fra det fylket man ønsker lokalsending fra. Du finner informasjon om lokalsendinger over internett her:
+
+- Lokalsending på NRK
+
+Dette velges nomalt når man gjør ett kanalsøk, så hvis det er feil lokalsending så anbefaler vi å gjøre ett nytt kanalsøk:
+
+- Automatisk kanalsøk
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

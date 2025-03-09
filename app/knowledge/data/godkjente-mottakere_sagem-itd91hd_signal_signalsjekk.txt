@@ -1,0 +1,52 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/sagem-itd91hd/signal/signalsjekk/
+Tittel: Signalsjekk
+
+- Kundeservice
+- Godkjente mottakere
+- Sagem ITD91HD
+- 
+
+
+## Trinn 1
+Trykk Menu på fjernkontrollen for å åpne menyen.
+
+
+## Trinn 2
+Velg "Mottakerinnstillinger". Trykk OK
+
+
+## Trinn 3
+Velg "Kanalsøk". Trykk OK
+
+
+## Trinn 4
+Velg "Signalsjekk". Trykk OK
+
+
+## Trinn 5 - OK
+Velg kanal ved å bruke venstre/høyre piltaster på "Kanal".Er signalet tilfredsstillende vises meldingen "Signalet OK".
+
+
+## Trinn 5 - for lavt
+Meldingen "Signalet er for lavt" vises hvis du har signal, men det er for dårlig.
+
+Løsning: Dersom bildet hakker og signalmeteret viser ustabile signaler, er det som oftest feil på antenneinstallasjonen.
+
+
+## Trinn 5c
+Dersom signalet er fraværende vises meldingen: "Finner ikke noe digitalt signal".
+
+Løsning: Sjekk senderstatus.
+
+For ytterligere diagnose av signalet: Velg "Diagnose". Trykk OK
+
+
+## Trinn 6
+Frekvensen som vises er hentet fra den kanalen man stod på da man trykket "Menu".
+
+- Signalstyrke bør ikke være lavere enn - 68 dBm
+- CBER = signalet målt før mottaker har korrigert det. Trenger ikke være konstant.
+- VBER = signalet målt etter at mottaker har korrigert/rettet opp bilde. Bør ligge konstant på 0.
+
+Trykk  for avslutte.
+

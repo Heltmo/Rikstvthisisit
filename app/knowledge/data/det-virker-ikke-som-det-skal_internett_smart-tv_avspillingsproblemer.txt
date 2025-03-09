@@ -1,0 +1,48 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/internett/smart-tv/avspillingsproblemer/
+Tittel: Avspillingsproblemer
+
+- Kundeservice
+- Virker ikke
+- Internett
+- Smart-TV
+
+Dette kan skyldes at noe har skjedd med selve appen, dårlig kobling til internett eller om det er oppdaget bruk av VPN tjeneste.
+
+Du må først sjekke:
+
+- At internett fungerer på andre enheter hjemme hos deg som f.eks. mobil eller PC.
+- At det ikke er noe skader på nettverkskabel.
+
+Hvis internett ikke fungerer på andre enheter, så anbefaler vi at du kontakter din nettverksleverandør for videre feilsøk.
+
+Fungerer internett på andre enheter? Da kan du prøve å spille av f.eks NRK TV appen.
+
+Er alt i orden med andre apper på enheten din, så kan du prøve å restarte appen helt. Bruker du f.eks husknappen så blir appen kjørende i bakgrunnen, selv om den har kommet inn i en error state.
+
+Du må da holde inne tilbake knappen på fjernkontrollen til appen lukker seg, eller du får spørsmål om du vil lukke appen. Da laster alt inn på nytt når du åpner appen igjen.
+
+Opplever du problemer med alle installerte apper, så kan du gjøre følgende:
+
+- Trekk ut strømmen fra TV.
+- Vent 30 sekunder.
+- Koble til strøm på nytt.
+
+Hjelper ikke dette må du sjekke om du benytter deg av VPN tjeneste. Er du usikker kan du kontakte din nettverksleverandør for hjelp.
+
+
+### 
+- Hvorfor er VPN sperret?
+
+Grunnen til VPN-sperre er at det er bestemt i avtalene med innholdsleverandører at tjenesten ikke skal være tilgjengelig via VPN eller andre såkalte anonymiseringstjenester.
+RiksTV-appen kan brukes i EU/EØS, men avspilling sperres ved VPN-tjeneste uavhengig av hvor du befinner deg.
+
+
+### Hvorfor er VPN sperret?
+Grunnen til VPN-sperre er at det er bestemt i avtalene med innholdsleverandører at tjenesten ikke skal være tilgjengelig via VPN eller andre såkalte anonymiseringstjenester.
+
+RiksTV-appen kan brukes i EU/EØS, men avspilling sperres ved VPN-tjeneste uavhengig av hvor du befinner deg.
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

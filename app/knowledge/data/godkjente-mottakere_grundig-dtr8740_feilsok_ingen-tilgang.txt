@@ -1,0 +1,27 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/grundig-dtr8740/feilsok/ingen-tilgang/
+Tittel: Ingen tilgang
+
+- Kundeservice
+- Godkjente mottakere
+- Grundig DTR8740
+- 
+
+
+## Ingen tilgang
+Denne feilmeldingen vises dersom:
+
+- Programkortet venter på oppdatering. (Lenge siden det var i bruk sist eller nytt kort)
+- Manglende betaling
+- Du mangler abonnement på gjeldende kanal
+- Det sendes "voksenfilm" som ikke vises
+- Det står et annet kort enn RiksTV Programkort i mottakeren
+- Det står feil RiksTV Programkort i mottakeren. Kort og mottaker må stå på samme kundebilde.
+
+
+## Løsning
+Sett RiksTV Programkort i mottaker som står på samme kunde.Dersom programkortet ikke har vært i bruk siste 2-3 måneder må mottaker stå på i 30 minutter. Programkortet vil automatisk motta en tilgangsmelding.
+
+Sjekk Abonnementsstatus. Har kortet mottatt oppdatering?Dato må være inneværende måned.
+
+Har det vært manglende betaling, tar det 4 - 5 virkedager etter betaling før tilgangen kommer tilbake.
+

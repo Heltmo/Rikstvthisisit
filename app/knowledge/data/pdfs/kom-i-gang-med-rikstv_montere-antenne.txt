@@ -1,0 +1,78 @@
+URL: https://www.rikstv.no/kundeservice/kom-i-gang-med-rikstv/montere-antenne/
+Tittel: Montere antenne
+
+- Kundeservice
+- Kom i gang med RiksTV
+
+Vi anbefaler at du alltid bruker en utendørs retningsbestemt UHF-antenne. Den bør stå høyt og fritt, plassert ute, og skal som hovedregel alltid være rettet mot beste sender. Bruk dekningskartet for å finne din beste sender.
+
+
+## Slik monterer du antennen
+- Sett sammen selve antennen (bruksanvisning ligger i pakken)
+- Har du utstyr fra før som du ønsker å bruke? Vår anbefaling er at du ikke bruker utstyr (antenne og kabler) som er eldre enn 12-15 år. Se eget avsnitt
+- Monter antennen høyt og fritt utendørs, pekende mot beste sender
+- Fest antennekabel til antenne
+- Før antennekabelen inn gjennom et vindu (Merk! Vent med boring da du først må sjekke om signal/TV-bildet er bra)
+- Sett på IEC-hannplugg på antennekabel og koble dekoder til TV-en
+- Når signalet er stabilt kan antennekabel festes til vegg/mast med festemateriellet
+- Punkt 1 – 7 er viktig å gjøre før du starter med montering av antennefeste, kabel, boring med mer
+- Dersom du borer i vegg, bruk 10 mm bor og pass på at du ikke treffer vannrør eller elektriske ledninger. Tips! Ikke bore rett over eller under en stikkontakt hvis du har skjult strømanlegg. Ikke bore i vinduskarmen.
+- Du må bore innenfra og ut, da unngår du å få hullet for høyt eller for lavt på innervegg. Bor svakt nedover så vannet ikke kan følge kabelen
+- Før antennekabel inn i huset. La alltid kabel gå i en liten bue nedenfor hullet i veggen utvendig. Da lager du en «vannlås» og du unngår å få vann inn i veggen, eller alternativt bruk silikon til tetting rundt kabel. Pass på at kabelen ikke er klemt fast i dører eller vinduskarmer
+- Tilpass riktig kabellengde, slik at du ikke får mye overflødig kabel
+- Etter å ha tredd kabelen igjennom veggen, skal du sette på antennepluggen (hannplugg eller F-konnektor)
+- Gjør nytt kanalsøk. Du får tilgang til NRK umiddelbart, mens det tar ca. 30 minutter før alle kanalene er tilgjengelige
+
+
+## Benytter du gammelt utstyr?
+- Antennekoblinger og kabler må være hele og uskadde
+- Sjekk at antennen er tilpasset signalstyrken i området (se dekningskart), hvis ikke anbefaler vi å bytte til ny antenne.
+- Har du ekstra deler eller utstyr på kabelen som ikke er i bruk – fjern disse (for eksempel signalfordeler/splitter eller filter).
+
+
+## Antenner
+
+### Produktinformasjon
+- Stor TV-antenne
+- TV-antenne for bobil, båt og camping
+
+
+## Relatert innhold
+- Senderstatus
+
+Martin, RiksTVs montør
+
+
+## Etter at monteringen er ferdig
+Har du problemer med ustabil lyd og bilde?
+
+- Sjekk at antenne står vendt mot anbefalt sender (se dekningskart) og at det er fritt for vegetasjon tett innpå antennen.
+- Forsøk å vri på antennen eller flytt den til siden eller høyere opp
+- Sjekk også mottakerens signalmeter for å se kvalitet og styrke på signal. Kvalitet på signalet bør være 100 %. Styrke vil variere ut i fra avstand til sender og om du bruker forsterker eller ikke.
+
+
+## Les mer om
+
+### Signalfordeler (splitter)
+Har du TV i flere rom, trenger du en signalfordeler for at TV-signalene skal kunne fordeles til flere mottakere. Plasser den mellom antennen og mottakerne. Bruk ikke en fordeler med flere utganger enn nødvendig, da de ekstra utgangene vil dempe signalstyrken selv om de ikke brukes.
+
+
+### Antenneforsterker
+Antenneforsterker brukes når TV-signalene er svake og du allerede har en stor utendørsantenne. I følgende tilfeller kan det være behov for forsterker:
+
+- Ved flere TV-er vil signalstyrken dempes, og det kan være behov for forsterker
+- Hvis dekningskartet viser at senderen er for langt unna, kan forsterker være en løsning
+
+I stort sett alle andre tilfeller, vil en forsterker mest sannsynlig forverre signalene, så bruk den kun ved behov.
+
+
+## Antenneforsterker og TV med innebygd kortleser
+Antenneforsterkeren er en del av RiksTVs store antennepakke. Den kan også kjøpes hos en TV-forhandler. For å benytte en forsterker krever det 5 volts strøm, noe alle RiksTVs mottakere har (det finnes forsterkere som krever høyere spenning, 12 - 24 volt, disse må tilkobles 220 volt).
+
+Dersom du benytter en TV med innebygd kortleser (IDTV), er det imidlertid ikke sikkert at TV-en har innebygd strømforsyner av 5 volts strøm. I så fall kan du skaffe deg en ekstern strømforsyner (inserter), som skal plasseres i TV-ens antenneinngang.
+
+Slik gjør du:
+
+- Fest forsterkeren ute ved antennen med ca. 1 meter kabel mellom antenne og forsterker.
+- Øk antennestørrelsen før forsterkeren monteres – da får du bedre signaler inn. Sjekk at du ikke bruker forsterkere beregnet for kabel-TV. Disse kan ødelegge mer enn å hjelpe.
+

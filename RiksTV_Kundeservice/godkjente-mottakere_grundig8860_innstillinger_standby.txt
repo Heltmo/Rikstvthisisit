@@ -1,0 +1,33 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/grundig8860/innstillinger/standby/
+Tittel: Automatisk standby
+
+- Kundeservice
+- Godkjente mottakere
+- Grundig DTR8860 PVR
+- 
+
+- mottakeren går i standby etter 4 timer. Slik endrer du
+
+
+## Trinn 1
+Trykk Menu på fjernkontrollen for å åpne menyen. Trykk 4 eller velg "Installasjon". Trykk OK
+
+
+## Trinn 2
+Trykk 4 eller marker "Dine valg". Trykk OK
+
+
+## Trinn 3
+Trykk 1 eller marker "Vis valg". Trykk OK
+
+
+## Trinn 4
+Velg "Automatisk standby". Bruk piltastene høyre / venstre for å sette tiden til
+
+- 4 timer
+- 6 timer
+- 8 timer
+- eller "Av"
+
+Mottakeren er forhåndsinnstilt til å gå i standby etter 4 timer.
+

@@ -1,0 +1,22 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal-gammel/mottakeren-reagerer-ikke/mottaker-reagerer-fortsatt-ikke/det-star-fail-i-displayet-pa-mottaker/
+Tittel: Det står "Fail" i displayet på mottaker
+
+- Kundeservice
+- 
+- Dekoder reagerer ikke
+- SMART-boks I
+
+- Ta ut alle ledninger av boksen (strøm, HDMI, antenne, internett)
+- Vent 60 sekunder
+- Sett inn strømkabel
+- Vent 40 - 60 sekunder
+- Sett inn resterende kabler
+
+Er TV-skjermen fremdeles svart? Ta strømmen på både TV og mottaker og vent 60 sekunder.
+
+Hvis det står "Rescue Mode, insert USB-stick with software" på TV-skjermen, må du laste ned nyeste programvare til en USB-stick. Her kan du lese mer om nyeste programvare for SMART-boks I.
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice på chat og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

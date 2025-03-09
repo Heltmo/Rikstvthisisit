@@ -1,0 +1,16 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/strong-srt8910/feilsok/kortproblemer-kontroller-kort/
+Tittel: Kortproblemer, kontroller kort
+
+- Kundeservice
+- Godkjente mottakere
+- Strong SRT8910
+- 
+
+Denne meldingen kommer når kortet står feil vei i mottakeren.
+
+
+## Trinn 1
+Denne meldingen kommer når kortet står feil vei i mottakeren.
+
+Står RiksTV programkortet med "gullbrikken" opp og inn i mottakeren?Hvis ja: fjern smuss fra gullbrikken og sett programkortet inn på nytt.
+

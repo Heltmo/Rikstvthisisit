@@ -1,0 +1,16 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/sagem-itd91hd/feilsok/feil-i-kommunikasjon-med-kort/
+Tittel: Feil i kommunikasjon med kort
+
+- Kundeservice
+- Godkjente mottakere
+- Sagem ITD91HD
+- 
+
+
+## Trinn 1
+Er det et RiksTV programkort som står i mottakeren?Hvis nei: Sett inn RiksTV programkort.
+
+
+## Trinn 2
+Står RiksTV programkortet med "gullbrikken" opp og inn i mottakeren?Hvis ja: Fjern smuss fra gullbrikken. Sett programkortet inn på nytt og merk at det i noen tilfeller må lirkes litt på plass.
+

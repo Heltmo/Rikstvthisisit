@@ -1,0 +1,16 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/strong-srt8900/feilsok/tilgangskontroll-ikke-stottet/
+Tittel: Tilgangskontroll ikke støttet
+
+- Kundeservice
+- Godkjente mottakere
+- Strong SRT8900
+- 
+
+
+## Signal fra en annen operatør
+Denne feilmeldingen vises dersom man mottar en kodet kanal fra en annen operatør (f.eks svenske kanaler).
+
+Sjekk hvilket program eller programnummer mottakeren står på.
+
+Er det et ukjent nummer eller program må man bytte til en RiksTV-kanal.
+

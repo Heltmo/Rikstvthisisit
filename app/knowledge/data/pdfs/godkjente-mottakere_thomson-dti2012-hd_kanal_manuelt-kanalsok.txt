@@ -1,0 +1,52 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/thomson-dti2012-hd/kanal/manuelt-kanalsok/
+Tittel: Manuelt kanalsøk
+
+- Kundeservice
+- Godkjente mottakere
+- Thomson DTI2012 HD
+- 
+
+
+## Trinn 1
+Trykk Menu på fjernkontrollen for å åpne menyen.
+
+
+## Trinn 2
+Velg ”Oppsett” og trykk OK
+
+
+## Trinn 3
+Marker ”Kanalsøk” og trykk OK
+
+
+## Trinn 3
+Marker ”Kanalsøk” og trykk OK
+
+
+## Trinn 4
+"Søkemodus"Velg "Manuelt" med piltast høyre/venstre.
+
+
+## Trinn 5a
+"Inkrementell":Skal nye kanaler legges til: "JA".Slette gammelt + lagre nye: "Nei"
+
+
+## Trinn 5b
+"Frekvens": Tast inn ønsket frekvens. Signalstyrken vil da vises nede i bildet.Finn hvilke kanalfrekvenser som er tilgjengelige på dekningskartet.Signalmeteret bør vise minimum 35-40% på styrke og 100% på kvalitet. Styrke = SignalstyrkeKvalitet = Hvor mange % av signalpakker som blir mottatt"Båndbredde": UHF = 8MHzTrykk OK for å søke
+
+
+## Trinn 6
+Søker...
+
+
+## Trinn 7
+Ved "Inget signal funnet". Trykk OKBle riktig frekvens benyttet?
+
+
+## Trinn 8
+Velg Favorittnettverk og trykk OK
+
+
+## Trinn 9
+Resultat av kanalsøk vises. Trykk OK for å avslutte.
+

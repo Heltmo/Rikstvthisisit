@@ -1,0 +1,74 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/antenne/smart-boks-ii/annet-problem/foreldrekontroll2/
+Tittel: Foreldrekontroll
+
+- Kundeservice
+- Virker ikke
+- Antenne
+- SMART-boks II
+- Annet problem
+
+Det er mulig å begrense hva barna får tilgang til i både filmleie og kanaler, dette kaller vi foreldrekontroll og aldersgrense. Denne står PÅ hos alle per automatikk, men kan slås AV.
+
+Er foreldrekontrollen aktivert vil det kreve PIN-kode for alle filmer eller serier som har aldersgrense over 12 år. Om det ikke er noen aldersgrense oppgitt vil det antaes at det er en "voksenfilm" og be om PIN-kode. Standard PIN-kode er 1-2-3-4.
+
+Er foreldrekontroll er aktivert og du har skrevet inn PIN-koden slipper du å oppgi den på nytt på 2 timer. Du kan også velge å sette på foreldrekontroll på valgfrie kanaler, samt sette en aldersgrense for TV-sendinger. Da vil man få krav om PIN-kode for å se på disse.
+
+Dette kan endres under instillinger på dekoderen din.
+
+- Hvordan skru foreldrekontroll av eller på
+
+Åpne Meny ved å trykke på husknappen og deretter OK på "Underholdningsportalen"Gå til "Min TV" og deretter "Innstillinger".
+I denne menyen kan man slå foreldrekontroll av eller på ved å taste inn PIN-kode og bekrefte med OK
+- Hvordan endre PIN-kode
+
+Du kan endre PIN-kode for arkivene direkte i Underholdningsportalen eller for selve dekoderen i systemmenyen.
+Du finner veiledning for dette her:
+
+Endre PIN-kode i Underholdningsportalen.
+Endre PIN-kode i systemmeny.
+- Endre PIN-kode i Underholdningsportalen.
+- Endre PIN-kode i systemmeny.
+- Hvordan skru PIN-kode til systemmenyer av eller på?
+
+Du finner veiledning for dette her:
+
+PIN-kode for systemmenyer
+- PIN-kode for systemmenyer
+- Hvordan låse tilgang til kanaler?
+
+Du finner veiledning for dette her:
+
+Lås kanaler
+- Lås kanaler
+
+
+### Hvordan skru foreldrekontroll av eller på
+Åpne Meny ved å trykke på husknappen og deretter OK på "Underholdningsportalen"Gå til "Min TV" og deretter "Innstillinger".
+
+I denne menyen kan man slå foreldrekontroll av eller på ved å taste inn PIN-kode og bekrefte med OK
+
+
+### Hvordan endre PIN-kode
+Du kan endre PIN-kode for arkivene direkte i Underholdningsportalen eller for selve dekoderen i systemmenyen.
+
+Du finner veiledning for dette her:
+
+- Endre PIN-kode i Underholdningsportalen.
+- Endre PIN-kode i systemmeny.
+
+
+### Hvordan skru PIN-kode til systemmenyer av eller på?
+Du finner veiledning for dette her:
+
+- PIN-kode for systemmenyer
+
+
+### Hvordan låse tilgang til kanaler?
+Du finner veiledning for dette her:
+
+- Lås kanaler
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

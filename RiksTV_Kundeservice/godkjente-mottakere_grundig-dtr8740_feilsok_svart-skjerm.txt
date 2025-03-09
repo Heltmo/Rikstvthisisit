@@ -1,0 +1,17 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/grundig-dtr8740/feilsok/svart-skjerm/
+Tittel: Svart skjerm
+
+- Kundeservice
+- Godkjente mottakere
+- Grundig DTR8740
+- 
+
+
+## Trinn 1
+Gjennomfør signalsjekk (Menu - 4 - 4 - 1).
+
+Dersom det står overbelastning så kortslutter 5 volt. Skru da av 5 volt (Menu - 4 - 2 - Aktiv antenne "Av")
+
+- Det kortslutter dersom det for eksempel brukes en splitter/fordeler som ikke slipper gjennom 5 volt. Det må stå "DC pass" eller "power pass" på splitteren.
+- Kan også kortslutte når antenne uten forsterker benyttes. Løsningen er å skru av 5 volt (Aktiv antenne til "Av").
+

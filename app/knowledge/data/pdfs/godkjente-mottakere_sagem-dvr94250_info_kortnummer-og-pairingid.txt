@@ -1,0 +1,26 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/sagem-dvr94250/info/kortnummer-og-pairingid/
+Tittel: Kortnummer og PairingID
+
+- Kundeservice
+- Godkjente mottakere
+- Sagem DTR94250
+- 
+
+- slik leser du ut kortnummer og paringID på mottaker
+
+
+## Trinn 1
+Trykk Meny. Trykk pil opp to ganger til I (i-symbolet) er markert og det står "Teknisk informasjon" nede til høyre. Trykk OK.
+
+
+## Trinn 2
+Marker "Betinget tilganginformasjon". Trykk OK
+
+
+## Trinn 3
+Marker "Om Conax CA". Trykk OK
+
+
+## Trinn 4
+CA-kortnummer = kort nummer.PairingID = DVB Chipset ID.Trykk EXIT for å avslutte.
+

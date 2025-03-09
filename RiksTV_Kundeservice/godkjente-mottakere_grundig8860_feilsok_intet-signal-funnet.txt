@@ -1,0 +1,19 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/grundig8860/feilsok/intet-signal-funnet/
+Tittel: Intet signal funnet
+
+- Kundeservice
+- Godkjente mottakere
+- Grundig DTR8860 PVR
+- 
+
+
+## Feilmelding
+
+## Løsning
+- Sjekk senderstatus: Senderstatus gir info om senderens tilstand.
+- Er antennen tilkoblet mottakeren? Sjekk om kabelen er tilkoblet mottakeren og antennen.
+- Gjennomfør signalsjekk for å lese ut signalnivået. - Sjekk om riktig frekvens benyttes. Sammenlikne frekvensene med dekningskartet.
+- Når feil frekvens benyttes - sjekk programvareversjon.
+
+Fellesantenne? Er det bygård eller liknende med en felles antenne? - Ved feil på fellesantenne må vaktmester / antenneansvarlig kontaktes. Det kan være en feil internt (strøm/ sikring).
+

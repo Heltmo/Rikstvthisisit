@@ -1,0 +1,21 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/internett/smart-boks-iii/feilmeldinger/z-10-z-14/
+Tittel: Z14/Z10
+
+- Kundeservice
+- Virker ikke
+- Internett
+- SMART-boks III
+- Jeg får feilmelding
+
+Dette er en feilmelding man får om dekoder har problemer med å hente kanalinformasjonen, så den må hentes inn på nytt.
+
+Dette gjør du ved å slette og laste inn kanallisten igjen.Du finner veiledning for dette her:
+
+- Slette kanalliste
+
+Fungerer det ikke så må du gjøre en fabrikkinnstilling.Veiledning for dette finner du her: Fabrikkinnstilling
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

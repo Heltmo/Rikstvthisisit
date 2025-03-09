@@ -1,0 +1,28 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/internett/smart-boks-iii/feilmeldinger/kodet-eller-intet-signal/
+Tittel: Kodet eller intet signal
+
+- Kundeservice
+- Virker ikke
+- Internett
+- SMART-boks III
+- Jeg får feilmelding
+
+Dette tyder på at dekoder og TV-en din ikke kommuniserer slik de skal.
+
+Gjør først følgende:
+
+- Forsikre deg om at dekoder er på. Sjekk om du får opp menyen fra dekoder på skjermen, ved å trykke på Husknappen på fjernkontrollen til dekoder.
+- Hvis lyset blir sterkere, men du fortsatt får samme feil, så kan det være at du er på feil kildekanal. Da må du bytte ved å bruke fjernkontrollen til TV-en. Normalt så heter kildeknappen AV, Input eller Source.
+- Får du ikke endret til korrekt kildekanal på TV-en din, må du enten ta kontakt med TV-produsent eller det stedet der du kjøpte den.
+
+Får du opp menyen, men fortsatt mangler bilde på TV-en din, så kan du gjøre følgende:
+
+- Forsøk å bytte HDMI inngang på TV-en.
+- Forsøk med annen HDMI kabel.
+
+Hjelper ikke dette, så anbefaler vi en superstrømløs.
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

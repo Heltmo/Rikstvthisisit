@@ -1,0 +1,24 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/sagem-itd91hd/info/programvareversjon-og-serienummer/
+Tittel: Programvareversjon og serienummer
+
+- Kundeservice
+- Godkjente mottakere
+- Sagem ITD91HD
+- 
+
+
+## Trinn 1
+Trykk Menu for å åpne menyen.
+
+
+## Trinn 2
+Marker ”Mottakerinnstillinger” og trykk OK
+
+
+## Trinn 3
+Marker ”Teknisk informasjon” og trykk OK
+
+
+## Trinn 4
+Serienummer = NTV serienummer16 sifferProgramvare versjon = Software versjon
+

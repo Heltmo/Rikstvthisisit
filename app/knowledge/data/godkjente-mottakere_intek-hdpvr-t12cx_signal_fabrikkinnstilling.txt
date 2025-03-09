@@ -1,0 +1,34 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/intek-hdpvr-t12cx/signal/fabrikkinnstilling/
+Tittel: Fabrikkinnstilling
+
+- Kundeservice
+- Godkjente mottakere
+- Intek HDPVR-T12CX
+- 
+
+- tilbakestille mottakeren til standardoppsett
+
+
+## Trinn 1
+Trykk Menu for å åpne menyen.
+
+
+## Trinn 2
+Marker "Fabrikkinnstilling" og trykk OK
+
+
+## Trinn 3
+Tast PIN-kode 1 2 3 4 (dersom den tidligere ikke har blitt endret).
+
+
+## Trinn 4
+Marker "JA" (markør er lyseblå) og trykk OK
+
+
+## Trinn 5
+Mottaker avslutter
+
+
+## Trinn 6
+Mottaker går i svart i noen sekunder og du vil se første bilde i førstegangsinstallasjon
+

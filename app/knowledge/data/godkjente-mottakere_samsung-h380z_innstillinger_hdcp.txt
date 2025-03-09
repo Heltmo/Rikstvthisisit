@@ -1,0 +1,28 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/samsung-h380z/innstillinger/hdcp/
+Tittel: HDCP (digital Kopibeskyttelse)
+
+- Kundeservice
+- Godkjente mottakere
+- Samsung DTB-H380Z
+- 
+
+- hvordan slå HDCP av/på.
+
+
+## Trinn 1
+Trykk Menu for å åpne menyen. Den åpner seg der du var sist. Bruk venstre piltast eller "Retur" for å gå tilbake.
+
+
+## Trinn 2
+Velg "System" og trykk OK
+
+
+## Trinn 3
+Velg "HDMI" og trykk OK
+
+
+## Trinn 4 a
+Marker "HDCP" og trykk OK for å få frem valgene. Velg "Koble inn" for å se kanaler som har kopisperre. Velger man "Koble av" får man ikke sett TV-kanaler som sender med HDCP. Trykk OK på ønsket valg. HDCP (kopisperren) går på HDMI-kabelen. Ønsker man å se kanalen kan man bruke scartkabel.
+
+
+## Trinn 4 b

@@ -1,0 +1,110 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/internett/smart-boks-ii/feilmeldinger/ingen-tilgangca-melding/
+Tittel: Ingen tilgang/CA-melding
+
+- Kundeservice
+- Virker ikke
+- Internett
+- SMART-Boks II
+- Jeg får feilmelding
+
+Dette er en beskjed som kommer om kortet mangler en oppdatering eller om kanalpakken ikke er registert på kortet du benytter deg av.
+
+Husk at dersom du prøver å se på en kanal som sendes via internett uten at dekoderen din er koblet til internett, vil du kunne se denne feilmeldingen. Ønsker du å se disse kan du bruke RiksTV-appen, se via Nett-TV eller koble dekoderen din til internett.
+
+Her ser du hvilke kanaler som går via antenne og hvilke som krever internett: Kanaloversikt
+
+- Steg 1 - Send oss en SMS
+
+Send oss en SMS med kodeord TV til 09595 og vi sender umiddelbart en oppdatering til utstyret ditt. Når oppdateringen er sendt fra oss vil du motta en SMS med mer informasjon.
+Sett TV-en på f.eks. TV 2. Vent noen minutter, også skal resten av kanalene komme på plass.
+- Steg 2 - Utvidet feilsøk på Min Side
+
+En annen mulighet er å logge inn på Min side. Da vil du få flere muligheter til å løse de problemene du opplever, uten og måtte ta kontakt med oss. Har du ikke Min side bruker fra før, skal det være enkelt å lage ny - spesielt hvis vi har registrert telefonnummeret ditt i vårt system.
+Dette kan du gjøre selv på Min side:
+
+Sende oss sms for å få en oppdatering til utstyret ditt (samme som du får med alternativ 1.)
+Sjekke at utstyret du bruker er registrert/riktig registrert hos oss
+Sjekke at du har et aktivt abonnement på det utstyret/programkortet du bruker
+- Sende oss sms for å få en oppdatering til utstyret ditt (samme som du får med alternativ 1.)
+- Sjekke at utstyret du bruker er registrert/riktig registrert hos oss
+- Sjekke at du har et aktivt abonnement på det utstyret/programkortet du bruker
+
+
+### Steg 1 - Send oss en SMS
+Send oss en SMS med kodeord TV til 09595 og vi sender umiddelbart en oppdatering til utstyret ditt. Når oppdateringen er sendt fra oss vil du motta en SMS med mer informasjon.
+
+Sett TV-en på f.eks. TV 2. Vent noen minutter, også skal resten av kanalene komme på plass.
+
+
+### Steg 2 - Utvidet feilsøk på Min Side
+En annen mulighet er å logge inn på Min side. Da vil du få flere muligheter til å løse de problemene du opplever, uten og måtte ta kontakt med oss. Har du ikke Min side bruker fra før, skal det være enkelt å lage ny - spesielt hvis vi har registrert telefonnummeret ditt i vårt system.
+
+Dette kan du gjøre selv på Min side:
+
+- Sende oss sms for å få en oppdatering til utstyret ditt (samme som du får med alternativ 1.)
+- Sjekke at utstyret du bruker er registrert/riktig registrert hos oss
+- Sjekke at du har et aktivt abonnement på det utstyret/programkortet du bruker
+
+
+## Er utstyr registrert?
+Både serienummer på dekoder og programkort må være registrert på ditt kundeforhold og ha et aktivt abonnement. Dette kan du sjekke her.
+
+Utstyret må ha vært tatt i bruk innen 40 dager fra det ble registrert hos oss.
+
+- Kanalpakke og utstyr er registrert
+
+
+Ta ut strømkabel på dekoder.
+Ta ut HDMI kabel på dekoder.
+Ta ut alle kabler fra dekoder.
+Ta ut strømkabelen fra TV-en.
+La alle kabler og strøm være ute i 30 sekunder.
+Sett i strømkabel til dekoder igjen og vent 40 sekunder.
+Sett i resten av kablene igjen, inkludert strømkabel til TV.
+- Ta ut strømkabel på dekoder.
+- Ta ut HDMI kabel på dekoder.
+- Ta ut alle kabler fra dekoder.
+- Ta ut strømkabelen fra TV-en.
+- La alle kabler og strøm være ute i 30 sekunder.
+- Sett i strømkabel til dekoder igjen og vent 40 sekunder.
+- Sett i resten av kablene igjen, inkludert strømkabel til TV.
+- Kanalpakke og utstyr er ikke registrert
+
+Du finner veiledning for å registrere utstyr og flytte kanalpakke her:
+
+Registrere utstyr
+Flytte kanalpakke
+
+ 
+Hvis du ikke får registrert utstyret så må det sendes inn eierskifteskjema til oss. Du finner dette her: 
+
+Eierskifte
+- Registrere utstyr
+- Flytte kanalpakke
+- Eierskifte
+
+
+### Kanalpakke og utstyr er registrert
+- Ta ut strømkabel på dekoder.
+- Ta ut HDMI kabel på dekoder.
+- Ta ut alle kabler fra dekoder.
+- Ta ut strømkabelen fra TV-en.
+- La alle kabler og strøm være ute i 30 sekunder.
+- Sett i strømkabel til dekoder igjen og vent 40 sekunder.
+- Sett i resten av kablene igjen, inkludert strømkabel til TV.
+
+
+### Kanalpakke og utstyr er ikke registrert
+Du finner veiledning for å registrere utstyr og flytte kanalpakke her:
+
+- Registrere utstyr
+- Flytte kanalpakke
+
+Hvis du ikke får registrert utstyret så må det sendes inn eierskifteskjema til oss. Du finner dette her:
+
+- Eierskifte
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

@@ -1,0 +1,94 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/samsung-h380z/
+Tittel: Samsung DTB-H380Z
+
+- Kundeservice
+- Godkjente mottakere
+
+- 
+- 
+- 
+
+Denne er en rask og brukervennlig digital TV-mottaker, med 2 x SCART, 1 x HDMI-kontakt og 1 x optisk digital utgang.
+
+< Tilbake
+
+
+## Last ned
+Bilde av fjernkontroll
+
+
+## Brukerveiledning
+
+### Signal
+- Signalsjekk
+- Fabrikkinnstilling
+- 5 volt for forsterker
+- Førstegangsinstallasjon
+
+
+### Kanal
+- Automatisk kanalsøk
+- Manuelt kanalsøk
+
+
+### Innstillinger
+- Skjermformat
+- HDCP (digital Kopibeskyttelse)
+
+
+### Info
+- Sette inn programkort
+- Serienummer, programvareversjon og oppdatering
+- Abonnementsstatus
+- Kortnummer og PairingID
+
+
+### Feilsøk
+- Problemer med fjernkontroll
+- Kortproblemer, sjekk kort
+- Ingen tilgang
+- Intet signal funnet
+- Kortet er ikke satt inn
+- Enkelte tjenester er...
+- Kodet, eller ingen signal
+
+
+## Modeller
+DTB-H380Z
+
+
+## Spesifikasjoner
+Følgende frekvensområder støttes av mottakeren i tillegg til UHF frekvensene 470 - 862MHz som støttes av alle godkjente mottakere:
+
+- VHF III 174 – 230 MHz - JA
+- S Band II 230 – 300 MHz - JA
+- S Band III 300 – 470 MHz - JA
+
+Denne mottakeren støtter alle alternative frekvenser for distribusjon av RiksTVs signaler i kabelnett.
+
+- 12 Volt
+- 5 Volt antenneforsterker
+- VHF-støtte
+- SCART-utgang
+- Optisk S/PDIF-utgang
+- Coax S/PDIF-utgang
+- Rca Stereo
+- RF Loop Through
+- Dobbel tuner
+- Elektronisk Program Guide
+- Radio applikasjon
+- Hjelpefunksjoner
+- Foreldrekontroll
+- Teletext
+- Kanalliste
+- Opptaksmulighet
+- Pause/spole funksjonalitet
+- Internettilkobling
+- Fjernkontroll m/batterier
+- SCART kabel
+- HDMI kabel
+- Antennekabel
+- Strømkabel
+- Brukermanual (no/en)
+- Blu-Ray
+

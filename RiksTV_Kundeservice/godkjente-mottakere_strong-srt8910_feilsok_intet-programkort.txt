@@ -1,0 +1,16 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/strong-srt8910/feilsok/intet-programkort/
+Tittel: Intet programkort
+
+- Kundeservice
+- Godkjente mottakere
+- Strong SRT8910
+- 
+
+Feilmeldingen vises dersom det ikke er programkort i mottakeren.
+
+
+## Trinn 1
+Denne feilmeldingen vises dersom det ikke er programkort i mottakeren.
+
+Står RiksTV-kortet med "gullbrikken" opp og inn i mottakeren?Hvis ja: fjern smuss fra gullbrikken og sett kortet inn på nytt.
+

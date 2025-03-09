@@ -1,0 +1,121 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/internett/smart-boks-i/feilmeldinger/sys/
+Tittel: SYS
+
+- Kundeservice
+- Virker ikke
+- Internett
+- SMART-boks I
+- Jeg får feilmelding
+
+SYS-feilmeldinger kommer ofte av ustabil nettverkstilkobling.
+
+SMART-Boks I har kun mulighet for tilkobling til internett med nettverkskabel fra ruter til dekoderen.
+
+Du må først sjekke følgende:
+
+- At internett fungerer på andre enheter hjemme hos deg som f.eks. mobil eller PC.
+- At det ikke er noe skader på nettverkskabel som går fra ruter til dekoder.
+
+- Alt OK med internett
+
+Alt i orden med nettverkstilkobling? Nedenfor ser du videre feilsøk.
+- Feil med nettet
+
+Om du opplever problemer med nettet ditt så ta kontakt med din internett leverandør.
+Hvis det var en feil i kablingen som du nå har korrigert, men fortsatt får en feilmelding så gå gjerne tilbake til feilmeldinger eller ta kontakt med oss
+
+
+### Alt OK med internett
+Alt i orden med nettverkstilkobling? Nedenfor ser du videre feilsøk.
+
+
+### Feil med nettet
+Om du opplever problemer med nettet ditt så ta kontakt med din internett leverandør.
+
+Hvis det var en feil i kablingen som du nå har korrigert, men fortsatt får en feilmelding så gå gjerne tilbake til feilmeldinger eller ta kontakt med oss
+
+Hvilket tall står i feilmeldingen på skjermen din?
+
+- SYS - 1 og 10
+
+Prøv først å slette kanallisten.
+Fungerer det ikke så må du gjøre en fabrikkinnstilling.
+- SYS - 2, 3, 4, 7 og 8
+
+Feilmeldingen SYS-2, 3, 4, 7 og 8 indikerer problemer med nettverkstilkoblingen.
+Da kan du gjøre følgende: 
+
+Ta ut strømkabelen fra nettverksruter.
+Ta ut alle kabler fra dekoder.
+Vent 30 sekunder.
+Koble til strømmen på nettverksruter.
+Vent til nettet er tilbake. (Dette kan ta 5 minutter)
+Sett i strømkabel til dekoder igjen og vent 40 sekunder.
+Sett i de resterende kablene.
+La dekoder starte opp før du prøver på nytt.
+
+ 
+Fungerer det ikke så må du gjøre en fabrikkinnstilling.Opplever du fortsatt problemer, anbefaler vi at du kontakter din internettleverandør
+- Ta ut strømkabelen fra nettverksruter.
+- Ta ut alle kabler fra dekoder.
+- Vent 30 sekunder.
+- Koble til strømmen på nettverksruter.
+- Vent til nettet er tilbake. (Dette kan ta 5 minutter)
+- Sett i strømkabel til dekoder igjen og vent 40 sekunder.
+- Sett i de resterende kablene.
+- La dekoder starte opp før du prøver på nytt.
+- SYS - 5, 6 og 12
+
+Denne feilmeldingen kommer om man ikke har tilgang til kanalen som er valgt.
+Gå inn på Min Side for å være sikker på at kanalen du har valgt er del av ditt abonnement, at kanalpakken er aktiv og at utstyret er registert.
+ 
+Du finner veiledning for å registrere utstyr og flytte kanalpakke her:
+
+Registrere utstyr
+Flytte kanalpakke
+
+ 
+Er alt korrekt registert, så anbefaler vi en superstrømløs.
+- Registrere utstyr
+- Flytte kanalpakke
+
+
+### SYS - 1 og 10
+Prøv først å slette kanallisten.
+
+Fungerer det ikke så må du gjøre en fabrikkinnstilling.
+
+
+### SYS - 2, 3, 4, 7 og 8
+Feilmeldingen SYS-2, 3, 4, 7 og 8 indikerer problemer med nettverkstilkoblingen.
+
+Da kan du gjøre følgende:
+
+- Ta ut strømkabelen fra nettverksruter.
+- Ta ut alle kabler fra dekoder.
+- Vent 30 sekunder.
+- Koble til strømmen på nettverksruter.
+- Vent til nettet er tilbake. (Dette kan ta 5 minutter)
+- Sett i strømkabel til dekoder igjen og vent 40 sekunder.
+- Sett i de resterende kablene.
+- La dekoder starte opp før du prøver på nytt.
+
+Fungerer det ikke så må du gjøre en fabrikkinnstilling.Opplever du fortsatt problemer, anbefaler vi at du kontakter din internettleverandør
+
+
+### SYS - 5, 6 og 12
+Denne feilmeldingen kommer om man ikke har tilgang til kanalen som er valgt.
+
+Gå inn på Min Side for å være sikker på at kanalen du har valgt er del av ditt abonnement, at kanalpakken er aktiv og at utstyret er registert.
+
+Du finner veiledning for å registrere utstyr og flytte kanalpakke her:
+
+- Registrere utstyr
+- Flytte kanalpakke
+
+Er alt korrekt registert, så anbefaler vi en superstrømløs.
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

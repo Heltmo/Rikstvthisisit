@@ -1,0 +1,21 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/triax-tr500/feilsok/referanse-5/
+Tittel: Referanse 5. Kanalen sender ikke lenger
+
+- Kundeservice
+- Godkjente mottakere
+- Triax TR500
+- 
+
+
+## Kanalen sender ikke lenger
+Denne feilmeldingen vises dersom
+
+- En kanal har sluttet å sende
+- Mottaker ikke klarer å lese kanalliste
+
+Løsning: Zappe til flere andre mux/kanaler og tilbake. Programleverandøren kan ha sluttet å sende.
+
+Dersom det det er marginalt med signal - helt i grenseland av hva mottakeren klarer å lese, så klarer den heller ikke å lese kanallisten.
+
+Er det lite signal? Gjennomfør sjekken under Referanse 2 Denne kanalen kan ikke vises.
+

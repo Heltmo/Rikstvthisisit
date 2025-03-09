@@ -1,0 +1,24 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/humax-cxhd-3000t/feilsok/manglende-eller-svakt-signal/
+Tittel: Manglende eller svakt signal
+
+- Kundeservice
+- Godkjente mottakere
+- Humax CXHD-3000T
+- 
+
+
+## Trinn 1
+Sjekk senderstatus for feil på sender - Senderstatus gir eksakt info om senderens tilstand.
+
+
+## Trinn 2
+Gjennomfør Signalsjekk for å lese ut signalnivået - Sjekk om riktig frekvens benyttes Sammenlikne frekvensene med dekningskart
+
+
+## Trinn 3
+Er antennen tilkoblet mottakeren? - Sjekk at kabelen er tilkoblet mottakeren og antennen
+
+
+## Trinn 4
+Fellesantenne: Er det bygård eller liknende med en felles antenne? - Ved feil på fellesantenne må vaktmester/antenneansvarlig kontaktes av kunden selv. Det kan være en feil internt (strøm/ sikring).
+

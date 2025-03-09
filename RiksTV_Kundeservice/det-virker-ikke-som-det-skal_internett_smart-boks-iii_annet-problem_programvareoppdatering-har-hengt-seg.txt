@@ -1,0 +1,23 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/internett/smart-boks-iii/annet-problem/programvareoppdatering-har-hengt-seg/
+Tittel: Programvareoppdatering har hengt seg
+
+- Kundeservice
+- Virker ikke
+- Internett
+- SMART-boks III
+- Annet problem
+
+Har du en programvareoppdatering som ikke går igjennom?
+
+Når dekoder har funnet ny programvare står det oppdater nå eller hopp over.
+
+Hvis dekoderen ikke klarer å fullføre oppdateringen, eller ikke går videre så anbefaler vi en superstrømløs.
+
+Hjelper ikke dette, så må du manuelt oppgradere programvareversjonen ved å laste den ned og legge den inn på en tom USB. Du finner veiledning for dette her:
+
+- Laste ned Programvareversjon
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

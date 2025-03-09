@@ -1,0 +1,20 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/intek-hdpvr-t12cx/feilsok/ingen-tilgang/
+Tittel: Ingen tilgang
+
+- Kundeservice
+- Godkjente mottakere
+- Intek HDPVR-T12CX
+- 
+
+
+## Trinn 1
+Denne feilmeldingen vises dersom:
+
+- Programkortet venter på oppdatering (Lenge siden det var i bruk sist eller du har fått nytt kort).
+- Abonnementet inkluderer ikke gjeldende kanal
+- Det står et annet kort enn RiksTV programkort i mottakeren
+- Det står feil RiksTV programkort i mottakeren
+- 
+
+Sjekk Abonnementsstatus. Har kortet mottatt oppdatering?  Dersom kortet ikke har vært i bruk siste 2-3 måneder, må mottaker stå på i 30 minutter. Kortet vil automatisk motta en tilgangsmelding.
+

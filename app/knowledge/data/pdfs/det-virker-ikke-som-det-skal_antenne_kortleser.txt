@@ -1,0 +1,39 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/antenne/kortleser/
+Tittel: Kortleser
+
+- Kundeservice
+- Virker ikke
+- Antenne
+
+
+## 
+Mangler CI modul
+
+
+## 
+CI modul er ikke kompatibel
+
+
+## 
+Ingen tilgangCA-melding
+
+
+## 
+Forvrengt signalKryptert signalKodet signal
+
+
+## 
+Godkjenningsprosessen mislyktes
+
+
+## 
+Intet signalSvakt signalManglende signal
+
+
+## 
+Ikke installert
+
+
+## 
+Jeg får ingen av disse feilmeldingene
+

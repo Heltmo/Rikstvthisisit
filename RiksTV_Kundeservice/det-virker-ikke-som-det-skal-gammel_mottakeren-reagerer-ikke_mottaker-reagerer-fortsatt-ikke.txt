@@ -1,0 +1,20 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal-gammel/mottakeren-reagerer-ikke/mottaker-reagerer-fortsatt-ikke/
+Tittel: SMART-boks I
+
+- Kundeservice
+- 
+- Dekoder reagerer ikke
+
+Før du går videre i feilsøket så anbefaler vi at du går igjennom denne enkle sjekklisten, for å se om noe av dette kan løse feilen:
+
+- Har du byttet batteri på fjernkontrollen?
+- Bruker du riktig fjernkontroll? SMART-boks I basis, SMART-boks I PVR, SMART-boks II (basis/PVR) og SMART-boks III (basis/PVR)
+- Sjekk at dekoder er på og at alle kabler er satt inn riktig. Bruk enten HDMI-kabel (anbefalt) eller SCART, men ikke begge samtidig
+- Bruker du HDMI-kabel er det viktig at du kobler den rett i TV-en og ikke via eksternt anlegg
+- Ta ut strømkabel, vent 60 sek og sett den inn igjen. Skru på dekoder
+
+Har du fortsatt ikke bilde? Eller har du vært igjennom denne sjekklisten allerede? Gå videre i feilsøket.
+
+- Det står "Fail" i displayet på mottaker
+- Det er ingen melding i displayet på mottaker
+

@@ -1,0 +1,133 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/smart-boks-pvr/
+Tittel: SMART-boks med opptaksfunksjon
+
+- Kundeservice
+- Godkjente mottakere
+
+- med opptak
+
+- 
+- 
+- 
+- 
+- 
+
+Vår SMART-boks med opptak (PVR) gir deg digital-TV med mulighet for pause, spole og opptak, kun via vanlig antenne. Den kan også brukes med 12 volt.
+
+Opptak: Serieopptak (direkte fra programguide), to tunere for samtidige opptak og mellom 80 til 250 timer med opptak (500 Gb).
+
+Bestill på Min side
+
+< Tilbake
+
+
+## Last ned
+Kom i gang-guide (pdf, norsk tekst, brukerveiledning)
+
+Teknisk beskrivelse (pdf, norsk tekst)
+
+
+#### Bilde av fjernkontroll med forklaringer
+
+## Brukerveiledning
+
+### Signal
+- Fabrikkinnstilling
+- 5 volt for forsterker
+- Signalsjekk
+- Førstegangsinstallasjon
+
+
+### Kanal
+- Automatisk kanalsøk
+- Manuelt kanalsøk
+- Slette kanalliste
+- Alle radiokanaler
+
+
+### Opptak
+- Opptak via elektronisk programguide (EPG)
+- Manuell sletting av opptak
+- Slette serieopptak
+- Formatere harddisk
+- Håndtere opptak
+- Se på opptak
+- Automatisk sletting av opptak
+- Harddisk status
+- Stopp automatisk sletting
+- Start manuelt opptak
+- Endre opptaksmargin
+
+
+### Innstillinger
+- Foreldrekontroll
+- Standby-oppsett (hvilemodus)
+- Teksting (undertekst) permanent endring
+- Teksting (undertekst)
+- Tilbakestille PIN-kode
+- Endre PIN-kode
+- Mottakerlås
+- Låse kanaler
+- PIN-kode for systemmenyer
+- Endre PIN-kode i Underholdningsportalen
+
+
+### Info
+- Mottakerstatus
+- Kanalstatus
+- Hardwarestatus
+- Abonnementsstatus, kortnummer og pairing-id
+- Programvareversjon og IP-adresse
+- Sikkerhetsinstruksjoner
+- Last ned siste programvare
+- Oppdatering av programvare
+
+
+### Feilsøk
+- Ingen tilgang
+- Galt kort
+- Feil i kommunikasjon med kort
+- Problemer med fjernkontrollen?
+- Systeminformasjon
+- HDCP
+
+
+## Modeller
+srt8965
+
+
+## Spesifikasjoner
+Følgende frekvensområder støttes av mottakeren i tillegg til UHF frekvensene 470 - 862MHz som støttes av alle godkjente mottakere:
+
+- VHF III 174 - 230 MHz - JA
+- S Band II 230 - 300 MHz - JA
+- S Band III 300 - 470 MHz - JA
+
+Denne mottakeren støtter alle alternative frekvenser for distribusjon av RiksTVs signaler i kabelnett.
+
+- 12 Volt
+- 5 Volt antenneforsterker
+- VHF-støtte
+- SCART-utgang
+- Optisk S/PDIF-utgang
+- Coax S/PDIF-utgang
+- Rca Stereo
+- RF Loop Through
+- Dobbel tuner
+- Elektronisk Program Guide
+- Radio applikasjon
+- Hjelpefunksjoner
+- Foreldrekontroll
+- Teletext
+- Kanalliste
+- Opptaksmulighet
+- Pause/spole funksjonalitet
+- Internettilkobling
+- Fjernkontroll m/batterier
+- SCART kabel
+- HDMI kabel
+- Antennekabel
+- Strømkabel
+- Brukermanual (no/en)
+- Blu-Ray
+

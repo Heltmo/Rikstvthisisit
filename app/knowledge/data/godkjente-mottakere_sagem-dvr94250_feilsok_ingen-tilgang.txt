@@ -1,0 +1,29 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/sagem-dvr94250/feilsok/ingen-tilgang/
+Tittel: Ingen tilgang/no access
+
+- Kundeservice
+- Godkjente mottakere
+- Sagem DTR94250
+- 
+
+Denne feilmeldingen vises dersom:
+
+- Programkortet venter på oppdatering. (Lenge siden den var i bruk sist eller nytt kort).
+- Abbonementet gjelder ikke kanalen.
+- Det sendes "voksenfilm" som ikke vises.
+- Det står et annet kort enn RiksTV-kort i mottakeren.
+- Det står feil RiksTV-kort i mottakeren.
+- Feil mottaker.
+
+
+## Trinn 1
+Denne feilmeldingen vises dersom:
+
+- Programkortet venter på oppdatering. (Lenge siden den var i bruk sist eller nytt kort).
+- Abonnementet gjelder ikke kanalen.
+- Det står et annet kort enn RiksTV-kort i mottakeren.
+- Det står feil RiksTV-kort i mottakeren.
+- Feil mottaker.
+
+- Sjekk Abonnementsstatus Har kortet mottatt oppdatering?Dersom kortet ikke har vært i bruk siste 2-3 måneder må mottaker stå på i 30 minutter. Kortet vil automatisk motta en tilgangsmelding.
+

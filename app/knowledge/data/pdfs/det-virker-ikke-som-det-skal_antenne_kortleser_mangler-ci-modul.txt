@@ -1,0 +1,60 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/antenne/kortleser/mangler-ci-modul/
+Tittel: Mangler CI modul
+
+- Kundeservice
+- Virker ikke
+- Antenne
+- Kortleser
+
+Denne beskjeden kommer når det er dårlig kobling til kortleser og kortet, eller om man har flyttet utstyret fra en TV til en annen.
+
+Gjør først følgende:
+
+- Sjekk at antennekabel står ordentlig i TV-en.
+- Ta ut kortet og kortleser fra TV-en, blås inn i inngangen på TV.
+- Sett inn kun kortleser, uten programkort, med RiksTV logoen vekk fra TV-skjermen. Da skal det komme opp en melding om at "kort mangler".
+- Sett så inn programkortet med gullbrikken vekk fra TV-skjermen.
+
+Hvis det ikke kommer beskjed om at kort mangler, så er dette tegn på at selve kortmodulen og TV-en ikke kommuniserer. Ta kontakt med oss for videre feilsøk.
+
+Er alt i orden med oppkoblingen? Da kan det være problemer med senderen i ditt område. Det sjekker du enkelt her:
+
+- Senderstatus
+
+- Det er registrert feil med sender
+
+Er det registrert en feil på senderen du benytter jobbes det med å få løst dette fortløpende.
+- Ingen registrert feil med sender
+
+Er alt i orden med sender? Da anbefaler vi at du sjekker signalene eller tar et nytt kanalsøk på TV-en.
+Dersom kanalsøk ikke hjelper, så kan du prøve å ta en fabrikkinnstilling på TV-en din. 
+Er du usikker på hvordan dette gjøres så kan du kontakte din TV produsent for veiledning.
+- Signaler er ikke OK
+
+Opplever du problemer med signaler etter signalsjekk, så kan det lønne seg å justere antennen.
+
+Justering av antenne
+- Justering av antenne
+
+
+### Det er registrert feil med sender
+Er det registrert en feil på senderen du benytter jobbes det med å få løst dette fortløpende.
+
+
+### Ingen registrert feil med sender
+Er alt i orden med sender? Da anbefaler vi at du sjekker signalene eller tar et nytt kanalsøk på TV-en.
+
+Dersom kanalsøk ikke hjelper, så kan du prøve å ta en fabrikkinnstilling på TV-en din.
+
+Er du usikker på hvordan dette gjøres så kan du kontakte din TV produsent for veiledning.
+
+
+### Signaler er ikke OK
+Opplever du problemer med signaler etter signalsjekk, så kan det lønne seg å justere antennen.
+
+- Justering av antenne
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

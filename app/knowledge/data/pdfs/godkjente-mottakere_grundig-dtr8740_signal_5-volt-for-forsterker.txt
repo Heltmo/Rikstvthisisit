@@ -1,0 +1,26 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/grundig-dtr8740/signal/5-volt-for-forsterker/
+Tittel: 5 volt for forsterker
+
+- Kundeservice
+- Godkjente mottakere
+- Grundig DTR8740
+- 
+
+Slik skrur du 5 volt spenning til antenne av / på
+
+
+## Trinn 1
+Trykk Menu på fjernkontrollen for å åpne menyen. Trykk 4 eller velg "Installasjon". Trykk OK
+
+
+## Trinn 3
+Trykk 2 eller velg "Systeminnstillinger". Trykk OK
+
+
+## Trinn 4
+"Aktiv antenne" er forhåndsvalg til "På".
+
+Bruk piltast høyre/venstre for å sette til "Av"Trykk OK
+
+Trykk Exit for å avslutte.
+

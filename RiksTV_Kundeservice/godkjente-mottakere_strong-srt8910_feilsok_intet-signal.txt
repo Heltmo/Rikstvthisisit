@@ -1,0 +1,24 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/strong-srt8910/feilsok/intet-signal/
+Tittel: Intet signal
+
+- Kundeservice
+- Godkjente mottakere
+- Strong SRT8910
+- 
+
+
+## Trinn 1
+Sjekk senderstatus for feil på sender på rikstv.no - Senderstatus gir eksakt info om senderens tilstand
+
+
+## Trinn 2
+Gjennomfør Signalsjekk for å lese ut signalnivået. - Sjekk om riktig frekvens benyttes Sammenlikne frekvensene med dekningskart
+
+
+## Trinn 3
+Er antennen tilkoblet mottakeren? - Sjekk at kabelen er tilkoblet mottakeren og antennen
+
+
+## Trinn 4
+Fellesantenne: Er det bygård eller liknende med en felles antenne? - Ved feil på fellesantenne må vaktmester/antenneansvarlig kontaktes av kunden selv.Det kan være en feil internt (strøm/ sikring).
+

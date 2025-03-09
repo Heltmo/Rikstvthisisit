@@ -1,0 +1,80 @@
+URL: https://www.rikstv.no/kundeservice/kom-i-gang-med-rikstv/rikstvs-smart-boks-ii/
+Tittel: SMART-boks II
+
+- Kundeservice
+- Kom i gang med RiksTV
+
+Se video for oppkobling av antenne og dekoder.
+
+Hvis du ikke allerede har montert antenne, gjør dette først.
+
+Se installasjon av antenne.
+
+- Koble dekoderen til TV-en med en HDMI-kabel og sett inn antennekabelen. Dersom du ikke har HDMI-inngang på TV-en, må du bruke en TRRS-kabel (Ta kontakt med oss hvis du trenger det, så skal vi hjelpe deg). Sett inn strømkabelen til slutt
+- Velg riktig inngang på TV-en. Dersom du har flere HDMI innganger på TV-en din, må du huske på å velge den HDMI-inngangen du har koblet dekoderen til. Dette gjøres vanligvis med en knapp på TV-ens fjernkontroll merket INPUT eller SOURCE (eller i TV-ens menyer). (Ved bruk av TRRS-kabel heter den ofte  AV1 eller AV2)
+- Koble til fjernkontroll. RiksTVs nye fjernkontroll bruker radiosignaler. Når du har koblet opp dekoderen må du også koble til fjernkontrollen til dekoderen slik at disse to snakker sammen. Husk at batteriene må settes inn først (trekk hardt i metallstykket for å åpne) 
+
+1. Rett fjernkontrollen mot boksen (ca. 1 meters avstand), og trykk på «Play» og [ok] samtidig i ti sekunder
+2. Lampen skal etter hvert lyse, og senere blinke tre ganger før den slår seg av
+3. Fjernkontrollen og dekoderen er nå koblet sammen, og du kan trykke «neste» for å gå videre
+- Koble dekoderen til internett For å få tilgang til RiksTVs underholdningsportal må du koble dekoderen til internett. Dette kan gjøres på flere måter:1) Med kabel: Har du internettinngang eller ruter i nærheten av TV-en, kan du koble denne direkte til dekoderen med en nettverkskabel.
+2) Wi-Fi: Koble til trådløst nettverk ved å velge nettverket som kommer opp på TV-skjermen (se veiledning). Vi anbefaler at ruteren din er av nyere dato, da eldre modeller ikke er dimensjonert for det høye tempoet ved dagens dataoverføring – og dermed vil tjenestene i RiksTVs underholdningsportal ikke fungere optimalt.
+- Innstillinger Første gang du slår på dekoderen må du gjøre noen enkle innstillinger for å koble til Wi-Fi (dersom du ikke bruker nettverkskabel), for så å hente inn alle kanalene dine. Koble til trådløst Wi-Fi:2) Koble til ønsket trådløst nett som kommer opp på skjermen. Tast inn passord, og trykk på "Koble til"3) Trykk "Neste" for å komme videre
+- KanalsøkFølg anvisning på TV-skjermen, og bruk piltastene og "OK"-knappen på fjernkontrollen. Dekoderen vil sette i gang et kanalsøk. Dette varer noen få minutter. Dersom antennen er riktig koblet til og du har gode nok mottaksforhold, vil dekoderen installere kanalene automatisk
+- RegionDersom du mottar signaler fra flere sendere i ulike regioner, vil du få spørsmål om hvilken region du tilhører. Velg riktig region
+- Tilgang til betalingskanalerNår kanalsøket er ferdig, oppdateres programkortet. Det kan ta opp til 20 minutter før du får tilgang til de kanalene du abonnerer på, men du kan umiddelbart se NRKs kanaler. Ikke skift kanal mens du venter, la den stå på en kanal du ikke har bilde, f.eks. TV 2.Har det gått over 5 dager siden du mottok SMART-boksen din, så vil en oppdatering fra oss gjøre at du får bilde mye raskere. Send en SMS med kodeord TV til 09595 og vi sender umiddelbart en oppdatering til utstyret ditt
+- Nå er det på tide å lære seg litt om hvordan dekoderen kan brukes. Slik bruker du din SMART-boks
+
+
+## Bruker du en annen dekoder?
+Da benytter du veiledningen som ligger i pakken. I tillegg kan du finne mye informasjon og gode veiledninger på våre sider.
+
+
+## Brukerveiledninger
+
+### Brukerveiledninger
+- SMART-boks II
+- SMART-boks II PVR
+
+
+## Relatert innhold
+- Last ned programvare til SMART-boks II
+- Sikkerhetsinstruksjoner
+- Slik bruker du din SMART-boks
+
+Martin, RiksTVs montør
+
+
+## Etter at installasjon er ferdig
+Mangler du kanaler?
+
+Har du NRK, men mangler alle de andre. Da kan det være at du trenger en oppdatering fra oss. Send en SMS med kodeord TV til 09595 og vi sender umiddelbart en oppdatering til utstyret ditt. Hjelper ikke dette, kan du feilsøke videre på har kun NRK-kanalene
+
+
+## Din guide til fjernkontrollen
+Trenger du en forklaring på de ulike knappene på fjernkontrollen? Få en oversikt over alle funksjonene til fjernkontrollen din.
+
+Mistet eller ødelagt fjernkontroll?
+
+
+## Tekniske spesifikasjoner
+Størrelse238 x 159 x 49 mm(Bredde x Dybde x Høyde)
+
+Vekt: 0,66 kg
+
+Spesifikasjoner og brukerveiledninger
+
+- 1 x HDMI, 1 x USB 2.0, Antenne inn/ut
+- Mini-smartkort
+- 220/12 volt
+- Ethernet (RJ45), Wi-Fi
+- Optical S/PDIF
+
+
+## Flere underholdningsmuligheter venter på deg...
+
+### Vi hjelper deg med å komme i gang
+
+## Strømmetjenester
+
+## RiksTV-appen og nett-TV

@@ -1,0 +1,26 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/strong-srt8900/innstillinger/hdcp/
+Tittel: HDCP
+
+- Kundeservice
+- Godkjente mottakere
+- Strong SRT8900
+- 
+
+
+## Trinn 1
+Trykk Menu på fjernkontrollen for å åpne menyen.
+
+
+## Trinn 2
+Marker "Oppsett" og trykk OK
+
+
+## Trinn 3
+Marker "Tilkoblinger" og trykk OK
+
+
+## Trinn 4
+Marker "HDCP foretrukket modus". På er default etter programvareoppdatering.Velg på/av med pil høyre/venstre. Trykk OKHDCP (Kopisperre) går på HDMI-kabelen.Har man en ikke-kompatibel TV og ønsker å se kanalen, kan man bruke scartkabel.
+
+
+## Trinn 5

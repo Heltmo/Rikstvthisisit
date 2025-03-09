@@ -1,0 +1,72 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/antenne/smart-boks-iii/annet-problem/tekst-tv/
+Tittel: Tekst-TV
+
+- Kundeservice
+- Virker ikke
+- Antenne
+- SMART-boks III
+- Annet problem
+
+Tekst-TV er kun tilgjengelig på NRK og SVT1.
+
+Prøver du å sette på undertekst via tekst-TV kan du i stedet slå på tekst for hørselshemmede. Kanalene NRK, TV 2, TVNorge, TV3 og V4 tilbyr dette mellom kl. 18.00 og kl. 22.00.
+
+Teksting for hørselshemmede på NRK finnes på følgende kanalplasser:983 for NRK1984 for NRK2
+
+Gjør følgende på dekoderen din om tekst-TV mangler:
+
+- Trekk ut alle kabler fra dekoder. Vent 30 sekunder før du setter inn kabler på nytt.
+- Sjekk at antennekabel står ordentlig i dekoder.
+
+Er alt i orden med oppkoblingen? Da kan det være problemer med senderen i ditt område.Det sjekker du enkelt her:
+
+- Senderstatus
+
+- Det er registrert feil med sender
+
+Er det registrert en feil på senderen du benytter jobbes det med å få løst dette fortløpende.
+- Ingen registrerte feil med sender
+
+Er alt i orden med senderen i området, så kan du sjekke signalene inn til deg via dekoderen. Du finner veiledning for dette her: 
+
+Signalsjekk
+- Signalsjekk
+- Signaler er OK
+
+Er signalene i orden, men bildet mangler, så kan du prøve å ta ett nytt kanalsøk. Veiledning til hvordan dette gjøres finner du her:
+
+ Kanalsøk
+- Kanalsøk
+- Signaler er ikke OK
+
+Opplever du problemer med signaler etter signalsjekk, så kan det lønne seg å justere antennen.
+
+Justering av antenne
+- Justering av antenne
+
+
+### Det er registrert feil med sender
+Er det registrert en feil på senderen du benytter jobbes det med å få løst dette fortløpende.
+
+
+### Ingen registrerte feil med sender
+Er alt i orden med senderen i området, så kan du sjekke signalene inn til deg via dekoderen. Du finner veiledning for dette her:
+
+- Signalsjekk
+
+
+### Signaler er OK
+Er signalene i orden, men bildet mangler, så kan du prøve å ta ett nytt kanalsøk. Veiledning til hvordan dette gjøres finner du her:
+
+- Kanalsøk
+
+
+### Signaler er ikke OK
+Opplever du problemer med signaler etter signalsjekk, så kan det lønne seg å justere antennen.
+
+- Justering av antenne
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

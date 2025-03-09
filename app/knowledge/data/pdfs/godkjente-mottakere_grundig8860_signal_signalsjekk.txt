@@ -1,0 +1,51 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/grundig8860/signal/signalsjekk/
+Tittel: Signalsjekk
+
+- Kundeservice
+- Godkjente mottakere
+- Grundig DTR8860 PVR
+- 
+
+Slik sjekker du kvaliteten på signalet
+
+
+## Trinn 1
+Trykk Menu på fjernkontrollen for å åpne menyen.
+
+
+## Trinn 2
+Trykk 5 eller velg "Installasjon". Trykk OK
+
+
+## Trinn 3
+Trykk 4 eller velg "Dekoder valg". Trykk OK
+
+
+## Trinn 4
+Trykk 1 eller velg "Signal Meter". Trykk OK
+
+
+## Trinn 5
+Signalmeteret åpner seg på den kanalfrekvensen som den TV-kanalen man stod på.
+
+Denne boksen har to tunere, derfor er det to signalmålere. Disse vil være så og si identiske, siden de mottar det samme signalet.
+
+I dekningskartet finner du de fem ulike kanaler (frekvenser) som må sjekkes for adressen din.
+
+Slik bør det se ut:
+
+- C/N (dB) må være over 22-23 dB
+- BER må være stabil på 00E+00
+- Kvalitet må være stabilt på 100%
+- Signalstyrke bør være høyere enn 30%
+
+
+## Trinn 6a
+Dersom det står overbelastning så kortslutter 5 volt for forsterker.Løsningen er å skru av 5 volt.
+
+
+## Trinn 6b
+Intet signal, sjekk tilkobling
+
+Ved manglende signal: Sjekk også senderstatus. Det kan være arbeid eller feil på senderen.
+

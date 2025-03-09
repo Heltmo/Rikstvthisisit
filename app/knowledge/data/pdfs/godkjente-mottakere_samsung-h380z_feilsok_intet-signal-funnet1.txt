@@ -1,0 +1,22 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/samsung-h380z/feilsok/intet-signal-funnet1/
+Tittel: Intet signal funnet
+
+- Kundeservice
+- Godkjente mottakere
+- Samsung DTB-H380Z
+- 
+
+- feilmelding vises dersom det ikke er ikke signal inn til mottaker
+
+
+## Manglende signal
+Denne feilmeldingen vises i ca 15 sekunder.Deretter vises "Kodet, eller ingen signal" i ca 2 minutter.Deretter vises "Vennligst vent. Søker etter ny service." i ca 3 sekunder.
+
+
+## Sjekkliste
+- Sjekk senderstatus, denne gir info om senderen du mottar tv-signalet ditt fra.
+- Er antennen koblet til mottakeren? Sjekk at antennekabelen er ok, og tilkoblet både antenne og mottaker.
+- Gjør en signalsjekk for å lese ut signalnivået og sjekk om riktig frekvens benyttes. Sammenlikne frekvensene med de du finner på dekningskartet.
+
+Har du fellesantenne (bor du i leilighet eller lignende med fellesantenne? Da må vaktmester, eller annen kontaktperson for sameiet / borettslaget kontaktes.
+

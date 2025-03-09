@@ -1,0 +1,25 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/thomson-dti2011/feilsok/referanse-2/
+Tittel: Referanse 2. Denne kanalen kan ikke vises
+
+- Kundeservice
+- Godkjente mottakere
+- Thomson DTI2011 HD
+- 
+
+- vennligst kontroller antennetilkoblingen din.
+
+
+## Trinn 1
+Denne feilmeldingen vises dersom:
+
+- Det er for dårlig signal.
+- Det har vært frekvensendring i nettet
+
+Ved frekvensendring - Foreta et nytt kanalsøk.
+
+Sjekk senderstatus for feil på sender.
+
+
+## Trinn 2
+Gjennomfør Signalsjekk for å lese ut signalnivået.    Sjekk om riktig frekvens benyttes.Sammenlikne frekvensene med dekningskart.
+

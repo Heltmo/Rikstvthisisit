@@ -1,0 +1,23 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/internett/smart-boks-iii/feilmeldinger/kontroller-at-passord-er-riktig/
+Tittel: Kontroller at passord er riktig
+
+- Kundeservice
+- Virker ikke
+- Internett
+- SMART-boks III
+- Jeg får feilmelding
+
+Dette kan komme av at det er lagt inn feil passord, eller at det har blitt endret.
+
+Da kan følgende gjøres:
+
+- Ta ut strømkabelen fra nettverksruter.
+- Ta ut alle kabler fra dekoder.
+- Vent 30 sekunder.
+- Koble til strømmen på nettverksruter. Vent til nettet er tilbake. (Dette kan ta 5 minutter)
+- Sett i strømkabel til dekoder igjen og vent 40 sekunder.
+- Sett i de resterende kablene.
+- La dekoder starte opp før du prøver på nytt.
+
+Hvis dette ikke hjelper, så anbefaler vi at du kontakter din nettverksleverandør for videre feilsøk.
+

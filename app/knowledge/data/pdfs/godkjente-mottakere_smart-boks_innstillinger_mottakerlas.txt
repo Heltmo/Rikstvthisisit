@@ -1,0 +1,30 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/smart-boks/innstillinger/mottakerlas/
+Tittel: Mottakerlås
+
+- Kundeservice
+- Godkjente mottakere
+- SMART-boks PVR
+- 
+
+
+## Trinn 1
+Trykk Menu på fjernkontrollen for å åpne menyen.
+
+Velg ”Valg og innstillinger”, benytt sidepiltastene. Trykk OK
+
+
+## Trinn 2
+Velg "Foreldrekontroll". Trykk OK
+
+
+## Trinn 3
+Tast PIN-kode 1 2 3 4 (dersom den tidligere ikke har blitt endret.)
+
+
+## Trinn 4
+Mottakerlås låser mottakeren, og du må taste PIN-kode hver gang mottakeren slås på.
+
+Aktivering: Velg "På", bruk sidepiltastene. Trykk OK
+
+Deaktivering: Velg "Av". Trykk OK
+

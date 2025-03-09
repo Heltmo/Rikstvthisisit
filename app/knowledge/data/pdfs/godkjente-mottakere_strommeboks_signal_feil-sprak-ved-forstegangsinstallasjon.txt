@@ -1,0 +1,110 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/strommeboks/signal/feil-sprak-ved-forstegangsinstallasjon/
+Tittel: Feil språk ved førstegangsinstallasjon
+
+- Kundeservice
+- Godkjente mottakere
+- Strømmeboks
+- 
+
+
+## Trinn 1
+Enkelte TV-er av merket LG, kan sende feil språk til strømmeboksen. Dette fører til at man får feil språk når man skal bruke boksen første gang. Hvis det skulle skje kan man endre til norsk eller et annet språk ved å følge stegene under.
+
+Bildene nedenfor viser hvordan oppstartsguiden ser ut på norsk. Oppstartsguiden vil vises på et annet språk fram til man får endret språkinnstilling til norsk i trinn 17.
+
+Start med å skru av og på strømmeboksen.
+
+
+## Trinn 2
+Trykk OK på fjernkontrollen på første bilde.
+
+
+## Trinn 3
+Hvis Strømmeboksen ikke er koblet til internett via kabel, velg det nederste alternativet.
+
+
+## Trinn 4
+Her skal du også velge det nederste alternativet.
+
+
+## Trinn 5
+Velg det nettverkert du vil bruke.
+
+
+## Trinn 6
+Skriv inn passordet ditt.
+
+
+## Trinn 7
+Velg "Hopp over" og logg deg inn på din Googlekonto.
+
+
+## Trinn 8
+Godta vilkårene for å bruke Strømmeboksen.
+
+
+## Trinn 9
+Velg om du vil godta at Google bruker enhetens posisjon til å forbedre brukeropplevelsen.
+
+
+## Trinn 10
+Her velger du om du vil sende feilrapporter til Google, hvis enheten skulle krasje.
+
+
+## Trinn 11
+Velg navn på strømmeboksen (dette dukker opp om man f.eks. vil bruke Chromecast).
+
+
+## Trinn 12 A
+Trykk OK for å komme gjennom Googles guide.
+
+
+## Trinn 12 B
+
+## Trinn 12 C
+
+## Trinn 13
+Vent med å logge inn på din RiksTV konto og velg "Logg inn senere".
+
+
+## Trinn 14
+Velg tannhjul-ikonet øverst til høyre.
+
+
+## Trinn 15
+Velg skjerm-ikonet nesten nederst.
+
+
+## Trinn 16
+Velg globus-ikonet.
+
+
+## Trinn 17
+Du får nå opp en liste med språk. Velg det språket du vil ha.
+
+
+## Trinn 18
+Trykk Hjem på fjernkontrollen.
+
+
+## Trinn 19
+Trykk på "Innstillinger" øverst til høyre på hjemskjermen.
+
+
+## Trinn 20
+Velg "Enhetsinnstillinger"
+
+
+## Trinn 21
+Velg "Avanserte innstillinger".
+
+
+## Trinn 22
+Velg HDMI-CEC.
+
+
+## Trinn 23
+Skru av "Velg språk automatisk".
+
+For å komme tilbake til hjemskjermen: trykk på knappen som viser pil til venstre på fjernkontrollen.
+

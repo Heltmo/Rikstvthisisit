@@ -1,0 +1,30 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/strommeboks/innstillinger/skru-av-hdmi-cec/
+Tittel: Skru av HDMI-CEC
+
+- Kundeservice
+- Godkjente mottakere
+- Strømmeboks
+- 
+
+
+## Trinn 1
+Trykk på "Innstillinger" øverst til høyre på hjemskjermen.
+
+
+## Trinn 2
+Velg "Enhetsinnstillinger".
+
+
+## Trinn 3
+Velg "Avanserte innstillinger".
+
+
+## Trinn 4
+Velg "HDMI-CEC".
+
+
+## Trinn 5
+Skru av "HDMI-CEC".
+
+For å komme tilbake til hjemskjermen: trykk på knappen som viser pil til venstre på fjernkontrollen.
+

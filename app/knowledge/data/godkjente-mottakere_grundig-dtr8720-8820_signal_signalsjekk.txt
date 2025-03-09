@@ -1,0 +1,41 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/grundig-dtr8720-8820/signal/signalsjekk/
+Tittel: Signalsjekk
+
+- Kundeservice
+- Godkjente mottakere
+- Grundig DTR8720/8820
+- 
+
+Slik sjekker du signalforholdene
+
+
+## Trinn 1
+Trykk Menu på fjernkontrollen for å åpne menyen. Trykk 4 eller velg "Installasjon". Trykk OK
+
+
+## Trinn 3
+Trykk 4 eller velg "Dekoder valg". Trykk OK
+
+
+## Trinn 4
+Trykk 1 eller velg "Signal Meter". Trykk OK
+
+
+## Trinn 5
+Signalmeteret åpner seg på den kanalfrekvensen som den TV-kanalen man stod på.
+
+Det er fem ulike kanaler (frekvenser) som må sjekkes for adressen din og disse finner du i dekningskartet.
+
+Slik bør det se ut:
+
+- C/N (dB) må være over 22-23 dB
+- BER må være stabil på 00E+00
+- Kvalitet må være stabilt på 100%
+- Signalstyrke bør være høyere enn 30%
+
+
+## Hvordan gikk signalsjekken?
+
+### Er signalene dine ok eller trenger du videre feilsøking?
+Signalsjekk ok   Signalsjekk ikke ok
+

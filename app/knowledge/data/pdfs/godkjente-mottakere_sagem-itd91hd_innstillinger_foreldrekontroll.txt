@@ -1,0 +1,38 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/sagem-itd91hd/innstillinger/foreldrekontroll/
+Tittel: Foreldrekontroll
+
+- Kundeservice
+- Godkjente mottakere
+- Sagem ITD91HD
+- 
+
+- hvordan sette foreldrekontroll
+
+
+## Trinn 1
+Trykk Menu for å åpne menyen.
+
+
+## Trinn 2
+Marker "Brukerinnstillinger" og trykk OK
+
+
+## Trinn 3
+Marker "Alternativer for sperrefunksjon" og trykk OK
+
+
+## Trinn 4
+Tast inn PIN-kode 1 2 3 4 (hvis du ikke har endret den). Bekreft med OK
+
+
+## Trinn 5
+Under "Alternativer for sperrefunksjon" er det to valg:
+
+- Lås programmer
+
+Under dette valget velger man foreldrelåsnivå. De forskjellige nivåene er "Se alt", 18, 15, 11 og 7 år. Dersom denne for eksempel settes  til 11 år, vil det komme opp en plakat hvor man må bekrefte visning ved å taste PIN-kode dersom programmet er klassifisert som for eksempel 15 år.
+
+- Lås kanaler
+
+Under dette valget kan man utfra kanallisten velge de kanaler som skal sperres. Når man zapper til en låst kanal, vil man måtte taste PIN-kode for å se kanalen.Bekrefte valg, marker "OK" og trykk OK
+

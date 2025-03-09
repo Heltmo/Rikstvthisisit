@@ -1,0 +1,35 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/samsung-h380z/signal/signalsjekk/
+Tittel: Signalsjekk
+
+- Kundeservice
+- Godkjente mottakere
+- Samsung DTB-H380Z
+- 
+
+- slik sjekker du kvaliteten på signalet
+
+
+## Trinn 1
+Trykk Menu for å åpne menyen. Den åpner seg der du var sist. Bruk venstre piltast eller "Retur" for å gå tilbake.
+
+
+## Trinn 2
+Velg ”Kanal”. Trykk OK
+
+
+## Trinn 3
+Velg ”Signalstyrke”. Trykk OK
+
+
+## Trinn 4
+Signalmeteret åpner seg på den kanalfrekvensen som den TV-kanalen du stod på.
+
+Det er fem ulike kanaler (frekvenser) som må sjekkes for adressen din og disse finner du i dekningskartet.
+
+Slik bør det se ut:
+
+- C/N (dB) må være over 22-23 dB
+- BER må være stabil på 00E+00
+- Kvalitet må være stabilt på 100%
+- Signalstyrke bør være høyere enn 30%
+

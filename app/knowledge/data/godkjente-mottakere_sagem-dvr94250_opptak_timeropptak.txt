@@ -1,0 +1,32 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/sagem-dvr94250/opptak/timeropptak/
+Tittel: Timeropptak
+
+- Kundeservice
+- Godkjente mottakere
+- Sagem DTR94250
+- 
+
+- hvordan programmere timeropptak med PVR
+
+
+## Trinn 1
+Trykk Meny Da markeres klokkesymbolet og det står "Tidtakere for opptak" nede til høyre. Trykk OK
+
+
+## Trinn 2
+Trykk OK
+
+
+## Trinn 3
+Kanal:Skriv inn programnummeret med talltastene.For NRK2 blir det 0002.
+
+Gjentagelse:Her kan man med pil høyre/venstre velge mellom:
+
+- Enkelt
+- Hver uke
+- Daglig (man-fre)
+- Daglig (man-lør)
+- Daglig (man-søn)
+
+Dato:Skriv inn dato med talltasteneStart:Skriv inn starttidspunktAvslutt:Skriv inn stopptidspunktSperrer:Om opptaket skal bli sperret med kode i opptakslisten.Velg Nei/Ja med pil høyre/venstreExit for å avslutte.Alle opptak vil legge seg i listen under "opptak".
+

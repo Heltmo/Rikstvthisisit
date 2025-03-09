@@ -1,0 +1,36 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/humax-cxhd-3000t/signal/fabrikkinnstilling/
+Tittel: Fabrikkinnstilling
+
+- Kundeservice
+- Godkjente mottakere
+- Humax CXHD-3000T
+- 
+
+Tilbakestille mottakeren til standardoppsett
+
+
+## Trinn 1
+Trykk Menu på fjernkontrollen for å åpne menyen.
+
+
+## Trinn 2
+Velg "Systeminnstillinger". Trykk OK
+
+
+## Trinn 3
+Tast PIN-kode 1 2 3 4 (dette er standard fabrikkode/PIN-kode).Har du endret PIN-kode, skriver du selvsagt din egen.
+
+
+## Trinn 4
+Velg "Systemvedlikehold". Trykk OK
+
+
+## Trinn 5
+Velg "Reinstallere”. Trykk OK
+
+
+## Trinn 6
+Velg "Ja" og bekreft med OK for å tilbakestille mottakeren til standard fabrikkoppsett.
+
+Mottakeren vil nå gå i svart i noen sekunder før den kommer opp igjen og viser første skjerm i førstegangsinstallasjon.
+

@@ -1,0 +1,53 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/internett/smart-boks-i/feilmeldinger/feil-med-kort/
+Tittel: Feil med kort
+
+- Kundeservice
+- Virker ikke
+- Internett
+- SMART-boks I
+- Jeg får feilmelding
+
+Denne feilmeldingen indikerer at boks og kort ikke snakker sammen. Sjekk først om du får opp menyen til dekoderen på TV-skjermen. Hvis du ikke får opp menyen så må du bytte kildeinngang på TV-en.
+
+Om alt er OK med menyen, så kan du prøve å trekke ut strømmen på boksen i 30 sekunder. Om dette ikke fungerer, så kan følgende prøves:
+
+- Ta ut kortet fra dekoderen. Det er en luke på fronten av dekoderen som kan vippes ned hvor du finner kortet.
+- Puss gullbrikken på kortet og sett det inn igjen med gullbrikken ned og inn i dekoderen.
+
+Er du sikker på at alle kabler er koblet rett og at du er på korrekt kilde?
+
+- Rett kildekanal
+
+Om TV-en er på korrekt kildekanal men du fortsatt ikke får opp kanaler så sjekk følgende:
+
+Benytter du HDMI kabel som fulgte med dekoder?
+Forsøk å bytte HDMI inngang på TV-en.
+Forsøk med annen HDMI kabel.
+
+ 
+Om alt er i orden så anbefaler vi å gjøre en superstrømløs
+- Benytter du HDMI kabel som fulgte med dekoder?
+- Forsøk å bytte HDMI inngang på TV-en.
+- Forsøk med annen HDMI kabel.
+- Feil kildekanal
+
+Normalt heter kildeknappen AV, Input eller Source på fjernkontrollen til TV-en. Får du ikke endret til korrekt kildekanal på TV-en din, må du enten ta kontakt med TV-produsent eller det stedet der du kjøpte den.
+
+
+### Rett kildekanal
+Om TV-en er på korrekt kildekanal men du fortsatt ikke får opp kanaler så sjekk følgende:
+
+- Benytter du HDMI kabel som fulgte med dekoder?
+- Forsøk å bytte HDMI inngang på TV-en.
+- Forsøk med annen HDMI kabel.
+
+Om alt er i orden så anbefaler vi å gjøre en superstrømløs
+
+
+### Feil kildekanal
+Normalt heter kildeknappen AV, Input eller Source på fjernkontrollen til TV-en. Får du ikke endret til korrekt kildekanal på TV-en din, må du enten ta kontakt med TV-produsent eller det stedet der du kjøpte den.
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

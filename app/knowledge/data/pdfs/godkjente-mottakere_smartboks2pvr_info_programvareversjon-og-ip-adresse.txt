@@ -1,0 +1,35 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/smartboks2pvr/info/programvareversjon-og-ip-adresse/
+Tittel: Programvareversjon og IP-adresse
+
+- Kundeservice
+- Godkjente mottakere
+- SMART-boks II PVR
+- 
+
+
+## Trinn 1
+Trykk Husknappen på fjernkontrollen for å åpne menyen.
+
+Velg ”Systeminformasjon” med sidepiltastene og trykk OK.
+
+
+## Trinn 2 - Programvareversjon og IP adresse
+Software version = programvareversjon
+
+CA-card number: Kortnummer IP address: IP-adressen for mottakeren og om den er tilkoblet kabel eller wifi MAC address: Nettverkskort-nummer Video resolution: Bildeoppløsning for kanalen Hard disk usage: Bruk av harddisken
+
+IP-adresseFor å hente frem de riktig opplysningene er det viktig at mottakeren resettes med strømløs så gamle opplysninger slettes. Gå deretter inn i menyen på nytt.Har mottakeren fått tildelt en IP-adresse er den tilkoblet internett.
+
+Det sendes ut filmer i forskjellig kvalitet.For test av din linjehastighet: http://speed.bredbandsguiden.no/Både kvaliteten til internettlinjen og øvrig bruk i hjemmenettet vil påvirke båndbredden:
+
+- 3 Mb/s gir SD-kvalitet som er den vanlige kvaliteten
+- 5-6 Mb/s gir HD-kvalitet så samt filmen/innholdet er i HD
+
+
+## Trinn 3 - Programvareoppdatering
+Last ned siste versjon av programvare for din mottaker
+
+
+## Trinn 4
+Trykk OK for å gå tilbake i menyen eller trykk Exit for å gå ut av menyen.
+

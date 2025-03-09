@@ -1,0 +1,18 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/grundig-dtr8720-8820/feilsok/feil-i-kommunikasjon-med-kort/
+Tittel: Feil i kommunikasjon med kort
+
+- Kundeservice
+- Godkjente mottakere
+- Grundig DTR8720/8820
+- 
+
+
+## Feilmelding
+Denne feilmeldingen vises dersom kortet står feil vei i mottakeren.
+
+Står RiksTV kortet med "gullbrikken" ned og inn i mottakeren?- Ja: Fjern smuss fra gullbrikken og sett kortet inn på nytt.
+
+Fremdeles problemerForsøk å sette kortet i en annen mottaker registrert på samme kundebilde for å sjekke om det er noe galt med mottakeren eller kortet.
+
+I noen tilfeller kan det hjelpe å ta strømmen i 10 sekunder så mottakeren får omstartet.
+

@@ -1,0 +1,69 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/internett/strommeboks/jeg-far-feilmelding/du-har-ikke-tilgang-til-dette-innholdet/
+Tittel: Du har ikke tilgang til dette innholdet
+
+- Kundeservice
+- Virker ikke
+- Internett
+- Strømmeboks
+- Jeg får feilmelding
+
+Denne feilmeldingen kommer om du ikke har tilgang til kanalen i pakken din, eller du er innlogget med feil kundenummer i appen.
+
+Dette er indikert ved at det enten er en hengelås på kanalen eller det står "Ikke tilgjengelig" i programguiden.
+
+Du kan se hvilke kanaler du har tilgang til via Min Side. Her kan du også oppgradere pakken din. Har du kanalpakken FleksiPakken så vil du på Min Side kunne endre hvilke kanaler du har tilgang til.
+
+Sjekk ditt kundenummer.Du kan sjekke hvilket kundenummer du er innlogget på i RiksTV-appen ved å gå til innstillinger for å åpne din brukerside.
+
+Hvis du er usikker på ditt kundenummer så finner du dette på følgende steder:
+
+- Min side
+- Fakturaen din
+- Abonnementsavtalen din
+
+- Kundenummer er feil
+
+Er du ikke logget inn på riktig kundenummer i appen, så må du først logge ut av RiksTV-appen, før du logger inn på nytt med riktig kundenummer. 
+Husk at det er samme innlogging på RiksTV-appen som det er på Min Side. 
+Om du opplever problemer med innloggingen så ta kontakt med oss.
+- Kundenummer er rett
+
+Er du logget inn på rett kundenummer i appen, så kan du tvinge avslutning og slette data på RiksTV-appen før du prøver på nytt.
+ 
+Om dette ikke hjelper, så kan du gjøre følgende:
+
+Logg ut av appen.
+Trekk ut strømmen fra Strømmeboks.
+Vent 30 sekunder.
+Sett inn strømmen.
+Logg inn og prøve på nytt.
+- Logg ut av appen.
+- Trekk ut strømmen fra Strømmeboks.
+- Vent 30 sekunder.
+- Sett inn strømmen.
+- Logg inn og prøve på nytt.
+
+
+### Kundenummer er feil
+Er du ikke logget inn på riktig kundenummer i appen, så må du først logge ut av RiksTV-appen, før du logger inn på nytt med riktig kundenummer.
+
+Husk at det er samme innlogging på RiksTV-appen som det er på Min Side.
+
+Om du opplever problemer med innloggingen så ta kontakt med oss.
+
+
+### Kundenummer er rett
+Er du logget inn på rett kundenummer i appen, så kan du tvinge avslutning og slette data på RiksTV-appen før du prøver på nytt.
+
+Om dette ikke hjelper, så kan du gjøre følgende:
+
+- Logg ut av appen.
+- Trekk ut strømmen fra Strømmeboks.
+- Vent 30 sekunder.
+- Sett inn strømmen.
+- Logg inn og prøve på nytt.
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

@@ -1,0 +1,46 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/grundig8860/kanal/manuelt-kanalsok/
+Tittel: Manuelt kanalsøk
+
+- Kundeservice
+- Godkjente mottakere
+- Grundig DTR8860 PVR
+- 
+
+
+## Trinn 1
+Trykk Menu på fjernkontrollen for å åpne menyen.
+
+
+## Trinn 2
+Trykk 5 eller velg "Installasjon". Trykk OK
+
+
+## Trinn 3
+Trykk 3 eller velg "Kanalvalg". Trykk OK
+
+
+## Trinn 5
+RF Kanal:  Velg ønsket kanalfrekvens med piltastene høyre/venstre.  Trykk OK.   Du finner riktig kanalfrekvens på dekningskartet.   Kvalitet bør være 100%
+
+
+## Trinn 6
+Søker...
+
+
+## Trinn 7a
+"Vellykket". Trykk OK for "Ja".
+
+
+## Trinn 7b
+"Ingen nye kanaler funnet".  Kanalene ligger allerede i kanalliste.
+
+
+## Trinn 7c
+"Intet signal" Sjekk tilkoblinger.
+
+Ved manglende signal: Sjekk også senderstatus. Det kan være arbeid eller feil på senderen.
+
+
+## Trinn 8
+Vent til "Vennligst vent..." plakaten går bort. Trykk LiveTV for å avslutte.
+

@@ -1,0 +1,39 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/antenne/smart-boks-iii/problem-med-kanaler/bilde-hakker/
+Tittel: Bildet hakker
+
+- Kundeservice
+- Virker ikke
+- Antenne
+- SMART-boks III
+- Problem med kanaler
+
+Har du en opptaksdekoder så kan hakkete bilde komme av at harddisken på den er full.
+
+Sjekk først status på harddisken.
+
+Trykk på Husknappen på fjernkontrollen for å åpne menyen.
+
+Gå til tannhjulet helt til venstre og trykk OK. Du kommer nå inn i menyen "Innstillinger". Velg "Administrer lagring" med piltastene og trykk OK.
+
+- Over 80% kapasitet brukt?
+
+Hvis over 80% av kapasiteten er brukt må opptak slettes for at dekoderen skal fungerer optimalt. Dette kan du gjøre på en av to måter:
+Slette optakene manuelt: da velger du selv hva som skal slettes, dette kan ta noe tid.Formatere harddisken: Dette gjøres på samme sted man sjekker hvor mye av harddisken som er brukt. Dette sletter alle opptak.
+- Ikke opptaksdekoder eller harddisk er under 80%
+
+Fortsett feilsøk for signalproblemer
+
+
+### Over 80% kapasitet brukt?
+Hvis over 80% av kapasiteten er brukt må opptak slettes for at dekoderen skal fungerer optimalt. Dette kan du gjøre på en av to måter:
+
+Slette optakene manuelt: da velger du selv hva som skal slettes, dette kan ta noe tid.Formatere harddisken: Dette gjøres på samme sted man sjekker hvor mye av harddisken som er brukt. Dette sletter alle opptak.
+
+
+### Ikke opptaksdekoder eller harddisk er under 80%
+Fortsett feilsøk for signalproblemer
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

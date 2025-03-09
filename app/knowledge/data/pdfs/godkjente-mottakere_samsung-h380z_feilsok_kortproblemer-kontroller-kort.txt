@@ -1,0 +1,16 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/samsung-h380z/feilsok/kortproblemer-kontroller-kort/
+Tittel: Kortproblemer, sjekk kort
+
+- Kundeservice
+- Godkjente mottakere
+- Samsung DTB-H380Z
+- 
+
+- denne meldingen kommer når kortet står feil vei i mottakeren
+
+
+## Trinn 1
+Står programkortet med "gullbrikken" ned og inn i mottakeren?
+
+Hvis ja: fjern smuss fra gullbrikken og sett kortet inn på nytt.
+

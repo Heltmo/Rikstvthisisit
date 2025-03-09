@@ -1,0 +1,36 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/strommeboks/feilsok/slette-data-fra-app/
+Tittel: Slette data fra app
+
+- Kundeservice
+- Godkjente mottakere
+- Strømmeboks
+- 
+
+
+## Trinn 1
+Åpne forsiden til Strømmeboksen ved å trykke på Husknappen på fjernkontrollen.
+
+
+## Trinn 2
+Bruk piltastene på fjernkontrollen og bla deg bort til tannhjulet for Innstillinger, trykk OK
+
+
+## Trinn 3
+Bla deg ned til Apper med piltastene på fjernkontrollen, trykk OK
+
+
+## Trinn 4
+Velg RiksTV appen under Nylig åpnede apper, trykk OK
+
+
+## Trinn 5
+Bla nedover med piltastene til "Slett data", trykk OK
+
+
+## Trinn 6
+Trykk "OK", og data er slettet.
+
+
+## Trinn 7
+Neste steg er da å tvinge avslutning av appen.
+

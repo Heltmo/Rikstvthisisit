@@ -1,0 +1,34 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/intek-hdpvr-t12cx/feilsok/fjernkontroll/
+Tittel: Problemer med fjernkontroll
+
+- Kundeservice
+- Godkjente mottakere
+- Intek HDPVR-T12CX
+- 
+
+- sjekkliste hvis fjernkontrollen ikke virker
+
+Forklaring av fjernkontroll for dekoder med opptak (PVR)
+
+Forklaring av fjernkontroll for dekoder (basis)
+
+
+## Sjekkliste
+- Riktig fjernkontroll? Sjekk først at du bruker den rette fjernkontrollen... Ikke bruk TV-fjernkontrollen for å velge TV-kanaler
+- Sjekk batteriene. Sitter de riktig vei? Prøv med nye batterier
+- Er det infrarøde mottaket på mottakeren tildekket? Signalet fra fjernkontrollen må ha fritt leide frem til mottakeren
+
+
+### Annet å sjekke
+Elektronisk støy
+
+Fjernkontrollen sender et infrarødt signal til dekoderen. I noen tilfeller kan TV-ens magnetfelt påvirke dette signalet. Prøv å flytte dekoderen lenger bort fra TV-en.
+
+I enkelte tilfeller kan det hjelpe å endre lysinnstillingene på flatskjermen. Dette fordi enkelte TV-er avgir mer elektromagnetisk støy med visse innstillinger i lysoppsettet.
+
+Glatte eller blanke overflater skaper refleksjoner som kan forstyrre det infrarøde signalet. Dekoderen mottar utrolig mange beskjeder og blir treg fordi den prøver å behandle kommandoene. Prøv å dekke til den blanke parketten med et teppe.
+
+
+### Ødelagt?
+Er fjernkontrollen ødelagt, ta kontakt med RiksTV kundeservice på chat, så skal vi hjelpe deg med å bestille en ny.
+

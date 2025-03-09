@@ -1,0 +1,95 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/strommeboks/
+Tittel: Strømmeboks
+
+- Kundeservice
+- Godkjente mottakere
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+< Tilbake
+
+
+## Last ned
+Kom i gang-guide (Installasjon og daglig bruk)
+
+Forklaring av numerisk fjernkontroll
+
+
+## Brukerveiledning
+
+### Signal
+- Førstegangsinstallasjon
+- Koble til internett
+- Fabrikkinnstilling
+- Restart av strømmeboks
+- Feil språk ved førstegangsinstallasjon
+
+
+### Kanal
+- Finn radiokanaler
+- Oppdatere programguide
+- Skru av avspillingsdiagnostikk
+- Lag favorittliste
+
+
+### Innstillinger
+- Teksting (undertekst)
+- Endre PIN-kode
+- Endre språk/undertekst
+- Foreldrekontroll
+- PIN-kode ved leie
+- Lydspor
+- Endre språk på strømmeboksen
+- Skru av HDMI-CEC
+- Endre skjermsparer og hvilemodus
+
+
+### Info
+- Systemoppdatering
+- Oppdatering av RiksTV-appen
+- Koble til numerisk fjernkontroll
+- Nedlasting av andre apper
+- Slette apper
+
+
+### Feilsøk
+- Slette data fra app
+- Tvinge avslutning av app
+
+
+## Modeller
+SRT 412
+
+
+## Spesifikasjoner
+- 12 Volt
+- 5 Volt antenneforsterker
+- VHF-støtte
+- SCART-utgang
+- Optisk S/PDIF-utgang
+- Coax S/PDIF-utgang
+- Rca Stereo
+- RF Loop Through
+- Dobbel tuner
+- Elektronisk Program Guide
+- Radio applikasjon
+- Hjelpefunksjoner
+- Foreldrekontroll
+- Teletext
+- Kanalliste
+- Opptaksmulighet
+- Pause/spole funksjonalitet
+- Internettilkobling
+- Fjernkontroll m/batterier
+- SCART kabel
+- HDMI kabel
+- Antennekabel
+- Strømkabel
+- Brukermanual (no/en)
+- Blu-Ray
+

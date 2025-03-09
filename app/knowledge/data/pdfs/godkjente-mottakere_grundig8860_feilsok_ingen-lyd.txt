@@ -1,0 +1,13 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/grundig8860/feilsok/ingen-lyd/
+Tittel: Ingen lyd ved bruk av HDMI?
+
+- Kundeservice
+- Godkjente mottakere
+- Grundig DTR8860 PVR
+- 
+
+
+## Løsning
+- Det kan være DISP-knappenHold DISP-knappen inne i 4 sekunder. Det byttes da mellom DVI og HDMI-modus.
+- Det kan være Audiomodus som står i multikanallydTrykk: Meny, 4, 3 velg stereo.
+

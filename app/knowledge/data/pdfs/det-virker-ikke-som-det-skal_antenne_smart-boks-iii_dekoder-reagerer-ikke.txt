@@ -1,0 +1,43 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/antenne/smart-boks-iii/dekoder-reagerer-ikke/
+Tittel: Dekoder reagerer ikke
+
+- Kundeservice
+- Virker ikke
+- Antenne
+- SMART-boks III
+
+Vil ikke dekoderen din reagere når du trykker på fjernkontrollen eller på knappen i front av boksen?
+
+Lyset i front på dekoderen er svakt når dekoderen er skrudd av. Dette vil bli sterkere når dekoderen skrus på.
+
+Gjør først følgende:
+
+- Forsikre deg om at dekoder er på. Sjekk om du får opp menyen fra dekoder på skjermen, ved å trykke på Husknappen på fjernkontrollen til dekoder.
+- Hvis lyset blir sterkere, men du fortsatt får samme feil, så kan det være at du er på feil kildekanal. Da må du bytte ved å bruke fjernkontrollen til TV-en. Normalt så heter kildeknappen AV, Input eller Source.
+- Får du ikke endret til korrekt kildekanal på TV-en din, må du enten ta kontakt med TV-produsent eller det stedet der du kjøpte den.
+
+Får du opp menyen så er du på rett kildekanal, da kan du sjekke følgende:
+
+- Er dekoder og TV på og alle kabler er satt riktig inn?
+- Blinker lyset øverst på fjernkontrollen når du trykker på en tast?
+- Blinker lyset på dekoderen når du trykker på fjernkontrollen?
+
+Når du trykker på knappene på fjernkontrollen din så vil det normalt lyse helt øverst på den. Det skal ikke blinke hele tiden, kun når du trykker inn en knapp.
+
+Blinker det ikke når du trykker på noen knapper så må batteriene sjekkes.
+
+Sitter de riktig vei? Prøv eventuelt med nye batterier.Du trenger 2 AAA batterier som skal inn i fjernkontrollen og begge skal settes med minus inn i fjernkontrollen. Batteribytte gjøres ved å dra metalldelen ned og ut.
+
+Har du byttet batterier?Da kan det være du må koble sammen fjernkontrollen med dekoder på nytt.
+
+
+## 
+- Rett fjernkontrollen mot dekoder (stå så nærme som mulig, maks 1 meter) og trykk på «Play» og «OK» samtidig til fjernkontrollen begynner å blinke.
+- Mens fjernkontrollen blinker: hold inne knappen foran på dekoder i 11 sekunder til den begynner å blinke blått (den vil bli grønn etter 5 sekunder, deretter blå).
+- Hvis fjernkontrollen ikke blinker lenger, trykker du OK for å fortsette parringen.
+- Fjernkontrollen og dekoder er nå koblet sammen.
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

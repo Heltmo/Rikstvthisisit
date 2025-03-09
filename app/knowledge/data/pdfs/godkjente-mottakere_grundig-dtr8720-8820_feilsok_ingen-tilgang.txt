@@ -1,0 +1,25 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/grundig-dtr8720-8820/feilsok/ingen-tilgang/
+Tittel: Ingen tilgang
+
+- Kundeservice
+- Godkjente mottakere
+- Grundig DTR8720/8820
+- 
+
+
+## Ingen tilgang
+Denne feilmeldingen vises dersom:
+
+- Programkortet venter på oppdatering. (Lenge siden det var i bruk sist eller nytt kort)
+- Du har en faktura som ikke er betalt
+- Du mangler abonnement på gjeldende kanal
+- Det står et annet kort enn RiksTV-programkort i mottakeren
+- Det står feil RiksTV-programkort i mottakeren.
+
+
+## Slik gjør du
+- Sett inn programkortet fra RiksTV i mottakeren. Hvis programkortet ikke har vært brukt de siste 2 - 3 månedene må mottakeren stå på i 30 minutter. Da vil programkortet automatisk motta en tilgangsmelding.
+- Sjekk Abonnementsstatus. Dato må være inneværende måned.
+
+Har det vært en manglende betaling tar det ca 4 - 5 virkedager etter betaling før tilgangen (til tv-signalet) kommer tilbake.
+

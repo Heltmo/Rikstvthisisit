@@ -1,0 +1,41 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/internett/strommeboks/jeg-far-feilmelding/avspilling-fungerer-dessverre-ikke/
+Tittel: Avspilling fungerer dessverre ikke
+
+- Kundeservice
+- Virker ikke
+- Internett
+- Strømmeboks
+- Jeg får feilmelding
+
+Denne feilmeldingen kommer om Strømmeboks har problemer med å holde seg tilkoblet internett eller den oppdager bruk av VPN tjeneste.
+
+Du må først sjekke:
+
+- At internett fungerer på andre enheter hjemme hos deg som f.eks. mobil eller PC.
+- At det ikke er noe skader på nettverkskabel som går fra ruter til Strømmeboks.
+
+Hvis internett ikke fungerer på andre enheter, så anbefaler vi at du kontakter din nettverksleverandør for videre feilsøk.
+
+Fungerer internett på andre enheter? Da kan du prøve å spille av f.eks NRK TV appen på strømmeboksen.
+
+Er alt er i orden med andre apper på din Strømmeboks, så kan du tvinge avslutning og slette data på RiksTV-appen før du prøver på nytt.
+
+Hjelper ikke dette må du sjekke om du benytter deg av VPN tjeneste. Er du usikker kan du kontakte din nettverksleverandør for hjelp.
+
+
+### 
+- Hvorfor er VPN sperret?
+
+Grunnen til VPN-sperre er at det er bestemt i avtalene med innholdsleverandører at tjenesten ikke skal være tilgjengelig via VPN eller andre såkalte anonymiseringstjenester.
+RiksTV-appen kan brukes i EU/EØS, men avspilling sperres ved VPN-tjeneste uavhengig av hvor du befinner deg.
+
+
+### Hvorfor er VPN sperret?
+Grunnen til VPN-sperre er at det er bestemt i avtalene med innholdsleverandører at tjenesten ikke skal være tilgjengelig via VPN eller andre såkalte anonymiseringstjenester.
+
+RiksTV-appen kan brukes i EU/EØS, men avspilling sperres ved VPN-tjeneste uavhengig av hvor du befinner deg.
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

@@ -1,0 +1,16 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/grundig8860/feilsok/svart-skjerm/
+Tittel: Svart skjerm
+
+- Kundeservice
+- Godkjente mottakere
+- Grundig DTR8860 PVR
+- 
+
+
+## Løsning
+Svart skjerm vises dersom programkort har mottatt abonnement, men ikke mottatt pairing.
+
+Løsning: Vent noen minutter, så kommer bildet.
+
+Du kan sjekke om pairing er mottatt ved å velge kanalen Visjon Norge.Visjon Norge sender åpent på kortet, men trenger pairing. Pairing betyr at programkort og mottaker kobles/parres sammen.Er ikke pairing mottatt etter 1 time kan du kontakte kundesenteret på 09595.
+

@@ -1,0 +1,39 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/grundig8860/feilsok/det-star-test-i-display/
+Tittel: Det står TEST i display
+
+- Kundeservice
+- Godkjente mottakere
+- Grundig DTR8860 PVR
+- 
+
+
+## 1
+Det kan lyse "TEST" i display/frontpanel på mottaker av ulike årsaker:
+
+- Når mottakeren kobles til strøm
+- Det kan oppstå etter en programvareoppdatering
+- Det kan oppstå når programvarenedlasting feiler av en eller annen grunn
+- Det kan være feil på mottaker. Dersom mottaker ikke starter opp igjen, må den byttes. Ta kontakt med den forhandler du kjøpte mottakeren av.
+
+Hvis mottakeren viser "TEST" på morgenen etter å ha lastet ned programvare kan du prøve følgende:
+
+- Tilbakestille mottaker: Ta ut strømledningen i 30 sekunder.
+- Mottaker starter på nytt. Dette tar lang tid. Dersom mottaker ikke starter, ta ut HDMI-kabel og prøv på nytt.
+- Sjekk programvareversjon. Er det siste versjon xxx.411 er alt bra.
+
+Hvis det ikke er siste versjon av programvare, har mottaker feilet med nedlasting. Det kan være flere årsaker til dette:
+
+- Mottaker feilet - prøv igjen.
+- Henter oppdatering fra feil sender, Gammel programvare (44 og 51) kan i noen tilfeller hente programvare fra feil frekvens (svakere sender):Dette kan du sjekke med signalmeteret. Er det en svakere NRK i samme området som gir utslag på signalmeteret og har lavere frekvens? Da kan det være årsaken til at mottaker feiler. Frekvensinformasjon får du på dekningskartet.
+
+Dersom feil frekvens benyttes er løsningen fabrikkinnstilling og manuelt søk (fjerner alternative frekvenser):
+
+- Ta ut antennekabel
+- Ta fabrikkinnstilling (uten antennekabel i mottaker)
+- Intet signal kommer opp
+- Trykk Meny
+- Sett inn antennekabel i mottaker
+- Ta manuelt søk på de sterkeste frekvensene.
+
+Mottakeren vil nå kunne laste programvare fra riktig frekvens.
+

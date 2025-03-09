@@ -1,0 +1,12 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/strong-srt8910/feilsok/for-a-se-denne-kanalen/
+Tittel: For å se denne kanalen
+
+- Kundeservice
+- Godkjente mottakere
+- Strong SRT8910
+- 
+
+
+## Trinn 1
+Sett HDCP til "PÅ" i meny. Se HDCP-innstilling.Eller bruk scartkabel.HDCP = Digital Kopibeskyttelse på HDMI-utgangen.
+

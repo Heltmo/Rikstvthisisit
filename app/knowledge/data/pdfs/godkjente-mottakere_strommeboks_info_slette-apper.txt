@@ -1,0 +1,20 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/strommeboks/info/slette-apper/
+Tittel: Slette apper
+
+- Kundeservice
+- Godkjente mottakere
+- Strømmeboks
+- 
+
+
+## Trinn 1
+Velg apper øverst på startskjermen
+
+
+## Trinn 2
+Hold inne OK knappen når appen du ønsker å slette er markert. Velg deretter "Avinstaller".
+
+
+## Trinn 3
+Velg OK og bekreft for avinstallering. Appen blir da slettet fra Strømmeboksen.
+

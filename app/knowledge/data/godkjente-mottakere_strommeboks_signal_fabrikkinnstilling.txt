@@ -1,0 +1,36 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/strommeboks/signal/fabrikkinnstilling/
+Tittel: Fabrikkinnstilling
+
+- Kundeservice
+- Godkjente mottakere
+- Strømmeboks
+- 
+
+
+## Trinn 1
+Trykk på "Innstillinger" øverst til høyre på hjemskjermen.
+
+
+## Trinn 2
+Velg "Enhetsinnstillinger"
+
+
+## Trinn 3
+Velg "Info" øverst
+
+
+## Trinn 4
+Velg "Tilbakestilling til fabrikkstandard"
+
+
+## Trinn 5
+Bekreft ved å trykke på "Tilbakestill".
+
+For å komme tilbake til hjemskjermen: trykk på knappen som viser pil til venstre på fjernkontrollen.
+
+
+## Trinn 6
+Velg "Slett alt" og trykk OK.
+
+Strømmeboksen vil nå skru seg av og på, for å starte med førstegangsinnstallasjonen.
+

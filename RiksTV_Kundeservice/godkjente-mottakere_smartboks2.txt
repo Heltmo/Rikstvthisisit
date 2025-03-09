@@ -1,0 +1,107 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/smartboks2/
+Tittel: SMART-boks II
+
+- Kundeservice
+- Godkjente mottakere
+
+- 
+- 
+- 
+- 
+- 
+
+< Tilbake
+
+
+## Last ned
+Kom i gang-guide (pdf, norsk tekst, kort brukerveiledning)
+
+Teknisk beskrivelse (pdf, norsk tekst)
+
+
+#### Bilde av fjernkontroll med forklaringer
+
+## Brukerveiledning
+
+### Signal
+- Signalsjekk
+- 5 volt for forsterker
+- Førstegangsinstallasjon
+- Koble mottaker til internett
+- Fabrikkinnstilling
+
+
+### Kanal
+- Automatisk kanalsøk
+- Manuelt kanalsøk
+- Lag favorittliste
+- Slette kanalliste
+- Alle radiokanaler
+
+
+### Innstillinger
+- Teksting (undertekst)
+- Teksting (Undertekst) permanent endring
+- Standby-oppsett (hvilemodus)
+- Foreldrekontroll
+- Endre PIN-kode
+- Tilbakestille PIN-kode
+- Endre språk/undertekst i Underholdningsportalen
+- Mottakerlås
+- Låse kanaler
+- PIN-kode for systemmeny
+- Endre PIN-kode i Underholdningsportalen
+- Foretrekk IP Av/På
+
+
+### Info
+- Kanalstatus
+- Mottakerstatus
+- Hardwarestatus
+- Abonnementsstatus, kortnummer og pairing-id
+- Programvareversjon og IP-adresse
+- Last ned siste programvare
+- Oppdatering av programvare
+
+
+### Feilsøk
+- Problemer med fjernkontrollen?
+- Ingen tilgang
+- Systeminformasjon
+- HDCP
+
+
+## Modeller
+
+## Spesifikasjoner
+- VHF III 174 – 230 MHz 7 MHz
+- VHF III 174 – 230 MHz 8 MHz
+- UHF IV 470 - 606 MHz 8 MHz
+- UHF V 606 - 862 MHz 8 MHz
+
+- 12 Volt
+- 5 Volt antenneforsterker
+- VHF-støtte
+- SCART-utgang
+- Optisk S/PDIF-utgang
+- Coax S/PDIF-utgang
+- Rca Stereo
+- RF Loop Through
+- Dobbel tuner
+- Elektronisk Program Guide
+- Radio applikasjon
+- Hjelpefunksjoner
+- Foreldrekontroll
+- Teletext
+- Kanalliste
+- Opptaksmulighet
+- Pause/spole funksjonalitet
+- Internettilkobling
+- Fjernkontroll m/batterier
+- SCART kabel
+- HDMI kabel
+- Antennekabel
+- Strømkabel
+- Brukermanual (no/en)
+- Blu-Ray
+

@@ -1,0 +1,48 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/humax-cxhd-3000t/kanal/automatisk-kanalsok/
+Tittel: Automatisk kanalsøk
+
+- Kundeservice
+- Godkjente mottakere
+- Humax CXHD-3000T
+- 
+
+
+## Trinn 1
+Trykk Menu på fjernkontrollen for å åpne menyen.
+
+
+## Trinn 2
+Velg "Systeminnstillinger". Trykk OK
+
+
+## Trinn 3
+Tast PIN-kode 1 2 3 4 (dette er standard fabrikkode/PIN-kode).Har du endret PIN-kode, skriver du selvsagt din egen.
+
+
+## Trinn 4
+Velg "Kanalsøking". Trykk OK
+
+
+## Trinn 5
+Velg "Automatisk kanalsøking". Trykk OK
+
+
+## Trinn 6
+Kanalsøket starter.
+
+Denne funksjonen sletter alle tidligere kanaler og legger dem inn på nytt.
+
+Hvis du velger å avbryte med "Avbryt kanalsøkingen" vil alle kanalene være borte, og du gjennomføre en "Førstegangsinstallasjon".
+
+
+## Trinn 7
+Velg ønsket region. Trykk OK
+
+Hvis flere nettverk / regioner er tilgjengelig, må du velge.
+
+
+## Trinn 8
+Det kommer opp en liste over kanalene mottakeren har funnet.
+
+Trykk EXIT for å avslutte.
+

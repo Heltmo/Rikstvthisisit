@@ -1,0 +1,26 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/internett/strommeboks/annet-problem/casting/
+Tittel: Casting
+
+- Kundeservice
+- Virker ikke
+- Internett
+- Strømmeboks
+- Annet problem
+
+Det er mulig å caste fra annen enhet til Strømmeboks via innebygd Chromecast.
+
+Viktig: Vi har ikke rettigheter til å bruke Netflix og Amazon Prime sine apper på vår Strømmeboks. Det vil heller ikke være mulig å caste innhold fra Netflix og Amazon Prime sine apper.
+
+Gjelder det andre casting problemer så gjør følgende:
+
+- Forsikre deg om at du er koblet på samme nettverk som Strømmeboks.
+- Trekk ut strømmen fra Strømmeboks.
+- Vent 30 sekunder.
+- Koble til strøm på nytt.
+
+Fungerer andre apper på boksen, da kan du tvinge avslutning og slette data på RiksTV-appen før du prøver på nytt
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

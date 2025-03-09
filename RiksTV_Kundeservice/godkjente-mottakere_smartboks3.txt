@@ -1,0 +1,104 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/smartboks3/
+Tittel: SMART-boks III
+
+- Kundeservice
+- Godkjente mottakere
+
+- 
+- 
+- 
+- 
+- 
+
+< Tilbake
+
+
+## Last ned
+Kom i gang-guide (Installasjon og daglig bruk)
+
+Teknisk beskrivelse (pdf, norsk tekst)
+
+
+#### BILDE AV FJERNKONTROLL MED FORKLARINGER
+
+## Brukerveiledning
+
+### Signal
+- Signalsjekk
+- Fabrikkinnstilling
+- Førstegangsinstallasjon
+- Koble dekoder til internett
+- 5 volt for forsterker
+
+
+### Kanal
+- Automatisk kanalsøk
+- Manuelt kanalsøk
+- Lag favorittliste
+- Velg radiokanaler
+- Slette kanalliste
+
+
+### Innstillinger
+- Teksting (undertekst) permanent endring
+- Foreldrekontroll
+- Endre PIN-kode
+- Tilbakestille PIN-kode
+- PIN-kode for systemmenyer
+- Standby-oppsett (hvilemodus)
+- Lås kanaler
+- Endre språk/undertekst i Underholdningsportalen
+- HDMI-CEC
+- Foretrekk IP Av/På
+
+
+### Info
+- Kanalstatus
+- Dekoderstatus
+- Abonnementsstatus, kortnummer og pairing-id
+- Last ned siste programvare
+
+
+### Feilsøk
+- Problemer med fjernkontrollen
+- Ingen tilgang
+- Feilmelding HDCP
+- Rescue Mode
+
+
+## Modeller
+SRT 8956
+
+
+## Spesifikasjoner
+- VHF III 174 – 230 MHz 7 MHz
+- VHF III 174 – 230 MHz 8 MHz
+- UHF IV 470 - 606 MHz 8 MHz
+- UHF V 606 - 862 MHz 8 MHz
+
+- 12 Volt
+- 5 Volt antenneforsterker
+- VHF-støtte
+- SCART-utgang
+- Optisk S/PDIF-utgang
+- Coax S/PDIF-utgang
+- Rca Stereo
+- RF Loop Through
+- Dobbel tuner
+- Elektronisk Program Guide
+- Radio applikasjon
+- Hjelpefunksjoner
+- Foreldrekontroll
+- Teletext
+- Kanalliste
+- Opptaksmulighet
+- Pause/spole funksjonalitet
+- Internettilkobling
+- Fjernkontroll m/batterier
+- SCART kabel
+- HDMI kabel
+- Antennekabel
+- Strømkabel
+- Brukermanual (no/en)
+- Blu-Ray
+

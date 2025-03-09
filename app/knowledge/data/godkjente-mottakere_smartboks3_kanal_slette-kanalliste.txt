@@ -1,0 +1,28 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/smartboks3/kanal/slette-kanalliste/
+Tittel: Slette kanalliste
+
+- Kundeservice
+- Godkjente mottakere
+- SMART-boks III
+- 
+
+
+## Trinn 1
+Trykk på Husknappen på fjernkontrollen for å åpne menyen.Velg tannhjulet helt til venstre og trykk OK. Du kommer nå inn i menyen "Innstillinger".
+
+
+## Trinn 2
+Bruk piltastene og velg "System" helt nederst. Trykk OK
+
+
+## Trinn 3
+Naviger nedover med piltastene til du kommer til "Slett alle kanallister". Trykk OK
+
+
+## Trinn 4
+Det vil nå kommet et varsel på bunnen av skjermen. Markér "Slett alle" og trykk OK.
+
+Kanallisten er nå slettet og du kan lukke menyen ved å trykke på X på fjernkontrollen. Trekk så ut strømmen av dekoderen i 30 sekunder. Boksen skal da laste inn informasjonen på nytt. Merk at dette kan ta inntil 5 minutter om du er koblet til internett.
+
+Tilkoblet med kun antenne? Da må du ta et nytt kanalsøk etter sletting av kanalliste.
+

@@ -1,0 +1,39 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/grundig-dtr8720-8820/innstillinger/foreldrekontroll/
+Tittel: Foreldrekontroll
+
+- Kundeservice
+- Godkjente mottakere
+- Grundig DTR8720/8820
+- 
+
+
+## Trinn 1
+Trykk Menu på fjernkontrollen for å åpne menyen.
+
+
+## Trinn 2
+Trykk 2 eller velg "Foreldrekontroll". Trykk OK
+
+
+## Trinn 3
+Trykk høyre pil for å velge foreldrekontroll nivåDet finnes fire nivå:
+
+- Se alt - Ingen aldersgrense satt.
+- Barn - Aldersgrense 7 år.
+- Ungdom - Aldersgrense 11 år.
+- Voksne - Aldersgrense 18 år.
+
+Alle programmer som er uegnet for barn under gitt alder vil bli sperret. Bruk PIN-kode for å åpne kanal. Trykk OK for å bekrefte nivå.
+
+
+## Trinn 4
+I tillegg til å sette nivå må du aktivere foreldrekontrollen. Trykk 1 eller velg "Beskyttelsesstatus". Trykk OK
+
+
+## Trinn 5
+Trykk på høyre pil for å endre beskyttelsesstatus til aktiv. Trykk OK for å bekrefte.
+
+Foreldrekontroll er nå aktivert.
+
+Du må bruke PIN-kode om du skal se et program som stoppes av foreldrekontroll.
+

@@ -1,0 +1,52 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/sagem-dvr94250/innstillinger/foreldrekontroll/
+Tittel: Foreldrekontroll
+
+- Kundeservice
+- Godkjente mottakere
+- Sagem DTR94250
+- 
+
+Hvordan sette foreldrekontroll
+
+Hurtigvalg: (tastes på fjernkontrollen)
+
+- Meny
+- Pil opp X4 + OK (Brukerinnstillinger)
+- Pil ned x 2 + OK (Sperrer)
+- PIN-kode + OK
+- Flere valg
+
+
+## Trinn 1
+Trykk Meny og trykk pil opp fire ganger til "Brukersymbolet" markeres og det står "Brukerinnstillinger" nede til høyre. Trykk OK
+
+
+## Trinn 2
+Marker "Sperrer". Trykk OK
+
+
+## Trinn 3
+Tast PIN-kode - 4 siffer. Fabrikkode er "1234". Trykk OK
+
+
+## Trinn 4
+Mottakersperre: her låses hele mottakeren og man må taste kode når mottakeren slås på. For å aktivisere velg "Ja".
+
+
+## Trinn 5
+"Kanalsperre": her aktiviserer man kanalsperre ved å velge "JA".
+
+Det er 2 typer kanalsperre:
+
+- kanal
+- aldersgrense
+
+
+## Trinn 6
+- "Kanaler som skal sperres": trykk OK for kanalliste.
+- "Nivå": skriv inn aldersgrense med talltastene.
+
+
+## Trinn 7
+Flytt markøren til kanalene som ønskes sperret og trykk OKDe sperrede kanalene får et nøkkeltegn på seg.EXIT for å avslutte. Det lagres automatisk.
+

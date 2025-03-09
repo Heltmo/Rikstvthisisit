@@ -1,0 +1,50 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/internett/strommeboks/problem-med-kanaler/
+Tittel: Problem med kanaler
+
+- Kundeservice
+- Virker ikke
+- Internett
+- Strømmeboks
+
+Hva opplever du problemer med?
+
+- Live sending henger etter
+
+Når du er ferdig med TV-tittingen for kvelden så er det viktig å gå ut av appen ved å trykke på tilbakeknappen. Hvis boksen går i standby mens den er på direktesending så vil den henge etter når du skrur den på igjen.
+- Programguide mangler
+
+Opplever du problemer med programguiden så kan du laste den inn på nytt.
+Du finner veiledning for dette her:
+
+Oppdatere Programguide
+- Oppdatere Programguide
+- Mangler undertekster
+
+De fleste kanaler tekster ikke programmer med tale på morsmål. For eksempel så tekster ikke TV 2 norske programmer eller SVT1 svenske programmer.
+De fleste engelskspråklige programmer skal være tekstet, hvis det ikke ligger undertekst tilgjengelig så har vi dessverre ikke dette.
+Her kan du se hvordan du skrur på undertekst når det er tilgjengelig:Teksting (undertekst)
+
+
+### Live sending henger etter
+Når du er ferdig med TV-tittingen for kvelden så er det viktig å gå ut av appen ved å trykke på tilbakeknappen. Hvis boksen går i standby mens den er på direktesending så vil den henge etter når du skrur den på igjen.
+
+
+### Programguide mangler
+Opplever du problemer med programguiden så kan du laste den inn på nytt.
+
+Du finner veiledning for dette her:
+
+- Oppdatere Programguide
+
+
+### Mangler undertekster
+De fleste kanaler tekster ikke programmer med tale på morsmål. For eksempel så tekster ikke TV 2 norske programmer eller SVT1 svenske programmer.
+
+De fleste engelskspråklige programmer skal være tekstet, hvis det ikke ligger undertekst tilgjengelig så har vi dessverre ikke dette.
+
+Her kan du se hvordan du skrur på undertekst når det er tilgjengelig:Teksting (undertekst)
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

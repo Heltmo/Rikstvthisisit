@@ -1,0 +1,34 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/grundig8860/innstillinger/hdcp/
+Tittel: HDCP (Digital kopibeskyttelse)
+
+- Kundeservice
+- Godkjente mottakere
+- Grundig DTR8860 PVR
+- 
+
+- hvordan slå HDCP (digital kopibeskyttelse) av og på
+
+
+## Trinn 1
+Trykk Menu på fjernkontrollen for å åpne menyen. Trykk 4 eller velg "Installasjon". Trykk OK
+
+
+## Trinn 2
+Trykk 4 eller velg "Dine valg". Trykk OK
+
+
+## Trinn 3
+Trykk 5 eller velg "HDCP kopibeskyttelse". Trykk OK
+
+
+## Trinn 4
+Velg "HDCP". Velg "På" for å se kanaler som har kopisperre. Velger du "av" får du ikke sett TV-kanaler som sender med HDCP.
+
+
+## Trinn 5
+
+## Trinn 6
+HDCP "Av". Du vil da ikke få bilde på kanaler som sender signal med HDCP.
+
+Denne kopisperren (HDCVP) er kun tilgjengelig via HDMI-kabel. Så i dette tilfellet kan du bruke SCART-kabel for å se tv. Merk at du da kan oppleve at det er dårligere kvalitet på tv-bildet. Dette er fordi SCART sender mindre data enn HDMI til tv-skjermen.
+

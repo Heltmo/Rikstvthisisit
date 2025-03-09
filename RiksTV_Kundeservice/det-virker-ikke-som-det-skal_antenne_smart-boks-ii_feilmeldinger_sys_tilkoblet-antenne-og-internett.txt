@@ -1,0 +1,127 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/antenne/smart-boks-ii/feilmeldinger/sys/tilkoblet-antenne-og-internett/
+Tittel: SYS
+
+- Kundeservice
+- Virker ikke
+- Antenne
+- SMART-boks II
+- Jeg får feilmelding
+- SYS
+
+SYS-feilmeldinger kommer ofte av ustabil nettverkstilkobling.
+
+Vi anbefaler at du benytter deg av en nettverkskabel fra ruter til dekoderen for å koble dekoder til internett. Dette er for å sikre en mer stabil nettverkslinje til dekoderen.
+
+Dekoderen kan også kobles til trådløst med 2.4 GHz-nett. Trådløs tilkobling eller mobilt bredbånd kan ofte gi en ustabil tilkobling.
+
+Du må først sjekke følgende:
+
+- At internett fungerer på andre enheter hjemme hos deg som f.eks. mobil eller PC.
+- At det ikke er noe skader på nettverkskabel som går fra ruter til dekoder.
+
+- Alt OK med internett
+
+Alt i orden med nettverkstilkobling? Nedenfor ser du videre feilsøk.
+- Feil med nettet
+
+Har du problemer med internett, ta kontakt med din internettleverandør. 
+Var det feil med kabler, som du har korrigert, men du får fortsatt feilmelding? Gå tilbake til feilmeldinger eller ta kontakt med oss, så hjelper vi deg.
+
+
+### Alt OK med internett
+Alt i orden med nettverkstilkobling? Nedenfor ser du videre feilsøk.
+
+
+### Feil med nettet
+Har du problemer med internett, ta kontakt med din internettleverandør.
+
+Var det feil med kabler, som du har korrigert, men du får fortsatt feilmelding? Gå tilbake til feilmeldinger eller ta kontakt med oss, så hjelper vi deg.
+
+Hvilket tall står i feilmeldingen på skjermen din?
+
+- SYS - 1 og 10
+
+Prøv først å slette kanallisten.
+Fungerer det ikke så må du gjøre en fabrikkinnstilling.
+- SYS - 2, 3, 4, 7 og 8
+
+Feilmeldingen SYS-2, 3, 4, 7 og 8 indikerer problemer med nettverkstilkoblingen.
+Da kan du gjøre følgende: 
+
+Ta ut strømkabelen fra nettverksruter.
+Ta ut alle kabler fra dekoder.
+Vent 30 sekunder.
+Koble til strømmen på nettverksruter.
+Vent til nettet er tilbake. (Dette kan ta 5 minutter)
+Sett i strømkabel til dekoder igjen og vent 40 sekunder.
+Sett i de resterende kablene.
+La dekoder starte opp før du prøver på nytt.
+
+ 
+Fungerer det ikke så må du gjøre en fabrikkinnstilling.
+Opplever du fortsatt problemer, anbefaler vi at du kontakter din internettleverandør.
+- Ta ut strømkabelen fra nettverksruter.
+- Ta ut alle kabler fra dekoder.
+- Vent 30 sekunder.
+- Koble til strømmen på nettverksruter.
+- Vent til nettet er tilbake. (Dette kan ta 5 minutter)
+- Sett i strømkabel til dekoder igjen og vent 40 sekunder.
+- Sett i de resterende kablene.
+- La dekoder starte opp før du prøver på nytt.
+- SYS - 5, 6 og 12
+
+Denne feilmeldingen kommer om man ikke har tilgang til kanalen som er valgt.
+Gå inn på Min Side for å være sikker på at kanalen du har valgt er del av ditt abonnement, at kanalpakken er aktiv og at utstyret er registert.
+ 
+Du finner veiledning for å registrere utstyr og flytte kanalpakke her:
+
+Registrere utstyr
+Flytte kanalpakke
+
+ 
+Er alt korrekt registert, så anbefaler vi en superstrømløs.
+- Registrere utstyr
+- Flytte kanalpakke
+
+
+### SYS - 1 og 10
+Prøv først å slette kanallisten.
+
+Fungerer det ikke så må du gjøre en fabrikkinnstilling.
+
+
+### SYS - 2, 3, 4, 7 og 8
+Feilmeldingen SYS-2, 3, 4, 7 og 8 indikerer problemer med nettverkstilkoblingen.
+
+Da kan du gjøre følgende:
+
+- Ta ut strømkabelen fra nettverksruter.
+- Ta ut alle kabler fra dekoder.
+- Vent 30 sekunder.
+- Koble til strømmen på nettverksruter.
+- Vent til nettet er tilbake. (Dette kan ta 5 minutter)
+- Sett i strømkabel til dekoder igjen og vent 40 sekunder.
+- Sett i de resterende kablene.
+- La dekoder starte opp før du prøver på nytt.
+
+Fungerer det ikke så må du gjøre en fabrikkinnstilling.
+
+Opplever du fortsatt problemer, anbefaler vi at du kontakter din internettleverandør.
+
+
+### SYS - 5, 6 og 12
+Denne feilmeldingen kommer om man ikke har tilgang til kanalen som er valgt.
+
+Gå inn på Min Side for å være sikker på at kanalen du har valgt er del av ditt abonnement, at kanalpakken er aktiv og at utstyret er registert.
+
+Du finner veiledning for å registrere utstyr og flytte kanalpakke her:
+
+- Registrere utstyr
+- Flytte kanalpakke
+
+Er alt korrekt registert, så anbefaler vi en superstrømløs.
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

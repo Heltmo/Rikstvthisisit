@@ -1,0 +1,19 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/smart-boks/feilsok/galt-kort/
+Tittel: Galt kort
+
+- Kundeservice
+- Godkjente mottakere
+- SMART-boks PVR
+- 
+
+
+## Galt kort
+Denne feilmeldingen vises hvis
+
+- Et annet kort enn RiksTV programkort brukes
+- Kortet er satt inn feil vei
+
+Fjern smuss fra gullbrikken og sett inn programkortet.
+
+Gullbrikken skal ned og inn.
+

@@ -1,0 +1,98 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/antenne/smart-boks-i/feilmeldinger/kodet-eller-intet-signal/
+Tittel: Kodet eller intet signal
+
+- Kundeservice
+- Virker ikke
+- Antenne
+- SMART-boks I
+- Jeg får feilmelding
+
+Denne feilmeldingen kommer da det enten er problem med signalene mellom dekoder og TV-en eller at det er dårlige signaler via antennen.
+
+- Forsikre deg først at dekoder er påskrudd. Når den er i standy modus så viser den en digitalklokke i displayet og når den er på så viser den ON eller kanalnummeret du er på.
+- Er alle kabler koblet korrekt i både TV og dekoder?
+- Blinker lyset på dekoder når du trykker på "MENU" på fjernkontrollen? Og hvis det blinker, kommer det opp noen meny på skjermen?
+- Hvis det blinker men ikke kommer opp en meny så må du sjekke at du er på korrekt AV/Kilde kanal på selve TV-en.
+- Hvis menyen kommer opp på skjermen så er dette tegn på dårlige signaler så gå gjerne videre til en signalsjekk.
+
+- Rett kildekanal
+
+Om TV-en er på korrekt kildekanal men du fortsatt ikke får opp kanaler så sjekk følgende:
+
+Benytter du HDMI kabel som fulgte med dekoder?
+Forsøk å bytte HDMI inngang på TV-en.
+Forsøk med annen HDMI kabel.
+
+ 
+Om alt er i orden så anbefaler vi å gjøre en superstrømløs
+- Benytter du HDMI kabel som fulgte med dekoder?
+- Forsøk å bytte HDMI inngang på TV-en.
+- Forsøk med annen HDMI kabel.
+- Feil kildekanal
+
+Normalt heter kildeknappen AV, Input eller Source på fjernkontrollen til TV-en. Får du ikke endret til korrekt kildekanal på TV-en din, må du enten ta kontakt med TV-produsent eller det stedet der du kjøpte den.
+
+
+### Rett kildekanal
+Om TV-en er på korrekt kildekanal men du fortsatt ikke får opp kanaler så sjekk følgende:
+
+- Benytter du HDMI kabel som fulgte med dekoder?
+- Forsøk å bytte HDMI inngang på TV-en.
+- Forsøk med annen HDMI kabel.
+
+Om alt er i orden så anbefaler vi å gjøre en superstrømløs
+
+
+### Feil kildekanal
+Normalt heter kildeknappen AV, Input eller Source på fjernkontrollen til TV-en. Får du ikke endret til korrekt kildekanal på TV-en din, må du enten ta kontakt med TV-produsent eller det stedet der du kjøpte den.
+
+Om du opplever manglende signaler, så anbefaler vi at du sjekker status på din sender. Dette sjekker du enkelt her: Senderstatus
+
+- Det er registrert feil med sender
+
+Er det registrert en feil på senderen du benytter jobbes det med å få løst dette fortløpende.
+- Ingen registrerte feil med sender
+
+Er alt i orden med senderen i området, så kan du sjekke signalene inn til deg via dekoderen. Du finner veiledning for dette her: 
+
+Signalsjekk
+- Signalsjekk
+- Signaler er OK
+
+Er signalene i orden, men bildet mangler, så kan du prøve å ta ett nytt kanalsøk. Veiledning til hvordan dette gjøres finner du her:
+
+Kanalsøk
+- Kanalsøk
+- Signaler er ikke OK
+
+Opplever du problemer med signaler etter signalsjekk, så kan det lønne seg å justere antennen.
+
+Justering av antenne
+- Justering av antenne
+
+
+### Det er registrert feil med sender
+Er det registrert en feil på senderen du benytter jobbes det med å få løst dette fortløpende.
+
+
+### Ingen registrerte feil med sender
+Er alt i orden med senderen i området, så kan du sjekke signalene inn til deg via dekoderen. Du finner veiledning for dette her:
+
+- Signalsjekk
+
+
+### Signaler er OK
+Er signalene i orden, men bildet mangler, så kan du prøve å ta ett nytt kanalsøk. Veiledning til hvordan dette gjøres finner du her:
+
+- Kanalsøk
+
+
+### Signaler er ikke OK
+Opplever du problemer med signaler etter signalsjekk, så kan det lønne seg å justere antennen.
+
+- Justering av antenne
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

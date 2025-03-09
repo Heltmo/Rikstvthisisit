@@ -1,0 +1,27 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/sagem-dvr94250/signal/signalsjekk/
+Tittel: Signalsjekk
+
+- Kundeservice
+- Godkjente mottakere
+- Sagem DTR94250
+- 
+
+
+## Trinn 1
+Trykk Meny Trykk pil opp til "i-symbolet" er valgt, og det står "Teknisk informasjon" nede til høyre. Trykk OK
+
+
+## Trinn 2
+Velg "Informasjon om antennesignal". Trykk OK
+
+
+## Trinn 3
+BåndUHF må brukes når du har egen antenne.VHF kan være i bruk hvis du er tilknyttet fellesantenne.KanalLegg inn riktig kanalfrekvens. Kanalfrekvensen står på den kanalen man stod på da man trykket Meny.
+
+- Signalstyrke bør være grønn, altså over 60 %.
+- Signalkvalitet bør være grønn.
+- Viterbi BER bør være E-7.
+- C/N bør være over 20 dB.
+
+Exit for å avslutte.
+

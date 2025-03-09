@@ -1,0 +1,59 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/grundig8860/signal/forstegangsinstallasjon/
+Tittel: Førstegangsinstallasjon
+
+- Kundeservice
+- Godkjente mottakere
+- Grundig DTR8860 PVR
+- 
+
+
+## Trinn 1
+Det første bildet som kommer opp sier "Please Wait", det neste bildet kommer automatisk. TEST vises i display
+
+
+## Trinn 2
+Trykk OK  for å starte installeringen.
+
+
+## Trinn 3
+Søker etter ny programvare.  Vent til den er ferdig, da går den automatisk videre.Viser tidtagning i display
+
+
+## Trinn 4
+Velg språk: trykk 1 eller OK på ønsket språk.
+
+
+## Trinn 5
+Velg installeringsmetode. Tast 1 eller OK for rask installering.
+
+
+## Trinn 6
+Velg skjermformat:
+
+- enten 1 for "Bredformat (16:9)"
+- eller 2 for "Standard TV (4:3)"
+
+Alle nyere TV-er har bredformat.
+
+
+## Trinn 7a
+Kanalsøk. Søker inn alle tilgjengelige kanaler.Viser SCAN i display.
+
+
+## Trinn 7b
+Dersom søk ikke starter kan det være at 5 volt kortslutter (overbelastning). Skru av 5 volt og søk deretter inn kanalene.
+
+
+## Trinn 8
+Når flere regioner er tilgjengelig: velg ønsket region. Trykk OKNår kun en region er tilgjengelig velges denne automatisk.
+
+
+## Trinn 9
+"Kanalsøk Vellykket" kommer opp. Trykk OK for å avslutte.
+
+
+## Trinn 10
+Mislykket kanalsøk Trykk Meny og forsøk med manuelt kanalsøk. Informasjon om frekvenser finnes på dekningskartet.Sjekk om mottakeren og antennen er tilkoblet.
+
+Ved manglende signal: Sjekk også senderstatus. Det kan være arbeid eller feil på senderen.
+

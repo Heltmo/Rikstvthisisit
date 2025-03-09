@@ -1,0 +1,52 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/internett/smart-boks-i/feilmeldinger/kodet-eller-intet-signal/
+Tittel: Kodet eller intet signal
+
+- Kundeservice
+- Virker ikke
+- Internett
+- SMART-boks I
+- Jeg får feilmelding
+
+Om du opplever denne feilmeldingen så er det tegn på at dekoderen og TV-en din ikke kommuniserer slik de skal.
+
+- Forsikre deg først at dekoder er påskrudd. Når den er i standy modus så viser den en digitalklokke i displayet og når den er på så viser den ON eller kanalnummeret du er på.
+- Er alle kabler koblet korrekt i både TV og dekoder?
+- Blinker lyset på dekoder når du trykker på "MENU" på fjernkontrollen? Og hvis det blinker, kommer det opp noen meny på skjermen?
+- Hvis det blinker men ikke kommer opp en meny så må du sjekke at du er på korrekt AV/Kilde kanal på selve TV-en.
+- Hvis menyen kommer opp på skjermen så er dette tegn på dårlige signaler, så vi anbefaler at man sjekker nettet sitt.
+
+- Rett kildekanal
+
+Om TV-en er på korrekt kildekanal men du fortsatt ikke får opp kanaler så sjekk følgende:
+
+Benytter du HDMI kabel som fulgte med dekoder?
+Forsøk å bytte HDMI inngang på TV-en.
+Forsøk med annen HDMI kabel.
+
+ 
+Om alt er i orden så anbefaler vi å gjøre en superstrømløs
+- Benytter du HDMI kabel som fulgte med dekoder?
+- Forsøk å bytte HDMI inngang på TV-en.
+- Forsøk med annen HDMI kabel.
+- Feil kildekanal
+
+Normalt heter kildeknappen AV, Input eller Source på fjernkontrollen til TV-en. Får du ikke endret til korrekt kildekanal på TV-en din, må du enten ta kontakt med TV-produsent eller det stedet der du kjøpte den.
+
+
+### Rett kildekanal
+Om TV-en er på korrekt kildekanal men du fortsatt ikke får opp kanaler så sjekk følgende:
+
+- Benytter du HDMI kabel som fulgte med dekoder?
+- Forsøk å bytte HDMI inngang på TV-en.
+- Forsøk med annen HDMI kabel.
+
+Om alt er i orden så anbefaler vi å gjøre en superstrømløs
+
+
+### Feil kildekanal
+Normalt heter kildeknappen AV, Input eller Source på fjernkontrollen til TV-en. Får du ikke endret til korrekt kildekanal på TV-en din, må du enten ta kontakt med TV-produsent eller det stedet der du kjøpte den.
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

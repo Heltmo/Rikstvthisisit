@@ -1,0 +1,132 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/internett/smart-boks-i/problem-med-kanaler/lyd-og-bilde/
+Tittel: Lyd og bilde
+
+- Kundeservice
+- Virker ikke
+- Internett
+- SMART-boks I
+- Problem med kanaler
+
+Om du benytter en eller annen form for lydanlegg, så må dette kobles fra slik at dekoder er koblet som orginalt tenkt - med kun HDMI fra dekoder og direkte inn i TV-en.
+
+- Mangler lyd
+
+Om lyden mangler men det ikke er noe galt med bildet så kan dette skje av forskjellige årsaker. 
+Først så må dette sjekkes:
+
+Lyden er skrudd opp på TV og dekoder.
+Mute ikke er på. Dette må sjekkes både for dekoder og TV.
+
+ 
+Hvis alt er OK med dette, så kan følgende prøves:
+
+Ta ut strømkabel
+Ta ut HDMI kabel på boksen.
+Ta ut alle kabler fra boksen.
+Ta ut strømkabelen fra TV-en.
+La alle kabler og strøm være ute i 30 sekunder.
+Sett i strømkabel til boksen igjen og vent 40 sekunder.
+Sett i resten av kablene igjen, inkludert strømkabel til TV.
+
+Om dette ikke fungerer så må du gjøre en fabrikkinnstilling.Veiledning for dette finner du her: Fabrikkinnstilling
+- Lyden er skrudd opp på TV og dekoder.
+- Mute ikke er på. Dette må sjekkes både for dekoder og TV.
+- Ta ut strømkabel
+- Ta ut HDMI kabel på boksen.
+- Ta ut alle kabler fra boksen.
+- Ta ut strømkabelen fra TV-en.
+- La alle kabler og strøm være ute i 30 sekunder.
+- Sett i strømkabel til boksen igjen og vent 40 sekunder.
+- Sett i resten av kablene igjen, inkludert strømkabel til TV.
+- Mangler bilde
+
+Dette tyder ofte på manglende kobling mellom boks og TV. Sjekk derfor først om du får opp menyen til boksen da du trykker på meny knappen på fjernkontrollen.
+Om du ikke får opp menyen, så kan det være at TV-en står på feil kildevalg. Finn Source/input/AV knappen på fjernkontrollen til TV-en og velg riktig kilde. Om TV-en står på riktig kilde så kan det lønne seg å sjekke:
+
+Benytter du HDMI kabel som fulgte med dekoder?
+Forsøk å bytte HDMI inngang på TV-en
+Forsøk med annen HDMI kabel
+
+ 
+Om alt er OK med kobling, og du får opp menyen, så kan følgende prøves:
+
+Ta ut strømkabel
+Ta ut HDMI kabel på boksen.
+Ta ut alle kabler fra boksen.
+Ta ut strømkabelen fra TV-en.
+La alle kabler og strøm være ute i 30 sekunder.
+Sett i strømkabel til boksen igjen og vent 40 sekunder.
+Sett i resten av kablene igjen, inkludert strømkabel til TV.
+
+Om dette ikke fungerer så må du gjøre en fabrikkinnstilling.Veiledning for dette finner du her: Fabrikkinnstilling
+- Benytter du HDMI kabel som fulgte med dekoder?
+- Forsøk å bytte HDMI inngang på TV-en
+- Forsøk med annen HDMI kabel
+- Ta ut strømkabel
+- Ta ut HDMI kabel på boksen.
+- Ta ut alle kabler fra boksen.
+- Ta ut strømkabelen fra TV-en.
+- La alle kabler og strøm være ute i 30 sekunder.
+- Sett i strømkabel til boksen igjen og vent 40 sekunder.
+- Sett i resten av kablene igjen, inkludert strømkabel til TV.
+- Usynkronisert
+
+Om du får opplever usynkronisert bilde og lyd så kan det være en feil på tjenesten, ta gjerne en titt på Driftsstatus siden vår for å se om det er noe vi jobber med.
+Hvis det er slik at vi ikke har ett kjent problem vi jobber med for øyeblikket så anbefaler vi at du prøver følgende:
+Om dette ikke fungerer så må du gjøre en fabrikkinnstilling.Veiledning for dette finner du her: Fabrikkinnstilling
+
+
+### Mangler lyd
+Om lyden mangler men det ikke er noe galt med bildet så kan dette skje av forskjellige årsaker.
+
+Først så må dette sjekkes:
+
+- Lyden er skrudd opp på TV og dekoder.
+- Mute ikke er på. Dette må sjekkes både for dekoder og TV.
+
+Hvis alt er OK med dette, så kan følgende prøves:
+
+- Ta ut strømkabel
+- Ta ut HDMI kabel på boksen.
+- Ta ut alle kabler fra boksen.
+- Ta ut strømkabelen fra TV-en.
+- La alle kabler og strøm være ute i 30 sekunder.
+- Sett i strømkabel til boksen igjen og vent 40 sekunder.
+- Sett i resten av kablene igjen, inkludert strømkabel til TV.
+
+Om dette ikke fungerer så må du gjøre en fabrikkinnstilling.Veiledning for dette finner du her: Fabrikkinnstilling
+
+
+### Mangler bilde
+Dette tyder ofte på manglende kobling mellom boks og TV. Sjekk derfor først om du får opp menyen til boksen da du trykker på meny knappen på fjernkontrollen.
+
+Om du ikke får opp menyen, så kan det være at TV-en står på feil kildevalg. Finn Source/input/AV knappen på fjernkontrollen til TV-en og velg riktig kilde. Om TV-en står på riktig kilde så kan det lønne seg å sjekke:
+
+- Benytter du HDMI kabel som fulgte med dekoder?
+- Forsøk å bytte HDMI inngang på TV-en
+- Forsøk med annen HDMI kabel
+
+Om alt er OK med kobling, og du får opp menyen, så kan følgende prøves:
+
+- Ta ut strømkabel
+- Ta ut HDMI kabel på boksen.
+- Ta ut alle kabler fra boksen.
+- Ta ut strømkabelen fra TV-en.
+- La alle kabler og strøm være ute i 30 sekunder.
+- Sett i strømkabel til boksen igjen og vent 40 sekunder.
+- Sett i resten av kablene igjen, inkludert strømkabel til TV.
+
+Om dette ikke fungerer så må du gjøre en fabrikkinnstilling.Veiledning for dette finner du her: Fabrikkinnstilling
+
+
+### Usynkronisert
+Om du får opplever usynkronisert bilde og lyd så kan det være en feil på tjenesten, ta gjerne en titt på Driftsstatus siden vår for å se om det er noe vi jobber med.
+
+Hvis det er slik at vi ikke har ett kjent problem vi jobber med for øyeblikket så anbefaler vi at du prøver følgende:
+
+Om dette ikke fungerer så må du gjøre en fabrikkinnstilling.Veiledning for dette finner du her: Fabrikkinnstilling
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

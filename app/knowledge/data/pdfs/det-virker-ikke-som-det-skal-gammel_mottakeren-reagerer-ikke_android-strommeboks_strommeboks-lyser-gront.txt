@@ -1,0 +1,22 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal-gammel/mottakeren-reagerer-ikke/android-strommeboks/strommeboks-lyser-gront/
+Tittel: Strømmeboks lyser grønt
+
+- Kundeservice
+- 
+- Dekoder reagerer ikke
+- Strømmeboks
+
+At boksen lyser grønt indikerer at strømmeboksen er skrudd på.
+
+- Sjekk om du får opp forsiden ved å trykke på hus-knappen på fjernkontrollen. Skjer det ikke noe? Sjekk om du har valgt rett kildevalg.  Du må ha valgt samme kildevalg som HDMI-inngangen bak i TV-en.
+- Rett kildevalg, men ingen reaksjon? Pair fjernkontroll og strømmeboks ved å holde inne hjem-knappen (hus) og tilbake-knappen (pil til venstre) samtidig i ca 10 sekunder.
+- Hjalp ikke? Bytt batteri i fjernkontroll og pair fjernkontroll og batteri på nytt.
+
+Fortsatt ingen endring? Hvis du har en annen HDMI-kabel, prøv den.
+
+•    Ta ut strømkabel på boks•    Ta ut HDMI kabel av boks•    Ta ut nettverkskabel dersom du har dette tilkoblet•    La alle kabler og strøm på boks være ute i 30 sekunder•    Sett i strømkabel til boks igjen og vent 40 sekunder•    Sett i resten av kablene igjen•    Hvis nødvendig, koble fjernkontroll og boks sammen
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice på chat og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

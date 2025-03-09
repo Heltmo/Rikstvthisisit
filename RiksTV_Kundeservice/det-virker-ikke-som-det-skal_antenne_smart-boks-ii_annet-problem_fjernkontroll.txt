@@ -1,0 +1,27 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/antenne/smart-boks-ii/annet-problem/fjernkontroll/
+Tittel: Fjernkontroll
+
+- Kundeservice
+- Virker ikke
+- Antenne
+- SMART-boks II
+- Annet problem
+
+Når du trykker på knappene på fjernkontrollen din så vil det normalt lyse helt øverst på den. Det skal ikke blinke hele tiden, kun når du trykker inn en knapp.
+
+Blinker det ikke når du trykker på noen knapper så må batteriene sjekkes.
+
+Sitter de riktig vei? Prøv eventuelt med nye batterier.Du trenger 3 AAA batterier som skal inn i fjernkontrollen og alle skal settes med minus inn i fjernkontrollen. Batteribytte gjøres ved å dra metalldelen ned og ut.
+
+Har du byttet batterier?Da kan det være du må koble sammen fjernkontrollen med dekoder på nytt.
+
+
+## 
+- Rett fjernkontrollen mot dekoder (stå så nærme som mulig, maks 1 meter), og trykk på «Play» og «OK» samtidig i ti sekunder
+- Lampen skal etter hvert lyse, og senere blinke tre ganger før den slår seg av.
+- Fjernkontrollen og dekoder er nå koblet sammen, og du kan trykke «OK» for å gå videre.
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

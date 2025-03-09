@@ -1,0 +1,27 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/smart-boks-pvr/innstillinger/undertekst-pemanent-endring/
+Tittel: Teksting (undertekst) permanent endring
+
+- Kundeservice
+- Godkjente mottakere
+- SMART-boks PVR
+- 
+
+
+## Trinn 1
+Trykk Menu på fjernkontrollen for å åpne menyen.
+
+Velg ”Valg og innstillinger”, benytt sidepiltastene. Trykk OK
+
+
+## Trinn 2
+Velg "Språk". Trykk OK
+
+
+## Trinn 3
+I menyvalget "Primært språk for teksting" kan du endre mellom "Norsk" og "Ingen" med piltastene.
+
+"Teksting for hørselshemmede":
+
+- "Ja" viser undertekst for hørselshemmede
+- "Nei" viser vanlig undertekst
+

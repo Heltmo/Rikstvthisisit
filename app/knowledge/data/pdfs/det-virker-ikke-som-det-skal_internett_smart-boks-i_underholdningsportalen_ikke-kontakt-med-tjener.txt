@@ -1,0 +1,20 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/internett/smart-boks-i/underholdningsportalen/ikke-kontakt-med-tjener/
+Tittel: Ikke kontakt med tjener
+
+- Kundeservice
+- Virker ikke
+- Internett
+- SMART-boks I
+- Underholdningsportalen
+
+Dette tyder på at dekoder opplever problemer med internett tilkoblingen.
+
+Du må først sjekke:
+
+- At internett fungerer på andre enheter hjemme hos deg som f.eks. mobil eller PC.
+- At det ikke er noe skader på nettverkskabel som går fra ruter til dekoder.
+
+Fungerer internett på andre enheter så anbefaler vi en superstrømløs.
+
+Hvis internett ikke fungerer på andre enheter, så anbefaler vi at du kontakter din nettverksleverandør for videre feilsøk.
+

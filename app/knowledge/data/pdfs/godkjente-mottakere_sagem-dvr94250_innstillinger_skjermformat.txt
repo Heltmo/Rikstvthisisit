@@ -1,0 +1,30 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/sagem-dvr94250/innstillinger/skjermformat/
+Tittel: Skjermformat
+
+- Kundeservice
+- Godkjente mottakere
+- Sagem DTR94250
+- 
+
+Hvordan endre skjermformat.Hurtigvalg: (tastes på fjernkontrollen)
+
+- Meny
+- Pil opp X3 + OK (Mottakerinnstillinger)
+- Pil ned X3 + OK (Videoinnstillinger)
+
+
+## Trinn 1
+Trykk Meny Trykk Pil opp tre ganger til verktøysymbol markeres og det står "Mottakerinnstillinger" nede til høyre. Trykk OK
+
+
+## Trinn 2
+Marker "Videoinnstillinger". Trykk OK
+
+
+## Trinn 3
+Dersom det brukes HDMI-kabel er det ikke mulig å stille på formatet.Brukes SCART må HDMI-utgang til "Nei". Valget under vil da bli synlig, og man kan sette 4/3 eller 16/9.For å kunne velge mellom RGB og CVBS, må YPbPr-utgang settes i "NEI".Trykk OK for lagring.
+
+
+## Trinn 4
+Lagring.Trykk EXIT
+

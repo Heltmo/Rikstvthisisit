@@ -1,0 +1,21 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal-gammel/jeg-mangler-kanaler/prov-a-justere-pa-antennen/
+Tittel: Prøv å justere på antennen
+
+
+## Hvilken antenne har du?
+
+## Utendørs
+Jeg har utendørs antenne
+
+
+## Innendørs
+Jeg har antenne inne
+
+
+## Båt og camping
+Jeg har utendørs båt- og campingantenne
+
+
+## Felles antenne
+Jeg bor i borettslag / sameie og har fellesantenne
+

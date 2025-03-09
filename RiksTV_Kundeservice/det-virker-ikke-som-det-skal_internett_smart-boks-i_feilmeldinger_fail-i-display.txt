@@ -1,0 +1,23 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/internett/smart-boks-i/feilmeldinger/fail-i-display/
+Tittel: Fail i display
+
+- Kundeservice
+- Virker ikke
+- Internett
+- SMART-boks I
+- Jeg får feilmelding
+
+Når det kommer beskjed om "FAIL" i displayet på SMART-Boksen så betyr dette at dekoderen opplever en feil. Normalt så vises enten kanalen som dekoder står på eller klokkeslettet i displayet.
+
+Denne feilen kan komme av forskjellige årsaker så vi ønsker at man sjekker følgende:
+
+- Er alle kabler koblet korrekt i både TV og dekoder?
+- Blinker lyset på dekoder når du trykker på "MENU" på fjernkontrollen? Og hvis det blinker, kommer det opp noen meny på skjermen?
+- Hvis det blinker men ikke kommer opp en meny så må du sjekke at du er på korrekt AV/Kilde kanal på selve TV-en.
+
+Er det fortsatt ikke noen reaksjon fra dekoder så ta gjerne kontakt med kundeservice for videre hjelp.
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

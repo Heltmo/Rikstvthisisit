@@ -1,0 +1,24 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/smart-boks-pvr/innstillinger/undertekst/
+Tittel: Teksting (undertekst)
+
+- Kundeservice
+- Godkjente mottakere
+- SMART-boks PVR
+- 
+
+- endre innstilinger for teksting / undertekst
+
+
+## Trinn 1
+Trykk Options-knappen (OPT) på fjernkontrollen.
+
+Velg "Teksting". NB: ikke alle kanaler har denne muligheten.
+
+Velg mellom:
+
+- Norsk DVB, som er vanlig undertekst
+- Norsk DVB med et øre, som er undertekst for hørselshemmede
+- Av, som ikke viser undertekst
+
+Slik endrer du undertekst permanent.
+

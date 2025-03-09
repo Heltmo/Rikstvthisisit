@@ -1,0 +1,86 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/smartboks2pvr/signal/forstegangsinstallasjon/
+Tittel: Førstegangsinstallasjon
+
+- Kundeservice
+- Godkjente mottakere
+- SMART-boks II PVR
+- 
+
+
+## Trinn 1
+Lyset foran på boksen vil lyse sterkt før den blir svakere.RiksTV-logo vises.
+
+
+## Trinn 2
+Nå skal du koble sammen mottaker og fjernkontroll. Følg instruksene som står på skjermen.
+
+Trykk OK og Play samtidig i 5 sekunder.
+
+Da skal det lyse rødt nede i høyre hjørnet, noe som markerer at boksen og kontrollen er sammenkoblet.
+
+
+## Trinn 3 A
+Nå kan du koble opp mottakeren din til nettverket.
+
+
+## Trinn 3 B
+Har du ikke internett velg kabel og trykk på Neste. Trykk OK.
+
+Gå videre til trinn 6.
+
+
+## Trinn 4
+Finn nettverket ditt og trykk OK når du har markert det.
+
+
+## Trinn 5
+Tast inn passord til ditt nettverk. Bruk piltastene for å navigere deg rundt på tastaturet og trykk OK når du er på bokstaven eller tallet du skal taste inn.
+
+
+## Trinn 6
+Søker… Kanalnavnene listes opp
+
+
+## Trinn 7
+”Ferdig!” er markert. Trykk OK
+
+
+## Trinn 8
+Velg ønsket region. Den regionen med best signalkvalitet er foreslått. Trykk OK
+
+Med valg av region velges hvilken NRK-distriktssending som skal vises på programplass 1. Valget kommer kun opp for de som mottar signal fra flere regioner.
+
+
+## Trinn 9
+Marker ”Ferdig!”. Trykk OK
+
+Ved manglende signal: Sjekk tilkoblingene. Er antennekabelen tilkoblet mottakeren?Sjekk også senderstatus. Det kan være arbeid eller feil på senderen.
+
+
+## Trinn 10
+Bekreft med at du ser meldingen på TV-skjermen. Trykk 5. Trykk OKInstallasjonen er nå ferdig. Du kan se NRK med en gang mens abonnementskanaler trenger en tilgangsmelding før bildet vises. Dette kan ta en time.
+
+Innstillingene for foreldrekontroll må settes på nytt etter fabrikkinnstilling.
+
+
+## Trinn 11
+Dersom meldingen ikke bekreftes.
+
+Får du ikke bilde på TV-en, prøv med scartkabel.
+
+
+## Trinn 12
+TV som støtter HDCP vil gi denne beskjeden neste gang man velger en HDCP-beskyttet TV-kanal.
+
+Marker ”Slå på HDCP”. Trykk OK
+
+
+## Trinn 13
+Når du har koblet opp SMART-boksen og gjennomført førstegangsinstallasjon må du gjøre følgende endring for å få koblet boksen til internett:
+
+- Åpne meny ved å trykke på
+- Gå til "Mine Valg", trykk OK
+- Gå til "Internett Oppsett", trykk OK
+- Endre "Velg nettverksoppsett" fra "Manuell" til "Fra nettet"
+- Velg "Lagre" og trykk OK
+

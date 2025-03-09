@@ -1,0 +1,85 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/internett/smart-boks-iii/arkiv-og-underholdning/spiller-ikke-av/
+Tittel: Får ikke spilt av
+
+- Kundeservice
+- Virker ikke
+- Internett
+- SMART-boks III
+- Arkiv og underholdning
+
+Vi anbefaler at du benytter deg av en nettverkskabel fra ruter til dekoder for å koble til internett. Dette er for å sikre en mer stabil nettverkslinje til dekoder.
+
+Bruker du mobilt bredbånd eller trådløs tilkobling, så kan dette ofte gi en ustabil tilkobling.
+
+Du må først sjekke:
+
+- At internett fungerer på andre enheter hjemme hos deg som f.eks. mobil eller PC.
+- At det ikke er noe skader på nettverkskabel som går fra ruter til dekoder.
+
+Hvis internett ikke fungerer på andre enheter, så anbefaler vi at du kontakter din nettverksleverandør for videre feilsøk.
+
+Fungerer internett på andre enheter, så kan du sjekke at det er riktig programvareversjon på dekoderen din. Her kan du se hva som er den nyeste versjonen, og her ser du hvordan du finner versjon dekoderen din har.
+
+- Rett programvareversjon
+
+Har du rett programvareversjon installert så kan du gjøre følgende:
+ 
+
+Ta ut strømkabel på dekoder.
+Ta ut HDMI kabel på dekoder.
+Ta ut alle kabler fra dekoder.
+Ta ut strømkabelen fra TV-en.
+La alle kabler og strøm være ute i 30 sekunder.
+Sett i strømkabel til dekoder igjen og vent 40 sekunder.
+Sett i resten av kablene igjen, inkludert strømkabel til TV.
+
+ 
+Fungerer ikke dette, så må du ta en fabrikkinnstilling av dekoderen.
+- Ta ut strømkabel på dekoder.
+- Ta ut HDMI kabel på dekoder.
+- Ta ut alle kabler fra dekoder.
+- Ta ut strømkabelen fra TV-en.
+- La alle kabler og strøm være ute i 30 sekunder.
+- Sett i strømkabel til dekoder igjen og vent 40 sekunder.
+- Sett i resten av kablene igjen, inkludert strømkabel til TV.
+- Feil programvareversjon
+
+Har du en eldre programvareversjon installert så må denne oppdateres. Du finner veiledning her:
+
+Oppdatering av programvare
+
+ 
+Får du ikke fullført oppdateringen, eller det ikke kommer opp noe, så må du laste den ned manuelt. Du finner veiledning her:
+
+Last ned programvare
+- Oppdatering av programvare
+- Last ned programvare
+
+
+### Rett programvareversjon
+Har du rett programvareversjon installert så kan du gjøre følgende:
+
+- Ta ut strømkabel på dekoder.
+- Ta ut HDMI kabel på dekoder.
+- Ta ut alle kabler fra dekoder.
+- Ta ut strømkabelen fra TV-en.
+- La alle kabler og strøm være ute i 30 sekunder.
+- Sett i strømkabel til dekoder igjen og vent 40 sekunder.
+- Sett i resten av kablene igjen, inkludert strømkabel til TV.
+
+Fungerer ikke dette, så må du ta en fabrikkinnstilling av dekoderen.
+
+
+### Feil programvareversjon
+Har du en eldre programvareversjon installert så må denne oppdateres. Du finner veiledning her:
+
+- Oppdatering av programvare
+
+Får du ikke fullført oppdateringen, eller det ikke kommer opp noe, så må du laste den ned manuelt. Du finner veiledning her:
+
+- Last ned programvare
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

@@ -1,0 +1,18 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/intek-hdpvr-t12cx/feilsok/kortproblemer-kontroller-kort/
+Tittel: Kortproblemer
+
+- Kundeservice
+- Godkjente mottakere
+- Intek HDPVR-T12CX
+- 
+
+
+## Feilmelding: "No Card Inserted"
+Står kortet med "gullbrikken" ned og inn i mottakeren? Hvis ja: fjern smuss fra gullbrikken og sett kortet inn på nytt.
+
+Denne feilmeldingen vises dersom det ikke er programkort i mottakeren.
+
+
+## Feilmelding: "Card problem - check card"
+Denne feilmeldingen kommer når kortet står feil vei i mottakeren
+

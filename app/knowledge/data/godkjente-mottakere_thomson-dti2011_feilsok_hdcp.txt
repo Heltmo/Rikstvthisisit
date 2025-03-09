@@ -1,0 +1,40 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/thomson-dti2011/feilsok/hdcp/
+Tittel: HDCP-meldinger
+
+- Kundeservice
+- Godkjente mottakere
+- Thomson DTI2011 HD
+- 
+
+
+## Trinn 1
+TV-en testes om den er kompatibel med mottakeren
+
+Trykk OK
+
+
+## Trinn 2
+For å bekrefte at bilde kommer på TV-en:
+
+Trykk først 3  og deretter OK
+
+
+## Trinn 3
+Hvis TV-en ikke er kompatibel må det benyttes en scartkabel for å se bilde på kanaler som er kodet med HDCP.  Trykk OK
+
+
+## Trinn 4
+For å teste på nytt, marker "Ok"  og trykk OK
+
+
+## Trinn 5
+Kanalen er kodet med HDCP. TV-en støtter ikke HDCP = Bruk scartkabel
+
+
+## Trinn 6
+HDCP er satt til AV. En kanal med HDCP er valgt og HDCP må settes på for å se bilde. Velg "På" med pil høyre/venstre
+
+
+## Trinn 7
+Trykk pil ned, marker "Ok" og trykk OK
+

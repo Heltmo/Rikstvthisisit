@@ -1,0 +1,30 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/strong-srt8910/info/abonnementsstatus/
+Tittel: Abonnementsstatus
+
+- Kundeservice
+- Godkjente mottakere
+- Strong SRT8910
+- 
+
+
+## Trinn 1
+Trykk Menu på fjernkontrollen for å åpne menyen. Trykk 4 eller velg "Installasjon". Trykk OK
+
+
+## Trinn 2
+Velg "Informasjon". Trykk OK
+
+
+## Trinn 3
+Velg "Smart kort". Trykk OK
+
+
+## Trinn 4
+Velg "Abonnementstatus". Trykk OK
+
+
+## Trinn 5
+Abonnementsstatussiden skal nå være åpen og se slik ut.
+
+Dato må vise inneværende måned. Dersom mottakeren ikke har vært i bruk på noen uker må den få oppdaterte tilgangsmeldinger som alltid ligger på luft. Bildet kommer automatisk innen 30 minutter. RiksPakken vil ha tegnene 01100002 under Kanalpakker.
+

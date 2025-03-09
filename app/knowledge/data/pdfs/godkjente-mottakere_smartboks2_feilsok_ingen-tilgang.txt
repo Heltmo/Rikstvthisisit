@@ -1,0 +1,30 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/smartboks2/feilsok/ingen-tilgang/
+Tittel: Ingen tilgang
+
+- Kundeservice
+- Godkjente mottakere
+- SMART-boks II
+- 
+
+
+## Ingen tilgang 4, 5 og 6
+Hvis du ser denne meldingen på skjermen din så skyldes det mest sannsynlig en av disse to årsakene:
+
+- Du har endret kanaler i Favoritter-pakken
+- Du har bestilt et Premium-abonnement
+- Du har gjenåpnet abonnementet ditt etter en frys
+
+
+## Ingen tilgang 8, 9 og 12
+Hvis du ser denne meldingen på skjermen din så skyldes det mest sannsynlig en av disse to årsakene:
+
+- Det er lenge siden utstyret ditt har vært i bruk
+- Du har akkurat installert RiksTV
+
+Andre årsaker kan også være:
+
+- Manglende betaling. Har abonnementet vært stoppet pga. manglende betaling, tar det 4 virkedager etter betaling før tilgangen kommer tilbake
+- Du mangler abonnement på gjeldende kanal. Ta kontakt med kundeservice
+- Det står feil RiksTV-programkort i mottakeren (gjelder kun SMART-boks I)
+- Du har gjort endringer på abonnementet ditt (kjøpt nytt utstyr eller kanalpakke)
+

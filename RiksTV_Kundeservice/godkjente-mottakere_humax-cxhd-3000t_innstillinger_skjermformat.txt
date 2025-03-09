@@ -1,0 +1,37 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/humax-cxhd-3000t/innstillinger/skjermformat/
+Tittel: Hvordan endre innstillingene for TV-format
+
+- Kundeservice
+- Godkjente mottakere
+- Humax CXHD-3000T
+- 
+
+
+## Trinn 1
+Trykk Menu på fjernkontrollen for å åpne menyen.
+
+
+## Trinn 2
+Velg "Systeminnstillinger". Trykk OK
+
+
+## Trinn 3
+Tast PIN-kode 1 2 3 4 (dette er standard fabrikkode/PIN-kode).Har du endret PIN-kode, skriver du selvsagt din egen.
+
+
+## Trinn 4
+Velg "TV-og lyd innstillinger". Trykk OK
+
+
+## Trinn 5
+Bruk piltastene venstre/høyre for å velge TV-format. Du kan velge mellom:
+
+- 16:9
+- 4:3
+
+I denne menyen kan du også forandre signalet på SCART-kabelen. RGB er det beste alternativet.
+
+Trykk OK på ønsket format.
+
+Trykk EXIT for å se TV.
+

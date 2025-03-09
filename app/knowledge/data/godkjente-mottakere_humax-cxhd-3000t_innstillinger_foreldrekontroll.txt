@@ -1,0 +1,42 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/humax-cxhd-3000t/innstillinger/foreldrekontroll/
+Tittel: Hvordan sette foreldrekontroll
+
+- Kundeservice
+- Godkjente mottakere
+- Humax CXHD-3000T
+- 
+
+
+## Trinn 1
+Trykk Menu på fjernkontrollen for å åpne menyen.
+
+
+## Trinn 1
+Marker ”Låsefunksjoner”.Trykk OK.
+
+
+## Trinn 2
+Tast inn PIN-kode 1234 (standard fabrikkode).
+
+
+## Trinn 3
+Skru på "Mottakerlås" med piltastene VENSTRE/HØYRE. Du vil da låse mottakeren slik at du må taste PIN-kode hver gang du skrur på mottakeren.
+
+
+## Trinn 4
+Under Aldersgrense kan du sette aldersgrense på programmene som skal vises uten PIN-kode. Hvis det kommer et program over grensen som er satt, så må PIN koden tastes inn for å få se programmet.Aldersnivået kan varieres trinnvis mellom 4 år og 18 år.Trykk OK for å bekrefte nivå.
+
+
+## Trinn 5
+I tillegg til å sette nivå, kan man låse enkeltkanaler. Ved å velge "PÅ" og deretter velge kanalene som skal låses, kan man sperre kanaler. Disse kanalene kan da kun sees ved å taste PIN-kode.
+
+
+## Trinn 6
+Huk av kanalene du ønsker å låse ved å markere dem og trykke på OK på fjernkontrollen.
+
+
+## Trinn 7
+Velg tidsrom som du ønsker at kanalen skal være låst. Enten "Hele dagen"eller mellom to tidspunkt.
+
+
+## Trinn 8

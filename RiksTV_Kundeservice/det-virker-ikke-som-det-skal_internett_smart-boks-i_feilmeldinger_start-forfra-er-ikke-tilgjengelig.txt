@@ -1,0 +1,25 @@
+URL: https://www.rikstv.no/kundeservice/det-virker-ikke-som-det-skal/internett/smart-boks-i/feilmeldinger/start-forfra-er-ikke-tilgjengelig/
+Tittel: Start forfra er ikke tilgjengelig
+
+- Kundeservice
+- Virker ikke
+- Internett
+- SMART-boks I
+- Jeg får feilmelding
+
+Funksjonen "start forfra" er avhengig at det er stabilt og godt nettverk inn til dekodern.
+
+Har du godt internett inn men likevel opplever denne feilmeldingen så anbefaler vi at følgende gjøres:
+
+- Trekk ut alle kablene fra dekoderen i 30 sekunder.
+- Sett inn strømkabelen og la dekodern få jobbe i 40 sekunder
+- Sett inn alle resterende kabeler.
+
+Dersom det fortsatt kommer samme beskjed så må du gjennomføre en fabrikkinnstilling, her ser du hvordan dette gjøres:
+
+- Fabrikkinnstilling
+
+
+### Har du fortsatt ikke fått løst ditt problem eller har andre spørsmål til oss?
+Ta kontakt med kundeservice og fortell at du har vært igjennom feilsøket først. Fint om du er i nærheten av utstyret ditt, så skal vi hjelpe deg med å finne en løsning.
+

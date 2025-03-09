@@ -1,0 +1,33 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/strong-srt8910/feilsok/ingen-adgang/
+Tittel: Ingen adgang
+
+- Kundeservice
+- Godkjente mottakere
+- Strong SRT8910
+- 
+
+Denne feilmeldingen vises dersom:
+
+- Mottakeren venter på oppdatering. (Lenge siden den var i bruk sist eller nytt kort).
+- Abonnementet gjelder ikke for valgt kanal.
+- Det står feil kort i mottakeren (det må være et programkort fra RiksTV).
+- Det står feil RiksTV-kort i mottakeren.
+- Det er feil mottaker.
+
+
+## Trinn 1
+Denne feilmeldingen vises dersom
+
+- Mottakeren venter på oppdatering. (Lenge siden den var i bruk sist eller nytt kort).
+- Abonnementet gjelder ikke for valgt kanal.
+- Det står feil kort i mottakeren (det må være et programkort fra RiksTV).
+- Det står feil RiksTV-programkort i mottakeren.
+- Det er feil mottaker.
+- 
+
+Løsning
+
+- Sjekk Abonnementsstatus. Har kortet mottatt oppdatering?
+- Dersom kortet ikke har vært i bruk siste 2-3 måneder må mottaker stå på i 30 minutter.
+- Kortet vil automatisk motta en tilgangsmelding.
+

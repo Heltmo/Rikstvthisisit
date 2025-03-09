@@ -1,0 +1,30 @@
+URL: https://www.rikstv.no/kundeservice/godkjente-mottakere/grundig8860/opptak/pvr-buffer-instilling/
+Tittel: Bufferinnstilling
+
+- Kundeservice
+- Godkjente mottakere
+- Grundig DTR8860 PVR
+- 
+
+Hvordan stille buffer funksjonen.
+
+
+## Trinn 1
+Trykk Menu på fjernkontrollen for å åpne menyen. Trykk 4 eller velg "Installasjon". Trykk OK
+
+
+## Trinn 2
+Trykk ”4” eller marker ”Dine valg”. Trykk OK.
+
+
+## Trinn 3
+Trykk "6" eller marker "Opptaksmuligheter". Trykk OK.
+
+
+## Trinn 4
+Opptak slutt - er standard "5 minutter etter". Velg "5 minutter etter", "10 minutter etter" eller "Eksakt tid".Dette valget bestemmer hvor mange minutter opptaket varer etter planlagt programslutt.
+
+Time-shift Buffer - er standard 1 time. Velg 1, 2 eller 3 timer.Dette valget bestemmer hvor lang buffertiden skal være.
+
+Har mottakeren stått på samme kanal kan man spole inntil 3 timer tilbake.
+
