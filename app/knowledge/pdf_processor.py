@@ -62,7 +62,17 @@ class PDFProcessor:
         try:
             all_documents = []
             
-            for filename in os.listdir(self.pdf_dir):
+            # Sjekk om mappen eksisterer og har filer
+            if not os.path.exists(self.pdf_dir):
+                logging.warning(f"Mappen {self.pdf_dir} eksisterer ikke")
+                return
+            
+            files = os.listdir(self.pdf_dir)
+            if not files:
+                logging.warning(f"Ingen filer funnet i {self.pdf_dir}")
+                return
+            
+            for filename in files:
                 if filename.endswith(('.pdf', '.txt')):
                     file_path = os.path.join(self.pdf_dir, filename)
                     documents = self.process_pdf(file_path)
@@ -101,7 +111,7 @@ class PDFProcessor:
                     "content": doc.page_content,
                     "source": doc.metadata["source"],
                     "page": doc.metadata["page"],
-                    "relevance_score": float(score)  # Fjernet np.float64 konvertering
+                    "relevance_score": float(score)  # Konverter direkte til float
                 })
             
             return formatted_results
@@ -114,16 +124,17 @@ class PDFProcessor:
         """Returner en oversikt over prosesserte dokumenter"""
         try:
             summary = {}
-            for filename in os.listdir(self.pdf_dir):
-                if filename.endswith(('.pdf', '.txt')):
-                    file_path = os.path.join(self.pdf_dir, filename)
-                    if filename.endswith('.pdf'):
-                        reader = PdfReader(file_path)
-                        summary[filename] = len(reader.pages)
-                    else:
-                        with open(file_path, 'r', encoding='utf-8') as f:
-                            lines = f.readlines()
-                            summary[filename] = len(lines)
+            if os.path.exists(self.pdf_dir):
+                for filename in os.listdir(self.pdf_dir):
+                    if filename.endswith(('.pdf', '.txt')):
+                        file_path = os.path.join(self.pdf_dir, filename)
+                        if filename.endswith('.pdf'):
+                            reader = PdfReader(file_path)
+                            summary[filename] = len(reader.pages)
+                        else:
+                            with open(file_path, 'r', encoding='utf-8') as f:
+                                lines = f.readlines()
+                                summary[filename] = len(lines)
             return summary
         except Exception as e:
             logging.error(f"Feil ved generering av dokumentoversikt: {str(e)}")
