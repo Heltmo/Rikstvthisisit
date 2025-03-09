@@ -1,0 +1,39 @@
+# RiksTV Brukermanual
+
+## 1. Installasjon og Oppsett
+- Koble dekoderen til TV-en med HDMI-kabel
+- Koble antennekabelen til dekoderen
+- Koble strømkabelen til dekoderen
+- Følg oppstartsveiviseren på skjermen
+
+## 2. Vanlige Problemer og Løsninger
+
+### 2.1 Signalproblemer
+- Sjekk at antennekabelen er ordentlig tilkoblet
+- Kontroller signalstyrken i meny > innstillinger > signal
+- Prøv å flytte antennen for bedre mottak
+- Ved dårlig vær kan signalet være svakere
+
+### 2.2 Dekoder Problemer
+- Start dekoderen på nytt ved å trekke ut strømmen i 30 sekunder
+- Sjekk at HDMI-kabelen er ordentlig tilkoblet
+- Velg riktig HDMI-inngang på TV-en
+- Oppdater programvaren via meny > innstillinger > programvare
+
+### 2.3 Kanaler og Programpakker
+- Kjør kanalsøk via meny > innstillinger > kanalsøk
+- Sjekk at du har riktig kanalpakke på Min Side
+- Vent 15 minutter etter kanalendringer
+- Kontakt kundeservice ved manglende tilgang
+
+## 3. Vedlikehold og Tips
+- Rengjør dekoderen regelmessig med en tørr klut
+- Hold dekoderen ventilert og unngå å dekke til luftehull
+- Oppdater programvaren når nye versjoner er tilgjengelige
+- Ta backup av favorittkanaler og innstillinger
+
+## 4. Kontaktinformasjon
+- Kundeservice telefon: XXX XX XXX
+- E-post: support@rikstv.no
+- Åpningstider: Man-Fre 08-20, Lør-Søn 10-16
+- Nettside: www.rikstv.no/kundeservice 

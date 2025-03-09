@@ -1,0 +1,39 @@
+RiksTV Feilsøkingsguide
+
+VANLIGE PROBLEMER OG LØSNINGER
+
+1. SORT SKJERM
+Hvis du opplever sort skjerm, følg disse trinnene:
+- Sjekk at TV-en er stilt inn på riktig HDMI-inngang
+- Kontroller at alle kabler er koblet riktig
+- Restart dekoderen ved å trekke ut strømkabelen i 30 sekunder
+
+2. PIXELERT BILDE
+Ved hakking eller pixelering:
+- Sjekk signalstyrken i dekodermeny
+- Kontroller at antennen er riktig montert
+- Se etter hindringer mellom antenne og signaltårn
+
+3. KANALPROBLEMER
+Hvis kanaler mangler:
+- Gå til Meny > Innstillinger > Kanalsøk
+- Vent til søket er fullført (ca. 5-10 minutter)
+- Kontroller at du har riktig TV-pakke
+
+4. FJERNKONTROLL FUNGERER IKKE
+Problemer med fjernkontrollen:
+- Bytt batterier
+- Hold inne Meny + OK i 10 sekunder for nullstilling
+- Sjekk at det ikke er hindringer mellom fjernkontroll og dekoder
+
+5. STREAMING-PROBLEMER
+For problemer med RiksTV-appen:
+- Sjekk internettforbindelsen
+- Logg ut og inn igjen av appen
+- Oppdater appen til nyeste versjon
+
+KONTAKT KUNDESERVICE
+Ring 23 68 86 30 for ytterligere hjelp.
+Åpningstider:
+Mandag-fredag: 08:00-20:00
+Lørdag: 10:00-16:00 

@@ -1,0 +1,82 @@
+{
+    "tv_pakker": {
+        "basis": {
+            "navn": "RiksTV Basis",
+            "beskrivelse": "Grunnpakken med de mest populære norske kanalene",
+            "kanaler": ["NRK1", "NRK2", "TV2", "TVNorge", "TV3"],
+            "pris": "299 kr/mnd",
+            "bindingstid": "12 måneder"
+        },
+        "standard": {
+            "navn": "RiksTV Standard",
+            "beskrivelse": "Vårt mest populære abonnement med flere underholdningskanaler",
+            "kanaler": ["NRK1", "NRK2", "TV2", "TVNorge", "TV3", "Discovery", "National Geographic"],
+            "pris": "399 kr/mnd",
+            "bindingstid": "12 måneder"
+        },
+        "premium": {
+            "navn": "RiksTV Premium",
+            "beskrivelse": "Full pakke med sport, film og underholdning",
+            "kanaler": ["Alle kanaler i Standard", "TV2 Sport", "Viasat Sport", "HBO"],
+            "pris": "599 kr/mnd",
+            "bindingstid": "12 måneder"
+        }
+    },
+    "dekodere": {
+        "standard_dekoder": {
+            "navn": "RiksTV Standard Dekoder",
+            "beskrivelse": "Vår standarddekoder for digital-TV",
+            "funksjoner": [
+                "HD-kvalitet",
+                "Pause og spol",
+                "Programguide",
+                "Automatiske oppdateringer"
+            ],
+            "pris": "1499 kr",
+            "garanti": "2 år"
+        },
+        "premium_dekoder": {
+            "navn": "RiksTV Premium Dekoder",
+            "beskrivelse": "Avansert dekoder med opptak og streaming",
+            "funksjoner": [
+                "4K-støtte",
+                "500GB harddisk",
+                "Streaming",
+                "Pause, spol og opptak",
+                "Wifi-integrert"
+            ],
+            "pris": "2499 kr",
+            "garanti": "2 år"
+        }
+    },
+    "strømmetjenester": {
+        "rikstv_strøm": {
+            "navn": "RiksTV Strøm",
+            "beskrivelse": "Se TV hvor som helst",
+            "funksjoner": [
+                "Se på mobil og nettbrett",
+                "Last ned innhold",
+                "Start forfra",
+                "Ukebegrenset opptak"
+            ],
+            "inkludert": "Inkludert i alle TV-pakker",
+            "enheter": "Inntil 5 enheter"
+        }
+    },
+    "tilleggstjenester": {
+        "filmleie": {
+            "navn": "RiksTV Filmleie",
+            "beskrivelse": "Lei de nyeste filmene",
+            "priser": {
+                "nye_filmer": "fra 49 kr",
+                "klassikere": "fra 29 kr"
+            },
+            "tilgjengelighet": "24 timer etter leie"
+        },
+        "ekstrakanaler": {
+            "navn": "Ekstrakanaler",
+            "beskrivelse": "Legg til enkeltkanaler i din pakke",
+            "priser": "fra 39 kr/mnd per kanal"
+        }
+    }
+} 
